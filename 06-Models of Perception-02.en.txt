@@ -1,0 +1,1132 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+hello we're back again with this session
+on perception now in the last session we
+looked at some models of bottom-up
+processing where we define perception
+through a data-driven process so
+bottom-up processes actually help in
+perception or predict perception by
+looking at how perception gets built
+from stimulus single stabilized and
+addition of the single stabilized gives
+rise to the perception another modular
+perception which is prevalent in
+cognitive psychology is the top-down
+model of perception now at the beginning
+of this lecture I gave you the
+difference between what is the top-down
+and the bottom-up process of perception
+the turbulent process is a theory
+deviant process where expectations of
+people generate perception whereas the
+bottom-up process is a data-driven
+process where characteristics of the
+stimuli certain features of the stimuli
+lead to whatever perception we are
+looking for or whatever percept or the
+meaning that we are generating from the
+stimulus which is coming from sensation
+so let's begin a study of the top-down
+processes of perception the top-down
+process of perception also are also
+called the theory driven or conceptually
+driven process of perceptions here
+expectations of the perceiver is the
+main responsible feature for the
+development of meaning or the
+development of percept from the
+sensations
+chapathis turn through the visual system
+so the whole process of perception right
+from the meaning of the percept to
+pattern recognition has on the back side
+or on behind these processes the
+expectation of the viewer look at this
+le way the same thing that we saw in
+model R in the first model of bottom-up
+processing now they're the explanation
+of this visual scene was given in terms
+of the structure of the le way in terms
+of the shading the light which is
+falling on this le way the kind of
+windows it has the kind of background it
+has and all those features combined
+together gave a meaning of what this
+picture depicted in the top-down process
+we again look at the same elevate and we
+try to explain the meaning that is
+generated through the top-down process
+to things that are evident that are
+really the main frame or the backbone of
+the top-down process is the expectancy
+effect and the context effect so
+basically the context effect the effect
+of context in which a perception is is
+made and the expectancy of the viewer
+are responsible for the top-down process
+so coming back to the explanation of
+this visual scene using the top-down
+process this visual scene is explained
+in terms of memory or in in terms of the
+idea that people would have viewed a
+structure similar to this or maybe this
+particular structures on there so
+basically in terms of in in terms of the
+top-down process the experience that are
+this is an archway with margulies comes
+from the fact that you expect
+certain kind of certain kind of visual
+features a certain kind of objects in
+the visual field based on your memory
+based on your previous experience with
+visual scene like this which you have
+seen in the real world as I said the two
+factors which the bottom-up process
+cannot explain in terms of perception
+are expectancy effect in context effect
+let's look at context effect let's look
+at the figure on the top as you can see
+if I ask you the question whether the
+size of the middle ball the ball or the
+circle at the middle of what the figures
+are the same and most people would
+actually get up with this answer that
+they are not same but amazingly the size
+of both the balls are both the circles
+which are in the middle of the black
+circle is same the reason being that the
+one on the Left has bigger balls and in
+the context of that it appears the
+circle in the middle is smaller in size
+whereas it is not and on the right since
+he has smaller balls surrounding the
+circle it seems to be different and so
+context where an object is in the
+environment has a lot to do with
+perception similarly the figure on your
+right if I show this figure most people
+would go ahead and read this figure and
+the actual meaning of this figure would
+be wonders of perception now amazingly
+word wonders of perception is not clear
+but what really happens is the brain
+sees that or from your past experiences
+you see that this is the most plausible
+this is the most plausible answer which
+is out there and so one does the
+perception is being is being interpreted
+because you expect the brain expects and
+and the brain sees this this particular
+idea that it should be wonders of
+perception also since this is a class of
+perception so we do see the bottom half
+of this figure to be meaning perception
+because the context in which we are
+studying is perception and so
+should be wonders the perception and so
+these are the two figures are these are
+two examples of how perception
+progresses or meaning of perception is
+done through the top-down model the
+context in which a pattern or object
+appears apparently sets up certain
+expectations in the perceiver as to what
+objects will occur know both accuracy
+and the length of time needed to
+recognize an object vary with the
+context so the more complex the context
+the more time it will require for
+somebody to go ahead and make the
+meaning of the perception now elegant
+and computational model of top-down
+process of perception was given by David
+Marr now what this Mars theory or mass
+idea is that the model of perception
+proceeds Bekins perception proceeds by
+constructing mental representations or
+mental schemas no perception Mars
+beliefs is a special-purpose
+computational mechanism which progresses
+through certain modules and these
+modules are the module for analyzing
+color the module for analyzing motion
+the module for analyzing shading and
+this part of the theory or this part of
+his idea is the bottom-up process he
+further says that with these modules the
+modules for basic information about the
+stimulus combines with the module for
+expectancy and context and that
+generates perception so in in brief
+Davis Marr model is basically a model
+which combines both bottom-up and
+top-down processes to explain perception
+what David Marr believes that visual
+perception is are actually mental
+representation or mental sketches based
+on three kind of representations which
+exists within the observer within the
+person who's perceiving now there are
+three steps to it there are three
+different steps to it when you perceive
+something when somebody sub peers
+perceive something the first step takes
+place and this is called a perceptual or
+the primal sketch
+in the primal sketch depicts our from
+eight from the final sketch one can get
+information related to the relative
+brightness and darkness to the images
+localized geometric structures and
+boundary conditions so this kind of a
+basic information is related to the
+two-dimensional world related to the
+basic brightness and darkness and
+geometrical structures as what what is
+gathered up from the primal sketch so
+according to Davis math model perception
+progresses through a complete through a
+list of steps even the first step the
+primal sketch is made and this primal
+sketch is actually a two dimensional
+model or a two dimensional percept which
+has information on to it relate relating
+to brightnesses and darkness and
+geometric structures now once an which
+which basically helps people in
+detecting boundaries between objects and
+figures within figures and backgrounds
+now once the primary sketch or the
+primal sketch is ready the next step is
+constructing a to an Hardy sketch now in
+the two and a half D sketch using cues
+from the environment again so both step
+one the primal sketch and two and a half
+D sketch are actually the bottom-up
+processes of perception or the bottom a
+part of perception which this model goes
+ahead and explains so the first two
+steps actually uses the data from the
+stimuli so into an hearty sketch what
+really happens is that shading in
+texture and other information for
+example surfaces and relative depth are
+gathered from the environment or from
+the environmental cues onto the percept
+and that gives an idea about where the
+object is in the environment where the
+localization of the object and and the
+kind of object it seems to be so the
+first to step in Mars mass's theory of
+perception are bottom-up process once a
+two and a half D sketch is made at the
+point when this sketch is complete
+viewers
+have an idea of where the object is what
+does it look like what are the basic
+features of this object what are the
+basic characteristics like the color the
+shape the shading the boundaries the
+brightness the darkness those kind of
+informations get available to the visual
+processing area once these two steps are
+complete a third and final step called
+the final 3d sketch is produced where
+recognition of an object is made in
+terms of the in in terms of the context
+and expectation here the meaning of the
+visual scheme and the recognition of
+object is made and this happens through
+a top-down process
+so basically Mars model combines both
+the top-down process and the bottom-up
+process for making any kind of percept
+and in very simple words what his model
+suggests is during the primal sketch and
+a two and half D Sketch information
+relating to stimuli from basic 2d
+information to some sort of two and a
+half the information which is related to
+shading localization of object in the
+world
+depth perception relative depths are
+gathered in the final step of his
+process which is a top-down process
+which is a top-down method what really
+happens is that viewers expectation and
+memory come into play and leads people
+to perceive to make a final percept to
+make a final recognition of out of the
+object in front of him of other object
+is and this information is derived from
+memory now some examples of how this
+top-down process really works I'm going
+to relate now one of the best examples
+of or one of the best example of the
+top-down process is something called
+perceptual learn if you look at the
+figure on the right side when you look
+it for the first time you won't be able
+to see anything but as you move along as
+you go ahead and see it time after time
+for multiple times what starts to emerge
+is a figure of a person and
+happens because as you keep on seeing it
+a number of times some meaning is
+generated out of it
+so what perceptual learning really means
+is that perception changes with practice
+as as we go on practicing as we go ahead
+and practice a lot what really happens
+is that we are able to generate
+perception now very recent experiment
+was done by Gibson to prove perceptual
+learning what Gibson really did was he
+did an experiment a very simple
+experiment in which a coil like this was
+given to subjects this kind of coil was
+shown to subjects what subjects were
+required to do is to remember this later
+on subjects are shown for different
+coils of this type but these have
+different orientations so this kind of
+coils so this is my basic coil and these
+coils which differ from the basic coil
+in some or the other way in terms of
+orientations in the term of number of
+coils in the term of where the starting
+point is were shown to people later and
+and they were asked to report whether
+these four coils how many of these four
+coils actually matched the basic white
+later on a number of different coils
+with different different orientations
+were shown two subjects
+and they were asked and within this this
+whole picture was hidden for different
+four versions of the initial basic point
+and subjects were asked to reproduce how
+many times times did they actually go
+how many copies of the original coil was
+available now it was seen as that with
+number of practices that the increase in
+the number of practices subject starts
+making less and less error and when
+feedback was taken from subject what
+happened is most subjects related to the
+fact that as they kept on practicing as
+they kept on seeing the basic coil and
+practicing it they started learning that
+all started observing those features of
+the stimulus which they didn't see it at
+the time at the first time so as they
+came familiar became familiar with the
+subjects more and more they started
+noticing parts of the stimulus which
+they had not noticed on the first advent
+and then the first interaction with the
+stimulus so this is an interesting
+feature or this is an interesting I'd
+say an example of top-down process where
+what happens is that the more number of
+times you interact with something the
+more features you'd see and the your
+expectations are developed accordingly
+and more easier the learning becomes
+another interesting thing or another
+interesting example of top-down process
+of learning of perceptual learning is
+something called change blindness now it
+is the inability to detect changes in
+objects or seen especially when given
+different views of that object
+so basically if something is shown to
+you and many versions are many different
+versions of this particular object is
+shown to you from different different
+angles people are not able to they take
+this gene and this is what is called
+change blindness now look at the figure
+which is on your left and you would see
+that one of the person right here
+changes but if I don't tell you this
+that this is going to change you will
+not be able to
+similarly if you look at the figure here
+what happens is the person at the back
+of the back of the screen will change
+but if I don't advise you or if I don't
+give you this clue that is going to
+change if you don't expect it it's not
+going to change now change blindness is
+a direct example is one of the best
+example to show that the brain sees what
+it wants to see an expectation place a
+lot of role into into perception we have
+seen a lot of movies and so what really
+happens is that often you would have
+found that in movies there are scenes
+which are inconsistent with the movie
+and no matter how many times the editor
+cuts it so there are parts of the movies
+we still remain but most people do not
+see these deviations in the scene these
+deviations in the movie example in one
+movie in one scene there was a white was
+and in in in a next scene the wasps
+disappeared and this was quite quite
+funny but the thing is that this was
+this particular thing was not edited I
+mean there was got away or the what
+waswas not sewn in the second scene
+whereas the third scene the wash
+reappeared and so somehow the editor who
+was reading the movie forgot this and
+people since when they were watching the
+movie they were actually worth watching
+the gist of the movie so they they had
+in a certain expectation and since this
+was which was there in front of them it
+was not in their expectation or they
+were not expecting it or they didn't see
+that much so they couldn't notice this
+change and so change blindness is
+another interesting feature of the
+top-down process another interesting
+example of the top-down process is
+something called the word security
+effect look at the word which is given
+to you on the right what is this word it
+seems like the word is wo RR but it is
+not as most people if I give
+- right those people who know the
+English and most people who are literate
+if I give them they'll say it is wo RK
+now since this part that you are seeing
+is covered by a black spot and so
+expectation believes that since wo RR is
+no word and people will not go ahead and
+write and so this is since I'm talking
+about word security this has to be a
+word and it has to be work and so that
+that is another interesting phenomena
+what security effect is another
+interesting phenomena which suggests or
+supports the idea that top-down
+processes of perception exist
+now interesting experiment was done to
+test word security effect so here what
+happened is people were shown interface
+like this
+in which the letter K or D was presented
+to them for very brief periods of time
+and later on they were tested the letter
+K and D was presented to them and they
+were tested in the sense that whether or
+in which context
+do they
+are they able to unto identify this KND
+so the experiment ran in this way
+initially they were letter K or D was
+present to people for a very brief
+period of time later on they were shown
+this kind of three different segments in
+which in the first segment the blank
+side was represented and in the slide
+there were a single letter K or D
+written on it and people were asked to
+recall back whether K or D was presented
+in the second case a word was written a
+part of the word for example the blue or
+was eaten and this D or K was presented
+to people and they were asked to report
+that whether D or K the whether D or K
+was presented in the initial design and
+later on unknown word was presented to
+them and it was asked whether the D or K
+occurred in my presentation slide and
+interestingly it was found out that when
+this D or K was presented in the context
+of a word it was produced or more less
+number of errors are generated by
+participants which means that in the
+context of a word perception is easy
+another interesting feature or example
+of what security if effect or top-down
+processes of perception is something
+called the connectivist model of word
+perception now what this model says is
+that first the perception of word
+actually goes through or progresses
+through several stages whether it is
+word or whether it is a sound which is
+perceived the perception happens to
+several stages and these stages can be
+either excitatory or inhibitory for
+example what perception starts at the
+level of features where at the first
+step the features of the word for
+example whether it is a curved line
+whether it is a slanted line whether it
+is a dashed line a circle is presented
+at or is part of the word is first
+perceived and from here from the
+level it goes to the little or the level
+of letters here these features are
+combined together to form individual
+letters for example ACK and so on and so
+forth and at a higher level there is a
+word level where the actual word is
+basically being presented so this kind
+of perception really takes place now
+what is the what is the reason or what
+is the meaning of all this it basically
+says that from the feature level to the
+letter level a lesser number of
+connections are there whereas from the
+letter level to the word level more
+number of Corrections are there and so
+what really happens is if the perception
+happens of the word level it's easier
+for people to perceive letters it are
+then when it is at the level of features
+what really it says is that perception
+of a word the activation of relevant
+node for a word activates the node
+correspond to the letter within the word
+thereby facilitating their perception so
+for example if it is able that I'm
+looking at if a word is able that I have
+to see what happens is this kind of
+connections start this kind of this is
+the feature level so the first
+identification of first perception is
+the bottom of process process this
+starts at this level and from there this
+is called the letter level here this is
+integrated together so for example if I
+am looking for a the word a which is not
+present here so ble is presented to you
+a is not presented and if I am looking
+at whether a a is presented or a it
+should be the word here or not and if a
+is presented to you what really happens
+is that these all these features are
+evaluated now since a doesn't has this
+feature so this connection from here to
+here is an average reconnection whereas
+since this is present in a this is an
+excitatory connections and so since
+these with these many features a number
+of letters can actually be generated for
+example a and T GC and so what happens
+is for each of it we will have an
+excitatory or inhibitory connections so
+those connections
+which suggests that this is the part of
+the word that you're looking at or part
+of the feature of the word that you're
+looking at is is is present will be
+excitatory connections in part of the
+word which is not for example this is
+something which is not present in a and
+so these connections from here will be
+inhibitory similarly from these letters
+the on on this word so if a is not
+present a is the most apt answer here
+example n ble is not a word and so a is
+the most possible answer T ble is
+another no word and so T is not a fit
+here G ble is no word and so G is not
+fit here and SB le is another no word
+so basically the only word which is
+available in this case is a and so a is
+the only perception which happens and so
+this happens to expectation so at this
+level the first if the perception
+happens from this level it is generally
+a top-down process and if the perception
+happens from this level of it is
+generally the bottom-up process and so
+what mainly top-down process suggests is
+that it is not only the stimulus
+features of the words that helps us in
+perception the word perception progress
+is not only through basic features of
+the word it also progresses through
+something called the level of
+expectation that is why when we actually
+lead in terms of reading when we are
+eating something even if some word or
+meaning of word is not clear to us based
+on the context on where the word is we
+generate the meaning and we are able to
+understand the meaning of the sentence
+and so this is this is an expectancy
+effect where what happens is the context
+in which the word is presented where it
+appears gives us a meaning of that word
+or some Greek meaning of this word so
+this is the top-down process of
+perception where what we actually looked
+at those features of the word are those
+parts of the word where where perception
+happens through people's expectation and
+context effect in what context award is
+presented what is the expectation of
+people that helps us in
+the overall perception another
+interesting theory which was given or
+which was proposed by someone called JJ
+Gibson is called direct perception now
+it is an interesting theory of
+perception which says that the user
+doesn't have to do anything
+for perception remember most of her idea
+of perception starts with the fact that
+the user or the perceiver gets
+information from the distal stimulus
+does something on the proximal stimulus
+generates a percept and dependent on the
+motivations or dependent on the
+expectations and context this percept is
+assigned a meaning which means that in
+this case up till now the theory
+suggests that the user does something on
+to the incoming stimulus and based on
+that a meaning is generated contrary to
+this view a theory of perception was
+presented by JJ Gibson which is called
+the theory of direct perception what
+does the theory say this theory
+basically goes ahead and says that the
+world has a lot of information and we do
+not need to do anything to that
+information for perception to progress
+so in in a way what Gigi Gibson goes
+ahead this says is that perception is a
+direct process and the environment that
+we are in the environment that we are
+perceiving has enough information onto
+it enough information onto the onto the
+proximal stimulus which is falling on
+the retina so the proximal stimulus
+which is part of the distal stimulus
+which is falling on the retina has so
+much information and the user has to
+to actually go ahead and perceive he
+doesn't have to make a per second
+doesn't has to use context effect it
+does it has to use some kind of a
+building a process using or using Mars
+method Mars theory of perception but the
+environment on its own the user can sit
+back and relax the environment provides
+enough information for perception to
+progress so the top-down process and
+bottom-up process of perception believes
+that the perceiver does something to the
+proximal stimulus for perception to
+proceed and so it is called the
+constructivist approach it describes
+people as adding to and distorting the
+information in the proximal stimulus to
+obtain a person so what the user does is
+adds or subtracts information from the
+proximal stimulus to generate a percept
+which later on through the process of
+what I'm talkin combine gives up the
+meaning Gibson adopted an opposite view
+to this to the connectivist approach and
+gave up his idea of something called
+direct perception his Gibson believes
+that the perceiver as I said has nothing
+to do or very little to doing perception
+according to this view the light hitting
+on the retina contains highly organized
+information and the information that is
+falling onto the eye onto the retina is
+is is so great or is has so much
+information or has so much bits of
+information that the observer is not
+required to do anything not to prove
+whether Gibson was right whether
+observer doesn't require to do anything
+or another observer doesn't require any
+kind of interpretation or any kind of
+work on to the proximal stimulus to
+generate the percept an experiment was
+done to to prove this and this
+experiment was done by someone called
+Johnson in 1973 so Johnson
+1973 he did an experiment he did an
+experiment with light bulbs what was the
+experiment so what he did what Johnson
+really did was that he attached
+lightbulbs to actors and so these actors
+actually wore the light bulb so these
+are two actors and they have light was
+attached to them and so they are in two
+different configuration can assume that
+these are light balls and so when an
+experiment like this was done these
+actors were actually taken into a dark
+room and in this dark room these actors
+were asked to do several pose poses and
+take several process do several acts the
+observers who are observing this
+particular people or these actors who
+were wearing light bulb shirts and from
+just from the way they acted just from
+the movement of the light bulbs they
+were able to perceive or they were able
+to generate meaning or tell exactly what
+was going on what was the act in doing
+this was not the only amazing fact about
+it what actors could also tell or what
+observers could also tell from the
+actors who were acting was whether this
+actors were males and females and kind
+of other specific stimulus it basically
+means that with very least information
+available from the environment with not
+building any information actors by just
+looking at observers by just looking at
+the actors acting or displaying certain
+forms or displaying certain acts they
+were able not only detect who the actors
+were or what are the act they were doing
+but also the gender of the actor the
+kind of
+act they were doing the kind of movement
+that they were doing and several other
+features of it and so this particular
+experiment really proved that we really
+do not need a lot of information
+processing for perception to takes place
+but there isn't Cavett to the Gipson
+entity it's not always correct the
+explanation which has been provided is
+that the bottom-up and top-down
+processes actually allow cognitive
+structures to see what the perception is
+whereas the Gibson in view actually
+tells you to act in certain ways to
+adapt that information and act in
+certain ways so this is the difference
+between the Gibson in view and the view
+of the bottom-up and top-down processes
+so basically what Gibson design or
+Gibson Theory comes up and says that he
+developed the Gibson developed his
+theory of direct perception when he was
+training World War two pilots and what
+he realized or he gave the concept of
+optic flow if you look at the stimulus
+here
+what he did was and I mean a number of
+experiments with pilots who were taking
+training or who were going ahead and
+landing planes what Gibson explained
+that the pilot when he sees information
+when he sees out of his windshield he
+gets enough information from the
+environment which is approaching him the
+texture the structure the kind of
+movement which is there the ground
+movement the ground color all these
+information was enough for to tell the
+pilot of how to land the plane and so
+what Gibson proposed is that the idea of
+something called optic flows or visual
+arrays and as you can see here this is a
+pilot who's landing and when he's
+landing just before landing he sees all
+this information about texture structure
+kind of relative speed for example
+things which are closer to the pilot
+will move at higher speeds than the then
+things which are far away and these kind
+of informations which the pilot gets is
+enough for him to land the plane he
+should not be or he need not be
+concentrating on information which is
+really providing by his
+display system and so that is where he
+gave this idea of optic flow there so
+the arrow in this particular thing
+represent perceived movement the parent
+motion of clouds ground a sec traffic
+respect to the pilot now there is a
+texture of the motion namely near as
+things will appear faster and and
+directions in which object seems to move
+upward opposite depends on the angle of
+plane and movement and so this
+particular example was one of the best
+example which gives some use to propose
+the idea that there is something called
+direct perception the observer doesn't
+need too much information the observer
+doesn't need to work on the information
+which is being which is being presented
+to him the environment presents a lot of
+information to him and that information
+the object the observer only has to
+understand that information not even
+make meaning out of it and just follow
+that information and that is what
+Gibson's idea of perception direct
+perception was was there so what Gibson
+says is that the information that is
+available from the environment for the
+observer exists in an animal environment
+ecosystem so basically the environment
+process provides some information to the
+animal and the animal provides certain
+kind of cognitive structures or selects
+which information from the environment
+to take to take and based on these two
+kinds of interactions the perception
+progresses so the animal decides the
+animal only has to decide what
+information to take from the environment
+and this decision process is the core of
+perception whereas the environment on
+its own can provide a lot of information
+and this decision process is the main
+key to act actually any kind of
+perception according to Gibson Yin views
+now for Gibson the central question of
+perception is not how we make an
+interpreter stimulus array but how we
+see and navigate among real things so
+it's what Gibson believes is it's all
+about functions is not important to
+study in terms of perception of how and
+what we interpret from stimulus
+what a particular stimulus really means
+that's not important what really
+important is is known that an object is
+there how do we navigate through it so
+navigation in the environment is more
+important than having any percept then
+realizing or then understanding what the
+percept really means so the basic idea
+of Gibson in view is to understand what
+the environment how to navigate the
+environment rather than knowing what the
+environment has now important idea of
+Gibson in theory is the information
+available in an organism exists not
+merely in the environment but in the nmi
+environment in an animal ecosystem as I
+was just explaining to you what really
+happens is that the job of the animal
+here the job of the person who is
+perceiving here is to decide what to
+take in from the percept which is
+available what he has to do is that the
+environment gives enough of information
+to the person the person only has to
+decide what information to take and what
+information not to take and concept
+which is related to Gibson in theory or
+the gift running idea of perception is
+the concept of affordance now what
+really it means is that organisms
+directly perceived shape or whole object
+and then objects gives have something
+called an affordance now what are
+affordance really means is that an
+object which you are perceiving it
+directs you to do certain act on it and
+that is called an affordance
+for example think of a chair now when
+you look at a chair or when you think of
+a chair the idea that the chair gives to
+you the affordance that the chair gives
+to you is sitting similarly if you look
+at a button a light button now a light
+button gives you the affordance to be
+player to be pressed down or looking at
+if you have printers at home and if you
+think about the printers power button
+the red light the green light which is
+on it is off when it is off when you
+press it it gives you the affordance to
+be press down similarly doors handle or
+the handle of glass doors
+affordances or tell you what to do for
+example if I have a handle like this it
+gives you the affordance to put your
+palm on to it and push whereas if I have
+a handle like this it gives the
+affordance to to basically hold it and
+pull it towards yourself because this
+requires you to wrapping your hand here
+whereas this requires you to push it
+with this hand now I think this is a
+little bit confuse or people people
+confuse with this kind of affordances or
+affordances is what an object requires
+or desires to be done so basically here
+the definition is given as affordances
+are the acts or behaviors permitted by
+an object place or even for example
+donuts to tell you two there is a round
+or nap so it it the doorknob tells you
+to grab it and to turn it down
+similarly the affordance of a chair for
+sitting or any other affordances of a
+light ball to push through pushing or
+light switches to be pushing it down or
+affordances of door handles to be either
+pulled or pushed and these are what
+affordances are and so what
+Gibson says is that objects in itself
+affordances objects have affordances and
+these affordances guide people's
+behavior or what should be done and what
+should not be done now the obvious
+question is on one hand we have gifts
+only in view and on the other hand we
+have the bottom-up and top-down the
+classic culpers approaches to perception
+so is there a merger between them how
+can this theory coexist what is the way
+in which these theories can co-exist and
+so a model was proposed by nicer in the
+year 1976 which takes care of both the
+theories which in which which adds up
+both the theories to develop the final
+percept and this history is called the
+perceptual cycle
+now what this theory or what this
+approach goes ahead and tells is that
+this perceptual cycle says there are the
+integration of the get run in view and
+the view of the classical approach to
+perception combines to this way for
+example the information of the world is
+here and this is modified by cognitive
+structures through perception that
+forwards or directs exploration in
+certain way and this will further
+suggest what should be taken from the
+environment or sample from the
+environment so what does this theory
+really say it says that the information
+of the world whatever information
+perceptual information is available into
+this world that is modified or that is
+being perceived or that gets perceived
+perceived through a classical approach
+of perception using different cognitive
+structures so the visual cognitive
+structures of perception rigid
+structures of attention these structures
+or higher-order structures leads to
+perception either using the bottom of
+the bottom-up or top-down approach it
+leads to perception it leads to the
+generation of the percept when the
+percept is generated this percept leads
+us to explore the environment to explore
+to do certain acts when we do certain
+acts when we do a particular act based
+on the perception we present a behavior
+we do a behavior they commit a behavior
+and when I come behavior is there we
+explore this exploration tells us what
+is possible and what is not possible
+once a behavior is done it directs which
+type of behavior or which type of
+actions can be done through the percept
+so if I perceive something what that
+particular thing when when behaving with
+it what particular thing information
+what behavior is allowed and what
+behavior is now
+and once we know what behavior is a lot
+in what we were is not we feel this
+again to the environment and from there
+it again gets modified in this way so
+basically information from the world is
+actually gets modified and generates a
+percept which is later on this percept
+is tested in the environment in terms of
+whether what behaviors are possible on
+this percept what behaviors can disperse
+percept generates and which of this
+behavior allowable or not those behavior
+which is allowable gets added up into
+the information in the world of a
+particular thing and whatever behavior
+is not allowed is deleted here or is not
+added and that information is also added
+for example think of a tea cup know the
+kind of a tea cup if you have there are
+certain behaviors which is allowable
+when we see it we see a tea cup and so
+when we are looking at a tea cup then it
+there is a certain orientation with it
+and there are certain feature that it
+allows example a lousy 50 to drink tea
+but if we try to do something else with
+it by moving the Gion in certain way
+that is not allowed in certain behaviors
+for example drinking is a behavior which
+is allowed and other behaviors are using
+this as something else or using this for
+looking at things or doing something
+else with it the behaviors are not
+allowed and that is fed in environment
+and based on that our perception is
+improve or enrich so the next time we
+deal with this cup or this kind of a
+percept we know what is to be done and
+what is to be not done and the
+perception then becomes automatic the
+whole of this perceptual processes is
+done so as to make this whole idea of
+perception automatic so that something
+something what what is allowable is
+accepted and what is not allowable is
+not accepted and it goes into memory so
+that a next time a new instance of this
+behavior a new instance of this percept
+is generated it doesn't take that much
+time for perception
+so basically perception in this section
+of perception we looked at we started
+with the classical approach where we
+looked at some classical theories the
+gestalt ideas of how what
+perceptual organization is and how this
+perceptual organization really works
+what is the figure background concept
+and how the figure and background
+decides how what should what is to be
+Percy what information is to be
+generated and what is information is to
+be left behind
+no this idea was added on to some models
+or added on to this there's some models
+of perception we started up in the in
+the next lecture on some models of
+top-down processing we're sorry'
+bottom-up processing where we looked at
+models of template matching prototype
+matching and so these models actually
+showed how perception progress through a
+data different data-driven approach in
+which we look at basic stimulus features
+is take this feature combine them
+together and once we have combined all
+these features together how does the
+percept they will have out of it in this
+particular lecture we looked at another
+approach of perception in which the
+data-driven approach is supported by
+something called the theory divin
+approach so perception is not only
+taking in data from the environment
+combining together and generating a
+percept this perception process is also
+held or is also influenced by something
+called the expectation in and something
+called the the context in which a
+particular object is present and so
+context and expectation adds on to the
+data-driven approach to give you the
+final perception for example if you look
+at something which is new which you have
+not looked before a part of information
+which is coming to you you will look at
+its shading you will look at the kind of
+brightness the figure and all those
+basic informations plus you will also
+look at your memory to look at to
+understand what is this particular thing
+and based on that you combine these two
+information together to generate this
+idea of perception now in addition to
+that there is an idea or there is a
+whole theory of direct perception which
+says that the object by itself by by
+being where it is in the environment
+offers you some information as to what
+it is and where
+is the place at which is present the
+kind of information that is related when
+you are looking at it it should also in
+addition provides you what kind of
+things you should do with it and you
+should not do with it take an example
+let's say we have UFO which has landed
+somewhere and crash-landed somewhere so
+when you see further obviously we have
+some idea of what an UFO is so next time
+when you see something which is circular
+and flying which has landed somewhere
+you both you're the turbulent process
+and bottom-up process will work together
+so when you go to the crash site you see
+something which is circular something
+which has which has stands on it from
+where there is some kind of air movement
+coming in where the fans would be on an
+on an UFO where it would take off and
+things like that so you combine these
+informations together to to get the
+concept or what our UFO is plus in terms
+of the fact that in numerous movies you
+have seen that a disc life shape which
+has fans and which has doors and which
+is of a certain way should look like a
+UFO should be UFO that information
+combined with you actually presently
+seeing that particular UFO in a
+particular environment combines together
+to give the concept that this is a UFO
+what direct perception would come in and
+say that being where it is being where
+the UFO is in in itself allows you to do
+certain acts for example from your
+experiences you you understand that
+there is a door and so in the UFO where
+from where people from other
+environments will come so subtle
+behavior you it will actually need you
+doing that behavior and certain behavior
+it will it will not allow you to do for
+example if there is no door in in in and
+you know or there is a crack in in in
+the UFO it will give you an affordance
+to basically go ahead and push it and
+realize the door because most of the
+movies don't tell you where is the door
+in in the
+so this affordance will tell you if the
+crack is there from where the light is
+coming on from the UFO you will have
+this affordance that this is the door
+and that itself should be enough for you
+pushing in and your expectation of what
+should be inside will guide you of what
+you are going to see when you go inside
+that place when you go inside that UFO
+maybe Green man's coming in and then and
+maybe taking you for a probe aerial
+probe or whatever you wish to come up
+with but this is how perception
+progresses so the whole idea of
+perception is what I have presented in
+this lecture in the next lecture we will
+go ahead and look at what is attention
+and look at the theories of attention
+thank you

@@ -1,0 +1,1615 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+hello friends welcome back to this
+second section on language in the first
+section of language we saw what is
+language we saw how it differentiates
+from communication and we saw several
+parts of language how it is made up of
+what is a syntax what is for name what
+is a morpheme and then what is cement
+takes what is pragmatics so basically
+that comprises of order languages and
+then at the end of it grammar so
+basically what language is what it is
+composed of how these things the rules
+of grammar really work into language and
+so on and so forth now in this section
+will focus on to something called
+understanding comprehension of language
+and the production of language so first
+section was describing things about the
+nature of language and the second
+section is about producing language and
+understanding comprehending language so
+basically let's start this session and
+try and understand how language is
+comprehended how language is understood
+or how language is produced now language
+like any other information which is
+being transferred from one person to
+another is basically first taken in as a
+raw input and its transformed so the
+basic components of language are first
+perceived through a language processing
+unit in the brain and then it is the raw
+materials or the raw parts of the
+language are then processed by this
+language processing unit to form
+meaningful representations where these
+representations then mean something or
+has some semantic value now the steps
+which are followed in taking the raw
+language input and then processing it so
+that a meaningful representation as
+meaningful representation is created
+what are the steps into it let's look
+into those so the question is how does
+speech perception happen how do you
+perceive speech now as opposed to
+perception of words which we do one word
+at a time
+one by one so how does word conception
+happen or perception of letters and
+numbers happen so basically what we do
+is we do some kind of fixation and we do
+some kind of jumps and these fixation
+and jumps happen from the first word to
+the first letter of the word to the last
+letter of the word then there is a gap
+and within that gap the meaning of the
+word is is evaluated and then we go to
+the next word and similarly in terms of
+speech perception since perception of
+words happen this way in individual
+materials happens in the way that I just
+described so it's basically believed
+that speech perception should also
+follow something like this and the
+simplest way to look at house pieces
+perception would happen is to be like
+text perception that is one sound at a
+time should be perceived and the pauses
+between the spoken word to spoken words
+should be used to identify the meaning
+of the words this is how our general
+knowledge should be because text
+perception basically takes place I send
+you it takes place in terms of a word my
+word perception so the first letter of
+the word and last letter of the word is
+basically looked into this is called
+jumping or fixations which the eye - and
+based on that there is a gap and if
+there is no gap then perception of
+letters become difficult but this gap
+between letters actually help the brain
+to interpret the meaning of the word and
+so this goes on and this is how the
+meaning is generated so in speech
+perception also it should be we assume
+that you should be similar that a word
+by word is perceived each word that
+somebody is speaking now when I am
+speaking to you how the perception
+should work in this way that you should
+be
+perceiving each word and the gap in my
+speaking the time gap between two words
+when I speak that should be utilized for
+making meaning out of it that's how we
+believe it is but that's not how
+actually it really works so milna 1990
+he described two problems with such a
+theory which says that word by word
+perception happens and meaning is
+generated from those kind of words and
+what is these two problems first Miller
+he found out that speech was continuous
+in nature the nature of speech was
+continuous and so how does it happen for
+example refer to the spectrogram so I
+what I'll show you I'll show you
+spectrogram so what is the spectrogram
+actually this is an output of speech so
+once once you produce speech the there
+is a air pressure so just in front of
+the mouth so one once the words come out
+of your mouth a certain air pressure is
+created and this air pressure is
+measured through a instrument and it is
+displayed in through a spectrograph
+through a CRT tube or a spectrograph and
+that's how what is a basically a
+spectrogram is so the amount of pressure
+which is generated when you speak
+certain words against when you speak
+nothing is presented on an XY coordinate
+in terms of voltages in in in in terms
+of sounds n in terms of sound in Hertz
+and on the time axis so that's how a
+spectrogram really works so effective
+Graham is basically these pressures that
+I omit when speaking a word and the
+graph of it which is in terms of sounds
+in the produce in terms of Hertz and the
+width through a particular time so I'm
+just going to show you a spectrogram of
+the word that I am written down here so
+they are buying some bread let's look at
+this and if we find all this stops or
+obvious gaps in the spectrogram it would
+mean that speech is not continuous and
+so each word after each word there is a
+gap so let's look into it so
+spectrograms this is a spectrogram as
+you can look at and so when you look at
+the spectrogram it is one contained
+the omission of an continuous graph
+which is out there so on this axis we
+have the time and on this axis we have
+the measurement of sound in terms of
+Hertz it's so air pressure basically in
+terms of Hertz and so what is the result
+of this the result of this is that
+spectrograms indicate it rapidly there
+are pauses around each sound so once the
+sound is produced there are no pauses
+between them and rather different sounds
+from the same words blend into each
+other so what happens is when I say they
+are brining the bread what really
+happens is the end of the and the
+beginning of our are blended together
+and so there is no graph and that is
+what Milner pointed out he said that
+speech is continuous so assuming that
+speech is like perception of text is not
+correct one reason being that you
+discuss I just showed you that this
+sentence they are buying some bread in
+terms of a spectrogram how it will look
+like and we see that the word endings
+they sort of merge into each other and
+so there are very few chances or there
+are no chances for gaps between them
+which which negates the idea that people
+get timed to between spoken language to
+make meaning order now the second
+problem which Miller listed is the fact
+that a single phoneme when if it is
+changed into a spoken text the context
+changes for example if I remove if a toe
+a doe and auto can be made these words
+can be made by replacing the TD no.4
+name so a single phoneme have taken out
+or if it is replaced or if it is
+misheard in certain way what would
+happen is the word would itself change
+and so one single phone a one single
+speech sound and phoneme is a very basic
+idea so one thing simple problem with
+hearing this one on would actually lead
+to the interpretation or would actually
+lead to different interpretation
+altogether and so what I have here is
+that this same for you so you have this
+is for toe this is for Doh and this is
+for auto and
+as you can see here that this is the
+time axis in terms of time as you see
+it's 200 400 millisecond and this is the
+pressure air pressure so in terms of
+sound pressure in terms of Hertz or
+cycles per second and so what you see is
+that the same kind of spectrograph you
+can see for both no.2 and auto but only
+the beginning changes so replacing a
+phoneme for example T replaced by a D or
+o the beginning of this changes but more
+or less it is the same right and so
+that's what it is one of fun for phoneme
+changes the whole idea of the word or
+whole meaning of the word changes no
+these are the two facts why it the Y
+sound perception cannot be similar to
+speech perception now another problem
+which is to be noted is that men and
+women they speak in different
+frequencies different accents and across
+different contexts they people speak in
+different ways so it's not about gender
+it's not about how women and men speak
+together it is also dependent on the
+kind of frequency so some people speak
+very softly some people speak a little
+bit loud the kind of accents that people
+use so it could be a raw accent it could
+be a toned up accent or any reason at
+different situations for examples in a
+lecture you could be whispering in some
+other fora when you're lecturing it
+could be a monotonous tone and so on and
+so forth so across context across
+different different situations people
+both men and women use different kind of
+you know speaking or speak differently
+and so this could be another problem
+which could lead to the fabulous speech
+perception is not like text perception
+so then if it is not like text
+perception how is speech perceived then
+what is the way in which pitch
+perception happen and the answer to this
+is that speech perception is generally
+categorical in nature and that's what it
+is the answer is that we come specially
+a cube with pursed
+systems which perceives speech in an
+efficient way in a very efficient way
+and that is called categorical
+processing so what happens here is that
+certain categories are automatically
+made and so when we speak the speech is
+automatically without awareness pushed
+into these categories and at how we
+actually go ahead and process speech we
+pay attention to certain acoustic
+properties of the speech and ignore
+certain others so based on the caustic
+properties we can tell whether a person
+is male or female
+remember experiments from the attention
+section where we saw that from the
+unshadowed ear people were able to tell
+things like the tone of wise and the
+gender of the person who's speaking and
+so these things are automatically
+attention is paid onto it automatically
+and so people were able to tell from the
+Nanshan down here also so basically in
+categorical processing what really
+happens is there are certain categories
+and these within these categories when
+you when a person is speaking
+automatically we perceive or we force
+the spoken speech into these fixed
+categories and this happens without
+awareness we are not really aware of the
+fact that we are doing it so we are not
+perceiving it in a continuous manner we
+are not perceiving it in the breakdown
+manner but what we do is certain
+categories arise so what is a noun what
+is the work kind of categories are
+different different categories or what
+could be the constraint category and so
+we look into speech or with the hear
+speech and we take parts of speech and
+they we then go ahead and then push it
+these parts into different different
+categories out there and that happens
+without of any kind of awareness we are
+the kind of explicity into it so
+perception of speech is also affected by
+something called visual cues and these
+are known as context effect so certain
+kind of visual cues in the environment
+they also affect kind of perception of
+speech that we do know the an experiment
+was done to show that these different
+things that context affects perception
+of speech and so Warren what it did was
+he presented a statement like this to
+people now the statement was the state
+governess meant with their respective it
+should actually be legislators right and
+so that is what it is about where the
+word ledge is the word s would the
+fundamental come he produced a coughing
+sound so the statement transcends the
+state government met with their
+respective legislatures concerning in
+the covering convening in the capital
+city so this is what the basic sentence
+was and so what he did was in the world
+legislature where this phoneme would be
+a cough sound was produced a light cough
+salsa produced and it was amazingly
+people were not able to identify the
+cuff sound only one out of twenty people
+actually they reported hearing the cuff
+sound nineteen people didn't didn't
+actually report the cough sound and they
+could hear the word legislature very
+nicely nicely and the honam s here
+legislature so funny mess and this
+basically is what is called the phoneme
+restoration effect so in which one
+hundred twenty so that is what it is so
+this sentence of presented and 120 milli
+second portion was replaced the this was
+120 milli second portion where a phoneme
+was there and a cuffing sound was
+induced so one after twenty percent
+listening to this actually found out
+that there was a missing phoneme and
+most of the 19 people restored this one
+him and that is called the phoneme
+distortion effect and that demonstrates
+that the the percept the perception that
+we actually do is a categorical in
+nature so we don't look for look through
+word to words we actually force
+implicitly or without awareness we force
+part of sentences into preformed
+categories and that is our perception of
+speech really happens so the answer to
+this or the result of this experiment
+were that people were capable of using a
+great deal of information to predict
+what the correct sound of the missing
+segment was and as I said that people
+were able to restore this phone him they
+didn't notice this break which was there
+and because they were doing categorical
+processing they were not even aware of
+it that this
+been replaced by a cough sound now
+Warren Warren in 70 they demonstrated
+this by presenting people with one of
+the four sentences so they're people
+represented people with these four
+sentences now each one was the same
+recording with the exception of the
+final word has been spliced off and each
+contained a missing segment as indicated
+in the Asterix on so basically what
+Warren did Lauren wanted first to find
+out whether people are able to restore
+this one him or not or perform this
+phoneme restore restoration which
+basically means that are people capable
+of implicitly filling up gaps into
+spoken speech to demonstrate that what
+Warren Wan did was he presented four
+different sentences to people with one
+phoning being spliced off and what he
+wanted to see was whether people
+restored these phonemes or not so there
+were four sentences present to people
+with a missing segment and each of this
+in each of this the missing segment is
+the key to making meaning of the
+sentence so what were the sentences the
+first sentences was it was found that
+eel was on the exel the second was it
+was found that star eel was on the shoe
+and so this star which you see here is
+basically the missing phone him here and
+so I'm pretty sure by now you would have
+come to know the answer for all of these
+and so this is what was replacing in in
+worst case this eel was an Lda to an
+excel in the second case this eel was
+related to a shoe in the third case it
+was related to an orange and the fourth
+case it was related to a table now take
+a second and tell me what the eel should
+actually be and I'm pretty sure that you
+would have come up with an answer so in
+the first case when the neck seal was
+presented the context help people to
+replenish back or to fit in the right
+phoneme and so people perceived really
+there but in in the second case where it
+was the shoe people didn't say wheel but
+people perceive the EE L the the the
+part where the phoneme was placed off as
+heel not wheel the wheel was for axle
+because the axle is the context and so
+wheel was replaced in if shoe is the
+context then what was replaced was heel
+but in the third case when
+orange was the context when orange was
+what was being referred to the missing
+portion became peel whereas in the
+fourth case when table was what was the
+context or what was the whole sentence
+was referring to
+it was meal correct and that's what it
+is and so depending on the sentence
+participants reported hearing wheel heel
+peel and meal so basically they restored
+this morning's of WH the H H in heel the
+P in peel and the M in meal this kind of
+thing is that which basically again
+proves the hypothesis that people
+perceive speech sound automatically and
+implicitly and how they do it they do it
+through something called categorical
+processing right as a speech perception
+is basically not like text perception
+people don't wait over speech segments
+and the gap between CC segments are not
+utilized for making meaning rather the
+perception happen in the categorical
+automatic manner
+now with the perception of speech or
+speech itself there are certain errors
+which are there when we produce speech
+also so certain areas can also arise
+when production of speech happens so so
+beside perceiving speech from others we
+also produce speech and for others to
+comprehend the and process the speech
+fear so it's not only always listening
+we all sometimes also talk so we produce
+speech and so this is called speech
+production now speech production can
+need to switch production itself can
+lead to certain kind of errors which are
+called speech errors interactions in
+which the speaker intends to say quite
+clearly where the speaker makes some
+solutions substitutions or reorders the
+stimulus in a certain way so speech
+errors then are certain substitutions
+are certain reordering of the statement
+which makes the sentence not legible and
+so these are happening this happens
+because we do some kind of a reordering
+in sentence productions or we do some
+kind of a substitution in sentence
+production and those are called speech
+errors for example Mary keeps the food
+in her West now when we say whisk
+actually this is wrong and so what are
+happening so you would see these kind of
+things happening in smaller children's
+and so what have happened here obviously
+you can see is the desk the DS replaced
+by the phone in V and so what has
+happened is Mary keeps wood in her desk
+so instead of the desk the production
+itself it becomes reversed and it
+happens to most of us we do these kind
+of problems another is another sentence
+which shows this kind of speech
+production error is this one where we
+sometimes make this kind of errors also
+where what we have done is it's exchange
+of words sometimes we replace phonemes
+are sometimes the exchanged words also
+so look at the sentence we sit around
+the song and sing fire and so it happens
+to most of us you'll realize that people
+who can speak English they can have
+these kind of errors in to it and so
+here what has happened is the song is
+replaced by fire so the actual sentence
+should be we sit around the fire and
+sing songs and so out of some
+substitution in speech production what
+has happened his fire goes to the end of
+the sentence song comes to the middle of
+the sentence and our sentence becomes we
+sit around the song and sing fires which
+has which is syntactically correct it is
+semantically correct but makes no
+meaning at any indian aid so in terms of
+pragmatics make no meanings so in terms
+of grammar rules is perfectly correct
+but it has no meaning and so this is an
+error of speech production and this
+error arises because we substitute
+certain words for certain other words
+similarly Gerrit 1990 88 while studying
+such these errors found that the word
+substitution has two broad categories of
+errors so this substitution of words
+this exchange of words can then also be
+divided into two different classes two
+huge classes out there and what are
+these classes one of what substitution
+can error have never solution error can
+happen in terms of meaning relations so
+in terms of meaning relations in the
+sense that I can substitute a word by
+another word which is equivalent to the
+meaning of the first word
+so here replacing finger
+or walk with a run is what meaning
+relations are there so finger and toe
+are more or less like similar in
+meanings of what finger does is what a
+toe would does and walk and run are more
+or less same in meaning similar in
+meaning exactly not the same but then
+similar meaning and so people could
+actually do this kind of word
+substitution error and these word
+solution substitution errors are meaning
+related errors or people can go ahead
+and form form relation errors so form
+relations errors are generally very
+fewer it is very few that you see these
+kind of errors and so what you do here
+is instead of a guest you would say good
+so the guest has come the goat has come
+right or mushroom is replaced by
+mustache so let's go to the feeling and
+pick up fresh mustache instead of the
+mushroom so form relation errors can
+also exist and so Garrett says that
+these are two kinds of speech errors or
+speech related errors that can exist and
+so these speech related errors can also
+create or are also categorized into form
+relations and meaning relations okay so
+this is up till now we have seen that in
+the production of speech also so not
+only that writing language or written
+language has some kind of errors while
+producing speech also we create a number
+of errors and so what we saw up till now
+is how speech is produced and this
+production of categorical speech the
+production of speech itself which has
+which is categorical in nature this can
+also lead to certain kind of errors
+which the producer of the speech is
+making and which confuses the listener
+and so he would be hearing something
+else right and so the question now is
+how do we comprehend the sentence right
+so when somebody writes a sentence how
+do we go ahead and read this sentence so
+how do people understand and recover
+their meaning from sentences so given
+the fact that a certain sentence is
+written in fact in front of you how do
+you make meaning from such a sentence
+the answer to this lies to the fact that
+people pay attention to syntactic
+constraints however they do do not
+process sentence clause by clause so
+what people generally do is that they
+look at a sentence and they look at
+parts of the sentence or they look at
+the syntactic constraint of a sentence
+right but then they do not process the
+sentence Clause by Clause so what really
+did they do they actually look at a
+sentence look at the Sun send the
+constituent of a sentence make a gist
+out of it and that is how they process a
+sentence they actually don't read the
+sentence cross by clause and that is the
+way in which people go ahead and process
+sentences so what after reading a
+sentence what people do is they discard
+most of the words in the sentence and
+just keep the meaning the central
+representation or the central meaning in
+terms of a gist representation so
+comprehending a sentence involves
+dissolving it's possible ambiguities so
+in sentence comprehension also certain
+kind of errors can occur and so it has
+been found that people are very good in
+resolving ambiguities if a sentence and
+we saw that in the first section also
+that even if the sentence is a certain
+problem people they are able to resolve
+the ambiguity for example the first
+sentence that we looked at the very
+yellow dog chase something something we
+saw that people are able to people all
+they don't know the descriptive rules of
+grammar of how to correct the sentence
+but they know the prescriptive rules and
+they know how to correct this so in
+terms of sentence comprehension also
+people are very good in resolving these
+ambiguities now in the interesting thing
+here is that we normally don't notice
+ambiguities and only rarely we come to
+notice them when do we know ambiguities
+only when certain kind of sentences
+arise or a certain kind of certain parts
+of the sentence have some confusions in
+to us now look at this sentence the
+sentence says the horserace past the
+bond fell now if you look into the
+sentence what happens is initially the
+sentence is alright the horserace past
+the bank till the point that you come to
+fell and fell is ambiguous and these
+kind of sentences are called garden path
+sentence so you it leads you to a
+certain direction of meaning but then
+the last word creates a
+problem and so what is the problem so
+how do we go ahead and solve this what
+is the this is obviously an ambiguity so
+how do you solve this one way to solve
+it is the horse weight raced past and
+put a comma here the bond fell two parts
+of the sentence two sentences to look at
+na makes meaning or the horse raced past
+the bond fell can be broken not into
+this two constants and so till the point
+of time that you're reading the horse is
+past the bond it is okay but a fell the
+word fell itself is a problem and so
+here is the problem so you can solve it
+by this way and this type of sentences
+actually lead to ambiguities or look at
+this now this sentence is the cotton
+shirts are made from comes from Arizona
+not from from the beginning of the
+sentence if you read there is a but the
+pertinent meaning that you see to it but
+at a point a certain point certain water
+arises which creates confusion for
+example the cotton shirts are made from
+comes from Arizona now there is a
+problem here the cotton shirts are made
+from expects certain input as some form
+of it alright what fine form of cotton I
+am destroying that kind of cotton
+qualifying the cotton example so
+simplifying this sentence so basically
+if you want to make meaning of the
+sentence and so the here is where so we
+will decide the cotton shirts are made
+from made from comes from Arizona is
+where the problem really comes in and so
+you want to solve this sentence the
+ambiguity ambiguity is this part of the
+sentence I just want to solve the
+ambiguity what we really do is cotton
+shirts the if we put a comma here the
+cotton shirts are made from comes from
+Arizona then the sentence losses is an
+ambiguity and becomes a more meaningful
+sentence but reading from from on words
+in to say in this way creates an
+ambiguity and so this kind of sentences
+creates ambiguity but with normal
+ambiguity because what happens is the
+people have already started reading the
+sentence and so it has made people
+started thinking in a particular
+direction but then from the from on
+words or from the ban on words the next
+word which appears creates
+so this kind of sentences make people
+that assume confusions or make people
+think about confusions and they need to
+then solve the ambiguity so these
+sentences are then called garden path
+sentences the reason being that it
+starts making you think in a certain way
+and then at some point of the sentence
+it pushes you into a different movie
+right so results from several studies
+they suggest that when we process
+ambiguous sentences all the meaning of
+the sentences are temporarily available
+so when we are looking at these kind of
+ambiguous sentences and M because
+sentences which has multiple meaning and
+the results from several experiments
+suggest that all meanings of the
+sentences are available for example if
+there is a sentence saying that this
+room means full of bugs
+now both the meaning of the bugs the
+bugs as in terms of cockroaches or pets
+or bugs in terms of listening devices
+are available to us depending on the
+context we then decide after three
+phoneme lengths which word meaning will
+be accurate and so results from several
+studies basically suggest that so
+basically what it suggests is that when
+we are reading an ambiguous sentence all
+the meaning of the ambiguous word the
+word which is creating ambiguity are
+temporarily available through an
+automatic bottom-up process so while
+reading a sentence every meaning
+remember the sentence where we use Bank
+in two different ways in in terms of
+financial institutions and in terms of
+riverfront now both the meaning are
+available if a sentence is this Bank is
+creating confusion in a sentence both
+the meanings would be available at the
+time of processing the sentence now
+quanta fix effects do not immediately
+restrict the listener to most
+appropriate reading of the word
+so basically when we are reading a
+sentence the various sentence is created
+the context in which a sentence is
+created it does not stop the reader from
+interpreting all the meanings of the
+ambiguous word right instead for a short
+period all meanings are accessible to
+them now three syllables after the
+presentation of the ambiguous word only
+one meaning remains active so what
+happens is the context doesn't decide
+what is the meaning of ambiguous word of
+the ambiguous word which is created in
+the word which is creating ambiguity in
+ambiguous sentences what really happens
+is three syllables after the processing
+of the ambiguous word all meanings are
+available only after these three
+syllables has elapsed the exact meaning
+or the meaning which befits the context
+then remains and all other meanings are
+discarded and so this such as has been
+done on several kind of sentences and so
+since this we are not dealing in detail
+in language so I'm not bringing in those
+examples which will show you how these
+experiments are done and how it was
+basically found out but this is the
+result of it so three syllables after
+the presentation of the ambiguous word
+only one meaning remains active which is
+the meaning which is more up most
+appropriate to those contexts suggesting
+that people resolve sentence ambiguity
+fairly quickly so no matter how
+ambiguous the sentences people are able
+to resolve these ambiguities and how do
+they do this resolving of ambiguity the
+fact is we read the sentence to the
+point they come to the fact that the
+word which is creating ambiguity and
+when they are reading the word this is
+creating ambiguity context is the word
+the context of the sentence doesn't help
+them till three four names or three
+syllables after the presentation of the
+word all meanings are accessible but
+only after three syllable presentations
+which is a very very brief time only
+after that the appropriate meaning or
+the necessary meaning or the most
+optimal meaning which befits that
+sentence
+it remains and all of the meaning goes
+away and certain experiments are done to
+create that and so what does it actually
+tell you it tells you that people are
+able to read up and because sentence is
+very fast and resolve ambiguity very
+fast right so although all meanings are
+available but then people are very good
+in resolving ambiguities although I mean
+they may not know the grammar they may
+not know what is wrong with a sentence
+but they may that they can correct the
+sentence so they have this feeling they
+have this implicit feeling that is that
+is what we saw in the first lecture they
+said they have this
+idea of what is wrong but they may not
+know the grammar of where it is wrong
+okay so up till now we have looked at
+speech perception and sentence
+comprehension very good let's now look
+at what is the comprehension of a text
+message or how text messages are
+comprehended now for understanding how
+people process takes messages first we
+need to know how people actually need so
+what is the way in which people read and
+just in carpenter 1987 use something
+called an eye tracker to monitor the eye
+fixations for written text so what they
+did was they use something called an eye
+tracker SOI tracker actually tracks the
+movement of the eyeball as it move
+across written words and so from that
+they had some idea of how people
+actually me now results indicate that
+reading consists of a series of
+fixations and jump across text with
+average fixation and jumping 250 and and
+10 to 20 20 to power minus 3 second the
+basically 250
+to 10 to 20 20 millisecond kind of a
+timeframe so basically then what they
+found out from the study is that people
+just don't read text the way is with
+what happens is the eyeball tracking
+experiment suggests that people jump
+from word to word and they then have
+fixations so when they're looking at a
+word they look at the first word they
+fixated they looked at the last letter
+of the word they stopped there for some
+time make meaning out of it
+jump to the next first next letter or
+next word the first letter the next word
+last letter of the next word look at the
+context find meaning next makes the
+jumps and make another jump into it and
+so this kind of jumping and fixations
+how text is Percy now just in carpenters
+model assume that as soon as readers
+found encounter a new word they try to
+interpret it and assign it a rule and
+this is called the immediate immediacy
+assumption so in takes passages what
+just in carpenter says is that when we
+are reading something in these fixation
+happens between the first letter and the
+last letter of the word
+and then we wait there for certain time
+the
+is called a fixation time and then we
+jump to the next word which is there now
+during this period when we make this
+jump this fixation and jump during that
+period we immediately encounter when we
+encounter that what immediately gather
+the meaning of the word and that is
+called the immediacy assumption so as
+soon as we get a new word we try to
+interpret what the word is the author
+also formulated something called the
+imine hypothesis and through water is it
+which holds that interpretation of each
+word occurs during the time it is
+fixated so basically what happens is
+when reading a text there are certain
+jumps in the eye actually does and so if
+you are reading at words like w RDS and
+like these are the two things that we
+are looking now I will first fixate here
+stay here then look at the last word d s
+then there is a context to it since it
+is the language context in some words
+are related to context so this we are
+teaching this I'm teaching this in in a
+lecture on language and so the context
+is there and so this w word starting
+with w ending with s or ending with D
+would be a word that is how the
+immediacy of immediacy assumption is and
+so immediately that is what it is and
+the imine hypothesis is that as the
+fixation happens and I have before the
+jump
+this word is interpreted this word is
+matched with a segment or matched with a
+representation into the brain and a
+meaning is extracted out of it and so
+these are what it is immediacy says that
+an interpretation is as is done as soon
+as the fixation happens and a rule is
+assigned to it and the imine hypothesis
+says that meaning is also extracted at
+the same point of fact so it is not only
+the role assigning to new word what is
+the role of that new word whether it is
+a word whether it is a noun whether it
+is a pronoun what kind what form it is
+doing a sentence or what is the role
+that is playing in a sentence that is
+called the immediacy assumption the
+i-mine hypothesis is that the meaning is
+also extracted as that very time it's a
+fixation time so fixation tells you what
+each word means what is the role it has
+in the sentence and what in hand and how
+to interpret this there's this role in
+the imine I possess it says that also
+the meaning of the word is extracted at
+point RAM and that is how we did so
+these through these fixations and jumps
+across words to words
+is how we actually read and that is how
+comprehension of text messages happen
+now justin carpenter they argued that a
+number of variables influenced fix a
+influences fixation duration so the time
+number the amount of time that the eye
+fixates on to a particular word is
+influenced by a number of variables and
+so what are these variables for example
+word length the bigger the word length
+the more the fixation has to be right
+also what frequency how frequently you
+see even this word so words like apricot
+words like hello where are was which
+people don't encounter in everyday life
+they require longer fixations then word
+like cat dog hand food that kind of
+words which are more common the flood
+frequency the usage of these words are
+more common and syntactically and
+semantically ambiguous word so if words
+are syntactically and semantically
+ambiguous for example bank two meanings
+of bank or bugs - meaning of the word
+bugs or multiple meaning of the word bug
+or the position of the word is such that
+it can also be an injective and it also
+be a noun that can happen so the word
+could qualify it could cruel mean too
+many things into it in those cases the
+fixations are long or the fixations are
+a larger duration and the jumps are then
+quicker not quicker it's takes more time
+to jump and the more the longer fixation
+because that determines how much time
+you have to spend into it why because
+then you have to first if we have words
+which are ambiguous we have to first
+assign a role to it because that tool
+will tell you what this word means and
+what this word how this what is driving
+the sentence right and so basically that
+so longer the word the more complex the
+word lesser the frequency more the
+fixation period siltation keenan 73 they
+found out the semantic factors influence
+the reading task there are certain
+semantic factors which also go ahead and
+influence text comprehension or reading
+tasks they showed that two sentences of
+equal length might be diff
+differentially difficult to process and
+so they said that the cementing the
+meaning how much meaning a sentence
+carries how much ideas that the sentence
+carries that will also decide how easily
+a sentence can be read so those
+sentences which has a number of ideas on
+to them they will be difficult to
+understand they will take more time to
+comprehend or comprehension of sentences
+which have multiple ideas embedded into
+them will take more time than sentences
+which have simple ideas and so they
+presented something like this so the
+word is Romulus the word is Romulus the
+legendary founder of Rome took the woman
+off of the Sabine by force and so there
+are two or three ideas into it and so
+you look into Romulus woman and by force
+are three ideas and then you have Sabine
+is a woman there these are two other
+things and so the number of ideas are
+limited here are three ideas and so it
+takes some time to process in comparison
+to that if you look into it it is the
+same length the second sentence is also
+the same length but here the number of
+ideas are more and so it takes more time
+to process and what is the sentence
+Cleopatra's downfall lay in a foolish
+trust in the fickle political figure or
+the Roman world and so if you look into
+it there are multiple ideas into it or
+multiple segments into it now because of
+what because of trust of Cleopatra
+Cleopatra fell down and within that
+within the trust
+what kind of trust there is a foolish
+trust there is a fickle trust and there
+is the part of the world so that is
+related to the Cleopatra and figure in
+in one idea and Cleopatra falling down
+is the other idea so trusting of paper
+ties one idea and falling down of
+Cleopatra is another idea and within
+that there are certain systems which are
+there and if we look into it it has
+multiple ideas right and so if it has
+multiple ideas it will take more time to
+process and so the more meaning more
+ideas that have the more meaning is to
+be interpreted the more meaning of
+sentence has the more time it will take
+to be interpreted and the more fixations
+are required into it and the longer
+duration of comprehension for such words
+now another factor which influences the
+processing of text has to do with
+relationship among sentences what
+sentences or how sentences are related
+to each other so the more the sentences
+are related to each other the larger the
+relationship or if those two sentences
+are not related to each other then it
+will take more time to be process now
+halav and and clark 1974 describes
+something called a given new strategy
+and what is this given new strategy
+they say that whereby listeners are
+listeners and readers divide sentences
+into two parts the given part and the
+new part so when they are listening into
+a sentence when people who listen to a
+sentence they are listening in to us and
+hence they immediately divide the
+sentence into two parts one is the given
+part the other is the new part now the
+given part of our sentence contains
+information that is familiar from the
+context of the preceding information or
+the background information so when you
+are listening to a sentence what you
+tend to do is break this intends into
+its two part first part is the given
+part the given part has all the
+informations on given partners all the
+inputs from preceding context are from
+where the borrower over effect from
+previous sentences and people are
+familiar with it the new part contains
+unfamiliar information new part of the
+sentence they can contain unfamiliar
+information so listeners first search
+memory for information current
+corresponding to the given information
+and update memory by incorporating the
+new information offer as an elaboration
+the given part so basically then let's
+look at a sentence and then see how does
+this thing really work so basically what
+I'm doing is I'm creating two sentences
+and with a given part of a new part so
+if I write this sentence we got some
+beer out of the car this is the first
+part and the second part is the beer was
+Wow so sentence number one sentence
+number two right this is the given part
+and this is the new part
+similarly we checked
+the picnic supplies and then again the
+same this is the given part and the beer
+was warm now in which case do you think
+people will take more time to comprehend
+yes you are right in the first case
+people will take lesser time to
+comprehend this sentence the reason
+being that in the given sentence in the
+given part of the sentence the mention
+of beer is there and so it makes a
+relation with this sentence and so the
+comprehension is easy so make basically
+they got from where are the currents so
+they were wrong it's easy to interpret
+but in this case the mention of beer is
+not there in the first sentence and so
+you don't know how the new part connects
+to the old part and so then first you
+have to make the assumption that beer is
+part of the picnic supplies first you
+have to make this supposition assumption
+only then you can comprehend this
+sentence in this case it is easy because
+previa contexts provide you that idea
+and so if this is a given new sentence
+people will take lesser time to verify
+this one then this one because the first
+part of the sentence contains the
+referral to the new part right so this
+is basically what they say so in a given
+new strategy the more different the
+given and new parts are the more
+difficult comprehension turns out to be
+now when they brew and and Gustafson in
+1990 they offered three conclusions from
+research on reading text first the
+mental representation is a construction
+by the reader
+which differs from and goes beyond the
+information of the text itself when you
+read something and that is why I always
+advise my students to read books what
+happens is when you read something you
+make a new world out of it a new
+construction you go beyond the book and
+imagine things which is not written even
+in the text and so people own this
+mental imagery and so in the in the last
+chapter and mental magic we saw that
+people have this mental imagery make
+these mental representations it may
+so once you read up texts people make
+certain
+imaginaries or certain texts or certain
+kind of formats which are personal to
+them and so they go beyond the what is
+written in the world and that becomes
+personal to us and so these personal
+things this these personal influences
+representations that we make or text
+help us in understanding something so
+when people read something they create a
+mental representation which is personal
+to them and it is beyond what is written
+on to the text the second is the
+representation is coherent when we read
+text the representations have to be
+coherent in the sense that it is linked
+in ways right so one part of the
+sentence text should always be related
+to the second pattern that is coherency
+is there so even if we read elect if you
+are reading a novel we read the back
+part first in the front part in the
+middle of the novel we still make this
+coherency the fill up gaps is there in
+this coherency is always maintained and
+the third is this readers attentional
+resources are limited we cannot be very
+ambiguous in writing sentences if we
+write very very ambiguous sentences the
+actions our attention span of the
+resources is limited text comprehension
+will be flawed so when writing a text
+for comprehending we should be assured
+of the fact that first whatever we are
+writing people are there people will
+misinterpret it or people will create
+their own construction sort of it so it
+should be very limited it should be
+should be written in a way that you
+should give the chance for lesser
+representation varied representation
+also the representation that we form the
+writing that we do should be coherent it
+should not be all over the place having
+all kind of meanings into it and third
+that it should be written very strictly
+in ways that respect people's attention
+'el resources which basically means that
+the idea should be clearly spread out if
+it is not then people's attention
+resources are very limited and so you
+keep on jumping from one's meaning to
+others to write them so this is how next
+text comprehension happens now let's
+look at an interesting fact which is
+stories how do people comprehend stories
+we have looked at how people comprehend
+text now let's look at how people
+comprehend stories so what is the way in
+which people actually read stories and
+so forth reading story it has been found
+that there is something called story
+grammars Sasori gammas are described as
+the way in which people comprehend large
+integrated pieces of text using script
+schemas and grammar of the language so
+while reading a story while reading a
+novel while eating some kind of artwork
+or fiction or nonfiction when reading
+any kind of large text which they need
+to comprehend they use certain kind of
+dramas which is different from the kind
+of grammar that we saw in the first part
+of this lecture what is it then so what
+our story grammars these are similar to
+scripts in that both have variables or
+slots data filled in differentially by
+different stories
+so basically story grammar is kind of a
+script right it's kind of a block and so
+what this block does is it this block
+says that each story should have certain
+fixed factors into it right so what
+story Lama suggests is that people
+expect certain kind of fixed factors so
+for example when you are looking at a
+story he story should have a protagonist
+the person who's the one who's acting
+the main component of the story or the
+main person of the story they should
+have a setting where the story is
+setting from where it is coming from
+where it is based on a plot or what
+really happens in the story what is the
+baseline of the story backgrounder story
+conflicts and resolutions then if you
+are writing a story there has to be some
+kind of a conflict and then the
+storyteller resolve this conflict and
+all these are expectations that people
+have and these are called story grammars
+so every story should have things like
+this these type of grandmas on to it now
+story grammars are stimulated to
+syntactic grammars in that they help us
+identify the units of each role plays in
+the story so basically like what drama
+does for us what syntax does for us
+because syntax tell you in a sentence
+what is the subject what is the object
+in what is the verb and what role each
+object is playing in a sentence and that
+helps you into making a legal sentence
+similarly story grammars actually tell
+you the main constituents of the story
+what is the protagonist who is the
+protagonist what is the plot what is the
+setting what is the tone what are the
+conflicts which are there what are the
+resolutions so that you come to
+in in one brief look into it what the
+story is about or what the story is
+going to tell you right and so these
+these are fixed factors it is screwy
+Gramma's are like syntactic rules for
+drama
+now story grammars they provide a
+framework with which to expect certain
+elements and sequences and to fill with
+default values things are not explicitly
+stated so basically a story grammar then
+tells you that any story has to have
+these things now if it is not if
+something is not explicitly mentioned
+here we fill it implicitly to make a
+story let's look into what story
+grammars is so this is basically a story
+of the three little pigs now obviously
+when I say a story of the three little
+pigs
+there are certain expectations that
+people have what will this story have
+right and so first of all there should
+be character the bird organist and the
+protagonist is there has to be first of
+all if it is a story about three little
+pigs so three little pigs have to be
+there that is the main thing and then if
+the three little pigs are there just
+three little pigs going around is not
+going to solve our problem so conflict
+has to be made and a for a conflict and
+a willingness to be an antihero has to
+be put in and that is what the world
+face so story dramas then give you this
+idea that only the hero is not going to
+make up a story so some kind of a
+villain has to be brought in and P hero
+is to brought in because int you know in
+hero when they collide will produce the
+kind of problems or the kind of
+difficulties contradictions which has to
+be resolved later on because no stories
+work around this way and so I have now
+created well now obviously if there is a
+villain and there is a hero then there
+is some kind of problem has to arise
+because they don't cannot heroes and
+villains cannot live together and so
+what is the problem here the wolf wants
+to eat the Three Little Pigs now we have
+a story in condition so we have a
+problem we have certain characters into
+it we have all the characters into it
+and we have a title of it so let's then
+write the story certain events ain't
+waiting so we can relate to what what I
+had done is we have put in some so wind
+blows the house will blows down the
+straw house then will blow down the
+steak house will
+can't blow down the brick house will
+climb the chimney and so these are the
+three kind of houses these pigs have
+they leave in and so once the wolf goes
+ahead and blows it the the pigs create a
+new kind of a house why they created a
+new kind of us because they are afraid
+of this particular wolf and they don't
+want to be eaten and so this is the one
+this is the is a set of events you can
+create any kind of event just as the
+look into it and then the resolution is
+will falls into a pot of boiling water
+and sort of or the open door and is
+never seen again so the resolution isn't
+the goal who is going to eat the things
+so the resolution is these pigs were
+actually boiling water and the world
+comes down a chimney falls onto the
+water burns himself and says that no one
+not going to do this again lunch is
+lesson and goes away and never returns
+back again so this is our story is
+created this is how situations is create
+a certain contradictions of greatness on
+and so forth
+on this side you will see the Saudi
+structure and recall and so I'll leave
+it to you to actually read so basically
+there are different kind of things in a
+story for example what it is what is the
+event structure of the event episode
+beginning development simple reaction
+and so on and so forth so basically then
+most stories have these kind of filling
+gaps and so this is how a story drama
+really works and so what is the need for
+a story grammar because it gives us
+certain kind of insight of how our
+story's going to work and then if
+something is missing we can always go
+ahead and fill that particular thing now
+looking at something called gracious
+maximum conversation up till now we have
+looked at something called speech how it
+is perceived what is Rama what isn't
+misperception all those things but there
+are certain makes in the conversation
+there are certain rules of conversation
+which needs to be followed and so
+Gration gives these mixing so grace 1975
+believed that for people for con to
+converse
+each must do more than just produce
+utterances that that is phonological
+sound they must syntactically and
+semantically produced on which are
+appropriate for example if you look into
+two sentences I just heard that yo got
+promoted today isn't that great if a is
+saying and me says the Salt Lake City is
+locate located in Utah and the third is
+Charles Darwin is the
+revolution they are not conversing at
+all there is no conversation although
+all the sentences here a semantically
+correct syntactical e correct have
+meaning but they are not following
+conversation so there are certain rules
+of conversation so what is it what is
+the and again the a comes up with answer
+then what is the square root of 34 BC is
+that chocolate ice cream is sweet so
+basically this is not how a conversation
+is is actually progressing and so Bryce
+described the speaker in a conversation
+should actually produce some kind of a
+maxim so follow some kind of a rules
+into it the four Maxima are there first
+is the quantity whenever we speak we
+should speak in terms of quantity we
+should not speak more we should not
+speak less but we should speak enough
+for example somebody asked you that time
+and you say 4 o'clock this is not
+quantity because what o'clock would be
+morning 4 o'clock would be evening so
+you should have given enough information
+not too much information but enough
+information then quality quality in the
+sense that whatever you are saying
+should have some kind of a context some
+kind of a quality into it if there is no
+quality that you have into your speech
+if you have no context into your speech
+or know the meaning into your speech
+then it will not be processed in the
+right way then you have maximum of a
+maximum of relation if you are speaking
+a sentence and two parts of the sentence
+make no relation so I am going to the I
+am going to the the market and Sun the
+sun is shining on my head and the two
+sentences have no relation with each
+other so when you are saying two
+sentences or when you're saying as
+intense both the parts of the sentence
+should have some relation and so this
+maximum relation should be always
+followed it should not be awarded you
+should not be monster and also people
+should have or speak sentences which
+have relationships or which express
+relationships into each other and for is
+the maximum manner we should always have
+good manners if you are speaking in the
+wrong manner so if you are speaking to
+somebody who's elder than you and you
+say come here sit down that's not a
+manners to purchase to be done
+similarly speaking to people who are
+smaller than you so certain kind make
+sense or to be followed if it is some
+somebody you senior to use
+hold it please use words like please or
+some kind of respect has to be given and
+these are the Maxim's which is a
+similarly if you are referring to people
+who are below of your age of similar
+ages okay but of below age then you will
+have to use some kind of a mannerism
+into it if you do not then you are not
+moon to be a nice social person and so a
+violation of rule a and B is there then
+people are uncooperative and obnoxious
+so just telling you something like
+giving parts and bits of information or
+no quality information no meaning
+information at all then people are known
+to be uncooperative and obnoxious and
+people violating rule C are known to be
+bizarre because if we don't say
+relations if we just keep on saying
+things then they are bizarre in nature
+okay then
+so what influences this language have an
+other cognitive process up till now we
+have seen what is the language and about
+and how it is related to different
+cognitive processes so what is the
+influence that these language or the
+language has on different cognitive
+processes so there are two ways to look
+into it first language and other
+cognitive processes operate
+independently one view see is that and
+the second is language or other
+cognitive processes are dependent on
+each other and both of this view one
+view says that they are separate
+language has nothing to do with other
+cognitive process and the other will say
+that they are integrated together and
+both of these are further explained by
+two popular hypothesis of language in in
+language cognition one of these
+hypothesis is called the modularity
+hypothesis and so what does hypothesis
+actually say so it was proposed by John
+federal ossified Jerry Fodor in 1982 85
+I mean argued that some cognitive
+process in particular perception and
+language they are modular so they
+process or they do processing in a
+modular formula modality of a process so
+what is modularity then modernity for
+process says that it is domain-specific
+operates specifically with certain kind
+of inputs so language then is modular
+because it operates only through certain
+kind of inputs if you give the wrong
+input language is not going to work
+similarly with perception if you give
+the wrong input
+perception is not going to
+taking place and some perception to take
+place a certain kind of input has to be
+given and the second is informationally
+encapsulated which basically means that
+operates independent of the believer and
+other people's information available to
+the processor so no matter what people
+believe language is independent the
+processing of language is independent
+what we say is obviously independent
+dependent on the context or what we
+believe but the processing of language
+if somebody says something to you how it
+is processed that is in informational
+informational its encapsulated which
+means that language processors don't
+depend on people's belief system or
+their expectations to process things and
+so this is how languages independent or
+language is not dependent on the
+cognitive process so basically then
+modularity hypothesis or fordoes view is
+that language is modular in nature and
+that is why it is not related to any
+other because it has specific in words
+defined and formally specific inputs is
+going to work and also the fact that it
+processing is not dependent on people's
+belief systems they are expectation
+their views and so on and so in direct
+opposition to this there is the woof
+Aryan hypothesis referred by a by
+example or woof Benjamin Whorf was
+actually a chemical engineer and so he
+gave the idea that language has to be
+related with other different kind of
+cognitive process which is out there and
+so what did he say he said that language
+and other cognitive process are strongly
+related he believes that language
+development has a lot to do with the
+kind of atmosphere or the kind of
+environment for somebody is born with
+and so the environment in which you want
+shapes your language right somebody
+coming from a very rich environment will
+have a different kind of language in
+compare in comparison to people who are
+coming from lower socioeconomic
+backgrounds people who are coming from
+those backgrounds where the language is
+not English and so they're thinking
+their language their whole idea would
+change because the environment forces it
+and so he believes that language as one
+grows up learning and speaking organizes
+and directs the way when perceives the
+world organize information about the
+wall around that happens because the
+world around you gives you a different
+nature of
+the world interaction with you or your
+interaction with the world gives you a
+different kind of feeling a different
+kind of thought process and this thought
+process will then change the way
+language is there and so when you see
+somebody from the street the way he
+speaks the way he is thought processes
+and somebody from very a light
+background when you speak is look at you
+at his speech and the way he speaks both
+are different and so this is the
+interpretation of difference the
+differences which is there so basically
+then in this section on language what
+with this does we continued from the
+earlier section where we looked at what
+is language and what are the parts of
+the language and we proceeded by
+explaining how language comprehension is
+done or basically how long how speech is
+produced so we looked at some water
+speech production and how it is produced
+and what are the errors can that can
+arise in production of speech we also
+looked at comprehension of text messages
+and comprehension or sentences and
+grammars we then looked at some
+principles of better communication of
+how people should be speaking and then
+finally we looked at a very popular
+debate the modularity versus the
+non-modal arity or the debate between
+the fact that language is like other
+cognitive process and so it is
+interacting with them against the debate
+that language is different from other
+cognitive process it should not be
+interacting so this is the basic
+overview that we did in language we
+studied what is language how it is in
+produced what are the rules for it and
+so on and so forth later we saw it is
+the production of language the errors
+that happens with the production of
+language the comprehension how
+comprehension of spoken and written
+language happens and then label the
+errors that can arise there and then we
+looked at how stories are perceived and
+to end with we looked at a famous model
+versus war Farion debater into a
+language comprehension language
+combination thank you

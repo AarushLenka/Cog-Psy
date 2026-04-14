@@ -1,0 +1,1516 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+hello friends welcome back to the second
+lecture on semantic memory now in the
+last lecture we discussed what is
+semantic memory and how it is arranged
+what are the properties of semantic
+memory and how long-term memory is
+divided into both the semantic type and
+the episodic type we also looked at what
+is stored in semantic memory the kind of
+information facts knowledge is
+arithmetic rules certain kind of
+information related to everyday world
+activities every very world knowledge is
+all are stored in semantic memory and so
+there is it's a kind of memory which
+stores most kind of information that
+people use in everyday life we then
+discussed a distinction between the
+episodic semantic memory and we looked
+at what is the main differences and so
+some of the main differences I'll repeat
+here is that episodic memory is
+basically time dependent or temporarily
+arranged where a semantic memory is
+arranged according to meaning it
+basically means that as you are as a
+episodic memory unfolds it unfolds in
+time you can see yourself in time
+whereas if and semantic memory unfolds
+it unfolds as a meaning now what do I
+mean by this the meaning of this is that
+when you unfold in therefore sadiq
+memory like let's say you're a prom
+night or maybe your graduation night so
+every event is are in terms of time from
+morning to afternoon to evening what
+happened during the whole day whereas if
+you ask questions like if you think
+about acts like an ethnic rule of how
+addition subtraction progresses you
+really no need to
+no the time the day when you learned out
+how they progressed in terms of time the
+other differentiation between the
+episodic and semantic memory is in
+episodic memory it is when so
+remembering when it the incident
+happened but in terms of semantic memory
+it is more about what happened so what
+is the content of it and so this is one
+distinction between episodic and
+semantic memory and so this is the focus
+of the memory so episodic memory the
+focus is the self so everything arranged
+in in episodic memory is around self you
+as a person can see everything going
+around and you can watch this thing as a
+third-person observer but in somatic
+memory that's not possible what really
+happens is that you get gather
+information and you are not the self the
+self is not the center stage of this
+memory but rather the world knowledge is
+the center stage so knowledge is
+basically what comes out of semantic
+memory so this is something that we saw
+in the last class
+now we also saw two models of my brief
+semantic memory that in the last class
+one model was called the hierarchical
+semantic Network model where we looked
+at how semantic memory our ingest
+concepts and a world information and we
+saw that it arranges the world
+information in terms of nodes so there
+are several nodes and so nodes are
+basically concepts and these nodes to
+nodes which are similar together or
+where even if they are dissimilar they
+are connected by a pointer or a linked
+between them and so this pointer node
+kind of a thing which is very similar to
+programming in C is what happens in the
+hierarchical semantic model
+it also looks at looked at some of the
+basic interesting facts about cement the
+hierarchical semantic model and we also
+looked at a criticism of how it doesn't
+follow the cognitive economy on how the
+concept of hierarchical structure is
+basically violated so that kind of thing
+is what we saw in the last class we also
+saw the feature integration model or the
+feature model of semantic memory we saw
+that there are two kinds of features so
+most information is innate in terms of
+features and so there are two basic
+kinds of information that is available
+with any word concept or knowledge and
+so one of these is called the defining
+feature that is called the
+characteristic feature we also saw a
+model of how these features are tested
+so that's another interesting thing that
+that has to be there so what really
+happens is that in the beginning to
+start with the feature model takes off
+in this way the first at first you start
+comparing the characteristic features
+and if the characteristic feature of two
+objects or a characteristic feature of a
+new event is similar to a proposed
+concept the more similarity it is the
+quicker a person decides the newer
+instance to be a part of the concept if
+the feature is very low we can go ahead
+and say that this particular new concept
+which is in front of us this particular
+new item which is in front of us is not
+a member of the concept and so we can
+delete this thing now if the
+characteristic feature is neither very
+high nor very low so we proceed to
+combining or testing the defining
+features and so when we look at the
+defining features this is the next step
+in this case only the defining so if
+characteristic features and neither high
+nor very low other defining features are
+tested and when the defining features we
+get a match or the number of defining
+features are yes answer comes in then
+the
+new items or the new entrant is
+basically you know matched to the
+concept and a yes signal is given or if
+the defining features number of defining
+features are very low in the new item as
+compared to the concept it our new are
+and no signal is outputted and basically
+it is rejected that the item belongs to
+this concept and so this is how the idea
+of integration model really works we
+also looked at some of the interesting
+things about the feature integration
+model for example how it progresses and
+what are the how it solves the hierarchy
+problem or it goes ahead and solves a
+category problem so what it basically
+says is as category increases more and
+more abstraction comes in and so with
+the increase in category the or increase
+in the size of the category this process
+of similarity matching becomes more and
+more difficult now in today's class we
+look at some of the newer models which
+are there so the more models which are
+there and then further on we look into
+something called how beside the model
+the concept of model how is semantic
+memory supposed to store information so
+we'll start with model proposed by
+Collins and Loftus in 1975 and so
+Collins and Loftus they basically went
+went ahead and they proposed a model
+which is very similar to the
+hierarchical semantic model and so what
+the basic of this model is it's an
+elaboration of Pauline villains 1969
+model as I said it isn't in extension of
+the original model proposed by Collins
+and krillen and so basically this model
+also states that semantic information or
+world knowledge is basically integrated
+together or the world knowledge is
+stored into the semantic Network in
+terms of nodes where nodes is the
+concept and pointers the pointers other
+links between these concepts
+hierarchical model the only change that
+this model brings about is that in this
+model the concept of spreading
+activation
+is a is the center point or is the
+central feature of this module so then
+what does this model basically say the
+model conceives our semantic memory as a
+network with nodes in the network
+corresponding Network corresponding to
+concepts so what this model says is that
+the semantic memory or semantic
+information well information is arranged
+in terms of a node on a network of nodes
+and so in in this network the nodes
+which we are talking about the central
+point from which communication occurs
+these are called the nodes the nodes are
+the concepts and basically the nodes
+which stores the basic features of the
+concept or the the nodes are always the
+superordinate ones superordinate nodes
+so concept storing nodes are always the
+superordinate nodes also they saw
+religious concepts related by connected
+in paths of the network so if two
+concepts are related together they are
+connected by some kind of a pointer or
+some kind of a link and this link is
+basically called the pointer now the
+more similar two nodes are the more
+similar two concepts are the higher the
+weight between these links so basically
+if two concepts are similar they the
+path running between these concepts or
+the pointer running between these
+concepts will have a higher weight then
+if two two concepts are connected which
+have very dissimilar properties are very
+dissimilar features now how do we think
+about this so for example let's think
+about fire and sunset now both fire and
+Sun said they are not connected together
+they should not be connected together
+because fire relates to some other
+concept is some other network and sunset
+is related to another network but then
+there is one feature of fire and sunset
+which are similar and that is that
+so one deletion between fire and the
+sunset is red but this since they are
+not related together the pointer running
+between fire and sunset should have a
+lesser weight but then if I'm talking
+about bread and butter although our king
+and queen when I'm talking about king
+and queen these two nodes or these two
+conner items in a particular Network are
+originating from two different networks
+but since king and queen are connected
+by also through our intermediate network
+or intermediary pointer and so each time
+when I say a king a queen really comes
+in or other ants the in a pair associate
+testing the Queen is the answer to king
+most of the time for if you ask people
+King and then ask them to say the first
+word that comes to mind that his queen
+is what the transient and what really
+happens is these two concepts are
+connected by at pointer which has very
+high weight similarly pointers
+connecting bread and butter or pointers
+connecting within shoe and shoe laces
+are very high weights then pointers
+which are dissimilar - connecting our
+desk and an aeroplane so that although
+they would be related or they would be
+freely related but the pointer which
+connects these two nodes or these two
+items will be very weakly retained so
+that is what this model says the first
+further asserted that so in this
+particular model is further said that
+when one one mode is not activated the
+excitation of the node spreads down a
+path of links of X related notes so what
+happens it is similar to the concept of
+spreading activation and so what taking
+back from the idea of spreading
+activation what this concept says is
+that as soon as a node is activated if
+sooner than some energy is provided to a
+node this energy spreads down through
+not only through this node but all
+connected nodes all connected links so
+if I'm activating the animal node what
+would happen is the energy will spread
+down to all kind of animals which are
+there it could be Birds
+it could be mammals it could be reptiles
+it could be all kind of animal
+and so from there it will further
+process down or it will spread down to
+other within a million members could
+spread down to all kind of members which
+are there so it may maybe lion tiger and
+so on and so forth in terms of reptiles
+it will spread down to snakes to
+alligators and to so on and so forth
+incomes of birds it will spread down to
+different kind of birds whether it is a
+feathered word non feathered bird and
+soreness so basically this is how the
+the idea is what this module says is
+that when an energy is provided to a
+particular node this energy spreads down
+through all connected and Hulk linked
+nodes now they this particular theories
+or this theorists they believe that as
+activities activation spreads down the
+path or links to related node so the
+exhibition spreads outwardly and
+decreases in strength it basically what
+it means is that as the node as the
+energy it moves down a node what happens
+is this energy since its channelized it
+gets channelizing to so many other nodes
+the energy becomes decrease in strength
+so if two nodes are far apart if to
+connecting items or two connecting nodes
+are far apart from each other in terms
+of a number of pointers or fourth or
+fifth or sixth level relation and on the
+sixth level relation the energy which
+starts from the top the node will be
+very very decreased so when activation
+spreads outward it decreases in strength
+and as I said that both aeroplane and
+desk are related but they are weakly
+related because the energy which is
+activated when I say or when I activate
+the concept of an aeroplane or any
+flying object should be the highest
+concept of a Honda which are open bid
+fall so when that is activated although
+desk will be activated in some way but
+the energy spread will be very low
+because somehow somewhere they will be
+related but since they are so further
+out related the weights are very low and
+the energy that reaches to desk from an
+aeroplane will be
+very low and so what they I also say is
+that activating related concepts when an
+activation sparked from the spreading
+activation when any activation or when
+in OD energized it activates very
+related concepts with with high amount
+of energies and distant concepts are our
+distant nodes are activated with less
+energy that is what is supposed to be
+right so nodes which are related
+together or semantically or perceptually
+or any kind of relations are there
+between nodes they would be very closer
+together and so when energy when a
+particular node when the top node is
+energized then similar nodes since they
+are very close to each other they will
+receive maximum energy but those nodes
+which are further apart or which are
+very dissimilar to the particular node
+in question then the energy which is the
+witches which is coming to these nodes
+will be very less or it will be very low
+so think of this in this way so let's
+say that we have a node of animal and so
+within animal or let's say I have a node
+of living things so I have a top order
+node of living things and so within
+living things I'll have two or nodes
+which are animals and plants and within
+animals let's say I'll just cannot put
+two categories I'll have mammals
+and burped and within plans I'll have
+trees and shrubs and so within mammals
+I'll further have let's say lion tiger
+is one category and the other mammal is
+monkey orang utan within words I will
+have the feathered words so I will have
+something like a parrot and I will have
+a non feathered bird so I'll have
+something like an ostrich and with it
+this also so within trees I'll have an
+apple tree or I will have a pine tree
+and strap similarly a cellular process
+suppose I have a and BS
+now what does this model explain and how
+does this model quite unexplained so
+let's say if living thing is the node
+and these are the pointers to the nodes
+remember these are the nodes and this is
+the pointer which shows the spread of
+energy so what it says is when any node
+is activated energy spreads down equally
+to these nodes right and so when a node
+let's say if our node line is activated
+now somewhere across this line will be
+related to this apple tree or this tree
+right some kind of connections would be
+there so lion leaves in forests and
+forest has trees and so they'll be
+connected somehow or other
+Saada but what this model particular
+says is that when this is energized and
+if lion is the node which is energized
+and this is how the energy is moving
+then concepts which are closely related
+together for example lion man
+animal and living things they will have
+a stronger connection stronger weight
+and so more energy will you spread here
+or more of them
+energy is invested into this node then
+further plants although plants are
+living things but since the land node
+energized and so energy will be spread
+to these nodes so birds will receive
+lesser energy
+similarly the monkey will receive less
+energy similarly feathered and non
+mother birds will receive less energy
+also no question of energy distribution
+here a very less energy distribution
+here but the most energy distribution
+will be to the node lion member animal
+and living things and this is what this
+module says so if first of all energy
+spreads it moves down and it moves down
+it spreads out so energy will be
+basically moving to all directions right
+and so here the less less energy is
+invested in these parts then in this
+part and this is what the basic
+proposition of this module is as I was
+talking about so this is how the model
+looks like so this is the animal node
+this is the bird node this is the
+chicken node and so within the bird node
+you have the chicken node and so you
+look into it so let's say if feet or if
+Robin is activated then this particular
+node will be energized and so high
+energy will be or more energy spent into
+this node then the nodes with chicken or
+the nodes with ie feathers and so these
+are also nodes these are also certain
+nodes which are they which are connected
+pointer so these nodes will not perceive
+and enough sufficient energy but these
+these these nodes will they see
+sufficient energy and so will these
+nodes because they are connected to
+Robin also these nodes which are their
+legs breathe eyes ears and so on and so
+forth
+will not be seeing energy and so that is
+what the model talks about and this is a
+way of it so basically this model is
+just an extension of the hierarchical
+symmetric model the only difference is
+that it talks about this shredding
+activation of how energy spreads when it
+starts when is activated at the top and
+how it filters down or it how it moves
+down from there so in this model the
+idea is that various
+our concepts have many connecting links
+and not placed close to each other so
+what this model says is that similar
+concepts concepts which has certain
+features certain distinctive features in
+each other they are placed together or
+they are blocked in some kind of a block
+which are where which have very close
+proximity with each other right now on
+each link and connection between two
+concepts is thought to have a certain
+weight or set of weights and now as I
+was explaining now since two concepts
+are related to each other are they are
+placed in close proximity to each other
+these links will have very higher weight
+so as as two links the more similar two
+links are there are more similar two
+nodes are the stronger the weight
+between them and the more energy or more
+energized they become then two nodes
+which are dissimilar with each other now
+the criticism to this model the
+criticism is that the model is the
+breadth of the model metal model is so
+huge that it is difficult to make clear
+and strong predictions from the model
+regarding empirical findings so the
+model is so huge it talks about that
+everything is connected to everything
+and there is there's this wait the idea
+of weight and the idea of how it is
+connected to each other and another
+problem with this model is what makes
+two concepts similar so this reality
+concept or this idea of similarity has
+not been explained by this model and so
+it's a difficulty it's a genuine
+difficulty with this model of how do we
+income pass or how do we study this
+similarity that we are talking about
+what do we call similarity so are we
+talking about the defining features are
+we talking about the characteristic
+features what makes similarity similar
+and so this is one thing or one problem
+with this model and so in opposition to
+this model not exactly direct opposition
+to this model
+another interesting model was proposed
+for semantic memory and this is called
+the end essence a CT or a CT our model
+so what is this model it was proposed by
+John Anderson in semi
+1976 and it is called the adaptive
+control of thought model of memory it is
+also known as a CT a CT star a CTR and
+so on and so forth so those of you who
+do modeling or who do computational
+modeling will be very familiar with the
+actr structure the adaptive control of
+thoughts no that so basically what is
+it's a process model is a process
+orientation model and so this process
+orientation model basically it's it's
+kind of a box pointer model remember the
+first class that we did we talked about
+two kinds of model the box and pointer
+model and we also talked about the
+connectivist model where we have unit
+input link an output in Kenna and hidden
+link so the next model that we talk
+about the connectivist model is
+basically at that time now this is a box
+and pointer model and so what does this
+model say so based on analog is two
+computers a CT gives rise to several
+computer simulations of cognitive
+processing in different tasks so
+basically this model has certain
+conceptualizations of how information in
+is stored in our memory basically world
+information or common sense information
+with implicit knowledge is stored in our
+memory so what are these
+conceptualization that this modulus is
+now the first conceptualization that
+this model talks about is that it
+distinguishes between the three type of
+memory systems it says that the human
+memory system is basically arranged in
+three different types or three different
+ways of looking into it it is arranged
+in terms of declarative memories non
+declarative memories is that memory
+which will have more all information
+facts knowledge arithmetic rule world
+knowledge everything into it and so
+there is no distinction of the episodic
+and the semantics here and so this model
+looks at declarative memory is the
+storehouse of all kinds of information
+whether it is personal information
+whether it is self related information
+or even related information or factor
+information so the first
+conceptualization of this model is that
+there is something called declarative
+memory and this declarative memory has
+all kinds of information that should be
+present or that is present in this world
+also there is a conceptualization of
+working memory which is information that
+is currently at the highest level of
+activation so it all talks about working
+memory or working memory is that kind of
+memory according to a CTR or adaptive
+control of thought model which we are
+using right now so although declarative
+memory stores a lot of information it
+has a lot of information and so I'll
+explain to you the how this declarative
+memory really works
+so basically declarative memory is
+conceived as a model with nodes it is
+similar to the hierarchical semantic mal
+model and so there are nodes and these
+nodes are connected by weights and these
+weights are the determined by the
+strength to the pointer or the
+similarity between two nodes so
+basically that's how declarative memory
+store but declarative memory cannot on
+its own do anything and so there is a
+conceptualization of working memory
+working memory is that part of memory or
+that kind of memory which is active at
+any point of time so when I'm accessing
+declarative memory the kind of memory
+which is accessing and doing all Carter
+alka operations on to declarative memory
+is called the working memory it is
+memory at the highest level so
+information access and information
+processing are all all those operations
+which are doing the information
+processing and accessing memory from
+declarative store is basically what is
+called the working memory so think of
+working memory is a part of declarative
+memory but it is that part which is
+active which is doing the processing or
+which is running the operations or the
+rules of the game which which it is
+running is what is the working memory
+and next to it is the idea of procedural
+memory so procedural memory is a kind of
+memory which is procedure based but it
+works on two or it works something like
+in terms of production rules so there
+are certain production rules will come
+to explain that also so there are
+certain production rules there are
+certain ways of doing things and the
+procedural memory is basically a kind of
+memory which follow these rules and does
+a particular kind of an act right so
+basically then this memory talks about
+declarative memory in this way Sanderson
+eighty-three believed the declarative
+memory stores information in network
+that contained notes as I said before
+what declarative memory generally tends
+to do it has a large vast network and
+these
+works as concepts which are stored as
+nodes and so all concepts which have
+similar features a similarity based kind
+of matching is there so those concepts
+which are similar a clubbed together and
+these have the highest weight and they
+the weight is basically the strength of
+how close two concepts are and so these
+have higher weights and they are
+connected by some kind of a pointer so
+this is how declarative memory is all
+about now there are different type of
+nodes including those corresponding to
+special images and abstract propositions
+so basically instead of the
+conceptualization of working memory by
+allen-bradley very thinks about there is
+on something called us visuospatial
+sketchpad and phonological loop
+Anderson's model talks about declarative
+memory as network of nodes and these
+nodes are of two specialized very
+variation one is spatial image so space
+related information and because this
+model is a conceptualization of a
+computer program so it has to define
+spaces and so that one way of looking
+into declarative memory is space
+information or space images basically
+what in in a problem space how does
+somebody move so you should have to you
+have to know the boundaries of the space
+and the kind of problems in a space and
+that is why the idea of special image or
+space images there so nodes in
+declarative memory are of two types
+either it is space related nodes which
+tell you the boundaries or the kind of
+problems or the kind of hindrances that
+you get while self solving a problem and
+so that is path space relation
+information where you have abstract
+propositions so abstract propositions
+are basically how things are related to
+another what is the proposition or what
+is the kind of rule which relates to
+information together so basically after
+abstract propositions are how to rules
+are related to each other because these
+rules will define how a particular
+information is excess so a rule a and
+will be how they are related to together
+for example let's look at simple row so
+if if a if a inverse B and we infer C
+which not not
+means that seen fuzzy so this backward
+propagation is not that and so similarly
+these kind of rules of what relates to
+what or kind of it's part of a set
+theory so how these rules are there how
+these prepositions really work is what
+is stored in a particular node also a
+city model allows for both activation of
+any node and first reading activation of
+concept so it basically encompasses or
+it basically includes activation of node
+and spreading activation to be true so
+if any node is active the node will pass
+this activation on to correlated nodes
+and not related nodes together but
+related nodes will have high energy and
+non related no tree left lower energy
+and that that's why it also agrees with
+the idea of excitation passing over to
+nodes and the idea of what spreading
+activation is all about further this
+concept the actr
+the deductive control of thought it
+talks about procedural memory so what is
+procedural memory it says representation
+of a series of production rules so
+basically the procedural memory works in
+this way then there are certain
+production rules of how an act should be
+done now these production rules
+generally have a goal it has a starting
+a goal and certain kind of conditions a
+certain kind of rules to be followed so
+basically it goes in this way that if
+you start somewhere
+now this start and then there is a goal
+state also reaching to the goal State
+al are basically within the goal state
+and the start state are certain
+hindrances and certain rules that you
+have to follow and if you follow these
+rules and overcome these hindrances you
+will reach the goal States let's try and
+explain to you what the ceiling is so
+let's say that it is festival which is
+going on and so just near where you live
+in your hostel rooms or wherever you
+leave the the place near that everybody
+is singing in a very good mood but then
+you know that there is an exam right so
+the idea is that tomorrow you have an
+exam you are living where you are living
+and just beside the window of where you
+are start
+in your home lies or in your hostel lyza
+program where people are shouting and
+marrying together or they are making
+merry now the thing is that the goal is
+to pass the exam with good marks the
+starting point is in a position where
+you where you are sitting right now and
+then there are rules and there are
+hindrances to it the hindrances is if
+you are there then basically yeah there
+will be so much sound that you cannot
+read and the certain and the rules are
+that you should not disturb them so you
+have to follow a rule the rule is that
+certain rules have to be followed so
+basically you if there's a lot of people
+so you cannot stop them by rule they are
+free to do whatever they do but the rule
+also says that there are certain
+possibilities which are here the
+production rule says though there are
+certain possibilities here for example
+one part one solution to this problem is
+going to the library but it also has a
+rule so the library starts at 9:00 p.m.
+so wait for 9:00 p.m. then follow the
+rule of the library where by rule or the
+library no man can shout that so even if
+people wander when they cannot shout
+there and so one way to to reach your
+goal is to end to get out or get away
+from these hindrances is back you're
+back after 9:00 p.m.
+go to the library study there till the
+rule permits come back and pass the exam
+nicely so this way
+you have enjoyed till 9:00 p.m. whatever
+is happening after 9:00 p.m. what are
+their follow certain rules of get rid of
+certain obstacles go to the library
+which is a solution to it and then pass
+the exam and there so this is basically
+achieving the goal state following
+certain rules and certain hindrances so
+basically these production rules or this
+procedural memory generally is the
+if-then statement which tells how to
+perform a particular action so if this
+happens then this is the kind of thing
+which is there that kind of a thing so
+if if you want to study for an exam
+together to four years for tomorrow then
+you have to find a place which is silent
+if you have to find a find a place which
+is sound then you have to do this and so
+there are certain rules hindrances goals
+and four-part system which is they we
+will talk about this into
+problem-solving into when we come to the
+section of problem solving also
+production rules specify your goals to
+achieve one or more conditions that has
+to be true for the rule to apply and one
+or more action that results by applying
+the rule so as they explain to you there
+is a goal to be achieved there are
+certain conditions so that should be
+fulfilled for example if you go to the
+library they could be silent and the
+rule says that it has to be silent and
+so you have to go there and then these
+are the conditions preconditions and
+what are more action the action is
+getting your books going to the library
+starting there and then coming back and
+so this is how the conceptualization of
+working memory or the idea of actr
+really talks about in terms of
+procedural memory so basically in terms
+of a CTR it's about three memory systems
+which interact with each other and they
+lead to the formation or storing of
+memory data into the human brain now
+basically then this is how a simple ACPR
+model will work and so you as you see
+this is the declarative memory so you
+have both the motor module and the
+visual module so two modules are there
+and these collect information from the
+environment the motor model can contain
+spatial information the visual module
+contains those proposition abstract
+propositions which are there and combine
+to something called the actr buffers the
+actr buffers then also gathers
+information from procedural memory
+because the procedural memory will tell
+you how to exactly go about the
+procedure of doing certain things so
+basically how to go about the storing
+things so declarative memory is these
+two parts are the declarative memory and
+this information comes to a CGI buffer
+the ICTR buffer then talks to procedural
+memory which tells you the procedures
+which tell you what has to be done and
+so the two procedures are pattern
+matching and product segregation and
+based on that you will come to again to
+the actr so this is the input and this
+is the output and the output is again
+fed to the input and this kind of a
+chain goes on and on
+so basically any module or any kind of
+information which comes here is
+processed through this kind of a thing
+else this here it is a simple visual
+task matching program that have this
+and so as you can see this is how this
+model really works the actr model really
+works now in addition to the actr model
+interesting another model which has been
+proposed is called a connectivist model
+now what is this model it's a very
+interesting model and this model doesn't
+conceptualize the way we thought about
+how things are stored either as networks
+or memories or in terms of concepts or
+in terms of knowledge network of
+knowledge or in terms of three kinds of
+memories they don't conceptualize this
+in this way
+so what connectivist model think about
+is that what is stored they say that
+what is stored in the memory or what is
+stored as word knowledge is basically a
+set of changes in the instruction of
+neurons which sent to each other
+affecting the pattern of activity that
+can be constructed from a grave engine
+what does it really mean it says that
+what is stored
+first of all it's it's kind of a copy
+from the biological model so as as we
+saw in one of these classes I explained
+to you how memory stories every stored
+as interconnections between neurons and
+so what really happens is memory is
+basically a connection or it's basically
+a path from one neuron to the other
+neuron and so what this model says is
+that what is stored between two neurons
+is not knowledge or concepts now what is
+stored in the memory is not knowledge or
+concepts it is set of instructions which
+are stored and which is passed on from
+one neuron to the another what are these
+instructions these instructions tell a
+particular set of neuron which are
+connected to each other to process how
+to process data and so there are certain
+modes of processing and so these
+instructions basically ask neurons are
+basically instruct neurons in processing
+so let's look at I will briefly define
+this model it's a very huge and complex
+model so I'll try and very briefly
+define this model for you
+so basically this model learns to
+develop patterns of activation through
+many trials which
+examples for our example back
+propagation so basically how this model
+links is how this model really works is
+there are certain input layer there are
+certain input features or input units
+now our unit have has is a pattern is a
+unit is thought about as item which
+receives input from the environment and
+so this unit then passes this
+information on to a hidden layer or
+hidden unit or hidden related set of
+units which are there for example
+verifying Robin is a bird it was a very
+simple statement organ is a word the
+Robin as soon as a Robin unit is
+activated it will unit it will activate
+all related units with the bird with it
+right so things like bird has legs bird
+has feathers but has weeks but has a
+different color and so on and so forth
+so all these units will get activated
+now how does this model really work so
+it has an input unit and this input unit
+when they get an input some of these
+hidden and that there is a lot of hidden
+layer there is a lot of in hidden input
+which is there and so what happens is
+the strength of activation or there's a
+number of inputs which are there let's
+look into this model first of all so
+basically this is the connectivist model
+of a robin and so this is a lot of
+inputs which is coming from the
+environment so when you see Robin for
+example this is the bird that you are
+seeing and so only when Robin is
+activated all these things which are
+coming from the environment is
+deactivated at that point of time only
+the robin mode is activated and this
+robin mode northern connects to this
+hidden layer so robin is so basically if
+I am activating the word Robin Robin is
+basically a bird and so basically is is
+an has this is basically the kind of
+connector to robin which can get
+activated basically robin is a bird
+robin can be a bird robin has a word all
+kind of connectors are there and so
+robin Easy's activated or can is
+activated and so these activations
+further link to this
+the hidden model or this hidden layer
+and the certain layer then basically
+gets strained and then from there the
+thing is now Robin is a particular name
+and kin is also a particular name so
+what can Robbie do Robin basically can
+be both a bird and a person right and so
+when I see a Robin in the environment
+the node which is activated is Robin if
+I'm saying if this is activated and
+Robin can so what can Robin do if it is
+a man if it is a human thing it can do
+these many things but if it is Robin can
+also be an abstract thing and so when it
+is an abstract thing it can have several
+other features with it but when it is a
+bird then it can do all these things it
+these nodes are activated because the
+bird can grow the word can move the word
+can not swim in so this is not activated
+the bird cannot sing so it is not
+activated maybe it should activate the
+word cannot bark and so this is not
+activated the bird doesn't have branches
+and so it is not activated so when a set
+of input node is activated these input
+nodes has a number of connecting nodes
+with it right so when when I look let's
+assume an example where I look outside
+of my window and when I see several
+things I put my attention on to Robin
+now this Robin has a bird is a bird and
+so there are certain features of Robin
+which has to be activated and so
+basically this model then say is that if
+Robin is activated similarly we will be
+activated the word can Robin can and
+Robin can do what so you see a Robin or
+you see a bird which is on the on on
+where your attention is followed but
+there are several other things which are
+there so there will be several other
+nodes which can get activated but your
+attention is focused on two only Robin
+and so what Robin can do is it can grow
+it can move it can fly and these three
+things are the only one which should be
+activated but could also be activated
+but then other things are related to all
+other things that you have seen in the
+outside environmental world and so
+basically it will not get activated now
+how does this model really work so this
+model says is that the input layer
+basically it learns so when an input
+layer is activated it activates related
+layers
+related hidden lanes with it and so it
+at the beginning of any input cycle the
+strength between the input node and the
+hidden node will be random weights let's
+say if zero and one of the two allowable
+weights which the input layer and the
+hidden layer would have at the beginning
+of any propagation or the beginning of
+any input signal the weights between the
+hidden layer and the input layer would
+be 0.25 now as as I said there are a
+number of factors or the number of items
+which compete with each other to start
+the input and since Robin has started
+the input it will change its weight
+right though so the weight of Robin will
+become 0.8 from zero point five will
+become zero point eight but all other
+weights for example tree house all other
+things which have been captured at the
+same moment but attention has not been
+put to the weights of these will change
+slowly change to 0.2 0.3 0.1 why 0.15 or
+so on and so forth only the robin node
+is activated so the weight of this will
+increase which will increase to one zero
+point eight and so the in hidden layer
+will learn this now then there will also
+get some information both from the
+perceptual system as well as from the
+memory system because robin is activated
+so the memory system will also feed in
+some information and so for example
+robin can Robin has Robin kind of a
+thing so it is present tense and so can
+would be activated and so can will have
+a higher weight it will the weights will
+change to 0.8 and similarly there are
+certain features of what Robin can do
+now Robin can fly it oven can has a weak
+it it can do this it will do sing it can
+have color and all those things will be
+activated in all other ways will not be
+activated now basically this model then
+what it does is from an input it
+generates an output and with that
+input/output system it starts learning
+right and so well how it what is the
+meaning of learning each time a
+particular input is selected and output
+is generated the connection becomes
+stronger and stronger more stronger the
+connection the more faster the learning
+is
+this kind of model basically is a
+learning model so let's look at what
+this is and so this how do we train this
+model so first you show the model that
+Robin is whatever it is to anybody you
+show the model any but it can do these
+things and they can basically result in
+this kind of a feature and so it is a
+training example from that training
+example show it the model a bird now you
+have started with the idea of bird so
+from Robin change it to parrot and
+that's how the model behaves now parrot
+is very similar to la Robin so as soon
+as it identifies it is closer to the
+concept Robin so it will then adjust the
+bait between it and the when the the
+input system and the hidden system as
+0.8 it will learn this and similarly
+output all the features that will output
+for the concept a bird and it goes on
+doing this and so our training after
+training or time after time it will then
+develop that this is the feature of what
+should be of a bird so next time you
+present it a bird that it doesn't know
+which is not a training example it
+quickly classifies this as a bird and
+then outputs an list of features that
+the bird is going to happen so initially
+connections between nodes are set as I
+said you said a set at random weights
+experience leaves these connections to
+be activated more and less strongly so
+the more closely each time when it
+produces an output this output is
+compared to a set of truth features this
+output is connected is basically matched
+to what should be what should be
+expected as an output and the closer the
+match the better their training so if
+it's not closer then the model model
+adjusts the weights accordingly and we
+either delete some of the features or
+increases some of the features and this
+goes on making the weights or the goes
+on making the number of connections so
+training occurs by presenting a specific
+example to the network with there
+generates a particular output so you
+start with let's say parrot and you
+teach the model then if parrot occurs if
+parrot comes in these are the features
+you need to output next time you start
+the training with say a sparrow this is
+what it is so slowly the more model or
+Scalia the input layer will understand
+that ok once something like this is
+presented something like a bird is
+presented with
+gathers those features then these are
+the nodes which has to be activated and
+so the nodes which have to be activated
+then where there's a higher weight and
+then the output which it which it should
+present so also tell it the output so
+when I show a parrot show me the output
+that it can fly and wing it has wings it
+can do this it can do that that kind of
+a thing and also show me the weights for
+things it cannot do and so match it with
+this idea that parrots can fly so this
+is a verified sentence and this is a
+true sentence so verify with that now
+the next after so many trials after say
+50 or 100 trials when you show it may be
+a different kind of bird for example
+let's say crow and what does the model
+do when you show it a crow although you
+do not tell the model this is a crow the
+model adjust the weights accordingly and
+says that it has a beak it can fly and
+so on and so forth because these are the
+pruning programs so you train it with
+some examples and then the model learns
+on its own and starts adjusting the
+weight so it will also give you with the
+crow it will also give you inputs
+outputs like it is black in color it has
+two eyes beaks these are the generic
+things but certain other features also
+it will tell you also training placing
+epochs so basically these trainings they
+go about in epochs and each epoch
+produces an output activation which is
+compared to a correct target activation
+this is how this model really works and
+as I said there's a number of things are
+there's a number of input systems which
+are activated only robin is activated
+and so what will happen is only these
+connections are energized and all
+connections have starts having lower
+weights and so since this feature is
+related to this feature so these
+features add on to this model and so
+only ABC as you can see is activated
+here and others are not and so when it
+gets training then in the next training
+round on the next epoch it will also
+learn that it is a bird it will also
+learn that it is red or green in color
+it is also along that it it has wings
+and feathers and so on and so forth and
+some more number of outputs will be
+activated so it is not only that through
+these models we can explain semantic
+memory there are two more concepts
+through which we can understand how
+semantic knowledge or world knowledge is
+Eirene and so toward these concepts one
+of the famous ways of doing that is what
+was proposed by Sir Frederick Bartlett
+and so what Bartlett did was he's read a
+very interesting study and he showed
+that there is a lot of reconstruction in
+memory and this reconstruction is how so
+what he says is that what semantic
+memories stores is not an exact
+representation of what happens but a
+gist a kind of a broken down version of
+the information that is what is stored
+in our memory and so he in his
+experiments he presented something
+called a war of ghosts a story to one a
+couple of people and the story was a
+complex story it had many relations and
+many kind of information into it they
+were so interfaced and they were so
+closer to each other that was very
+difficult to break the story apart and
+so this story was presented to a number
+of people and when these people who were
+presented they were asked to recall the
+story after a certain period of time but
+what really happened is that most of the
+people remember the gist of the story
+the main idea of the story but they
+forgot the basic features are the basic
+some basic things about the story for
+example names places these very mixed up
+but the story the outline the story was
+what was there in Frederick that partly
+says it there is a way of storing these
+kind of information agenda involve
+knowledge information and that is what a
+schema is so then look at what is a
+schema so basically schema represents
+knowledge in the semantic memory that's
+what what les proposition is there is
+something called a schema so what is a
+schema then a schema contains general
+knowledge about the world and
+information about particular events so
+it's not only consisting of general
+knowledge about world but it also has
+information about particular even so it
+has both declarative as well as
+schematic semantic type of information
+onto it
+now schemas are large units of organized
+information which are used for
+representing concepts situations events
+actions in memories so basically a
+schema is kind of a huge it's a huge box
+kind of a thing where a lot of
+information could be presented into or
+could be put into and these information
+when they are put into they sort of act
+together or they sort
+work together for example rumelhart and
+oourtney in 77 they propose that the
+fundamental building block of cognition
+is this schema so this schema has
+information stored into it into all
+kinds of and world knowledge it's kind
+of a guideline of what should happen a
+schema is kind of a guideline or what's
+to be expected for example the schema of
+let's say a village now the schema for
+village basically says that these things
+for example bollocks
+feels Greenfield use water bodies people
+farmers trees animals this is what
+should you expect in a village you
+should not or you can not expect a car
+or modern build building or an aeroplane
+in a village and so these are the kind
+of things which is expected with the
+kind of which is not expecting the
+schema for village will have this kind
+of an information so basically then
+schemas are big packets of information
+that contains both a variable in a fixed
+part for example if we look at the
+schema of a dog the fixed part of this
+information is that it has mammals in
+four legs because the fixed part is sad
+across all the instance of the schema so
+any dog we look into it it will be a
+mammal and it will have four legs but
+then most Chema's also have a variable
+part and the variable part is where we
+wear this feature they change across
+instances or change across variations of
+the schema and so things like breed
+things like size color temperament these
+mice change the curd dog so you might
+have an Alsatian you might have a
+chameleon you might have a scent Bernard
+or you can have any kind of dog which is
+there you could have a very light
+tempered dog a heavy tempered dog a
+highly colored or non colored dog a
+Chihuahua kind of a thing which has a
+very strange kind of a thing sizes so as
+I said you can have great dane which is
+very high in size you can have a
+chihuahua which looks like more like a
+cat and so on and so forth so within dog
+variations could be there but then the
+fixed part is that all dogs have are all
+dogs within that particular category or
+that sistema should be same also schema
+indicates relationship among various
+parts of information now what what do I
+mean by this
+if I'm talking about a dog now the idea
+is that the dog should have a head and
+this head should have two eyes only the
+tail should not be coming out of the
+head and or the nose so basically there
+are certain relations which are there
+among certain parts of the dog and that
+is what it is so the rear of the log
+should have the tail and the forward of
+the dog should have eyes and the color
+of the dog should be in this variation
+the hind leg should be here the fore leg
+should be here this kind of
+interpretation should be there so Sigma
+indicates the relationship among the
+various pieces of information should be
+there what is the fixed piece and what
+is the variable piece and what is the
+relation to each other so a dog which
+has our legs coming out of the eyes is
+not actually your dog an instance of a
+dog but a dog which has eyes coming out
+of the head is basically a kind of a dog
+and so this is the relationship and so
+the leg should be below the eyes and so
+on and so forth all school schemata
+connects to other schemata in a
+varieties of ways so not just one schema
+a number of schemas can be connected to
+each other one schema of particular
+thing can also be connected to on the
+schema of some other things now schema
+is also used for filling or in default
+values of certain aspects of a situation
+which help us in making an assumption so
+basically the schema tells us as I said
+the schema tells us what is to be done
+in a particular situation so let's say
+if you are in in in an exam hall the
+schema says that or if I am telling you
+a story of how I met my roommate school
+class roommate for the first time I do
+not need to tell you that what is my age
+because most people turn to school
+around 18 19 years in a graduation
+school around 18 19 years so this can be
+auto-filled
+that this is what your age should be and
+so when I am talking when referring to a
+friend as her you know I need to tell
+the gender of this fail so this can be
+a schema will provide this kind of a
+thing so when I was talking about a
+gender I am talking about that my
+roommate is a her then the idea that
+this is a female is automatically comes
+in also schema exists in all levels of
+abstraction thus they can exist for
+small parts of knowledge also
+so basically what it means is that
+schemas can be for very small knowledge
+abstractions for example certain letters
+written in certain kind of ink letters
+or it could be the schema could also
+exist for greater details for example
+like the theory of relativity so there
+are certain schemas in the theory of
+relativity for example the fabric of
+time the idea that time dilation happens
+the idea that there is something called
+the space-time where space means time
+and then this variation so those schemas
+and also very small schemas of how
+certain letters can when combined with
+each other
+give us a perception of a different
+letter so that basically our that level
+of abstraction also schema should work
+so write in this way and it becomes a B
+or mean this a you have seen those
+letters right Kelly graph is of certain
+kind of letters and so they also are a
+certain level of scheme identification
+now related to the idea for schema is
+the idea of a script now script a ski
+mask for routine events for example
+going to a restaurant what is a script
+think of it in this way when you go to a
+restaurant there is basically four part
+meal system right you start with the
+soup or some kind of a beverage to start
+with then there is the first course then
+there is the main course then there is a
+suite and then you wash your hands you
+pay the bill and you move away and so
+basically this is what the script is the
+script says how the schema moves in time
+how the schema moves across so what is
+the production rule for a schema or what
+is the procedure of a schema or what is
+the procedure for routine event is what
+our script is all about
+now scripts are used across a variety of
+situations for filling out unknowns for
+example let's say that I visit a new
+city right so I visit some some city I'm
+the Luminess am sitting in am living in
+India and I go to the US now when I go
+there I did not think what a restaurant
+should be in how to sue the restaurant
+function because I know from India that
+this is how a restaurant functions so
+most rational restaurants would function
+in the similar way it's not that in
+those days friends something else will
+happen the same idea of what I have in
+India should be a capture of an incident
+there and so scripts certainly help us
+in organising information or filling up
+information or basically how we can use
+it in different
+scenarios schemas also scripts also help
+us in making a number of inferences now
+what do I mean by that when I say that
+you have you can get a number of
+inferences so a particular script when
+define it shows you that what is the
+result of this particular thing so if a
+main course is there what is the result
+of this main course in a dinner
+what is the result of the or what
+follows for example so if I say that I
+went to the restaurant and I ate ate my
+food and I came back basically you feel
+in your head that you might have paid
+the bill and that then you came back and
+so this feeling of information that you
+arrive the restaurant with someone went
+into the restaurant sat at a place when
+I say that I ate food in a restaurant
+today
+basically the all other ideas of you
+sitting in a restaurant having ordering
+the food eating itself is filled up and
+so they this information this inferences
+can be made from it that you are paid
+the bill and come and you not run away
+from things the restaurant did come out
+and so these inferences can be and also
+lastly schemas help us in making an
+order and so to this to test this
+particular thing how schema makes us the
+things perceive things in order
+this baauer black and Turner they need a
+particular study and so in this study
+what the leaders do is presented a story
+and in this story the story was made in
+such a way that there were several
+concepts in the story and they were in
+unordered form so some parts of the
+story
+the climate's of the story came before
+and the meaning of the story was in the
+somewhere in the middle and the middle
+of the story was somebody in the back
+and that kind of information was
+presented to people nobody when I recall
+was done most people remember the story
+in the right correct procedure in the
+right scripted order so although the
+scripts was deviated people remembered
+it in the right way from how it began -
+what was the climax - what was the
+middle part - what was the climax and
+how it ended right so no matter if
+intermix the kind of sequences of a
+story or sequences of a particular event
+a routine event this schemas or this
+scripts will basically help us reorder
+these things together so basically what
+we did in today's class is we looked at
+some other models of
+semantic memory or world knowledge
+memory into it how do they work and what
+are the pitfalls of this model criticism
+of this model we also source the
+connectivist model which is a very
+interesting model so if you are looking
+up for taking up computational modeling
+you can either use a CTR or connectivist
+modulus and these models are interesting
+models of how they product because these
+models are also used for generating
+artificial intelligence systems or
+learning systems so basically that's
+what we discussed there and then from
+there we also looked at another way of
+storing information in terms of scripts
+and schemas and so this brings us to the
+end of this lecture thank you

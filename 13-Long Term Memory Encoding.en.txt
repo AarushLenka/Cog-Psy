@@ -1,0 +1,1235 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+come back so in today's lecture we are
+going to study about long-term memory
+this is a part of memory which has been
+discussed in that internship and model
+and this is the kind of memory that
+people when they collect early or when a
+layman talks about memory this is the
+kind of memory that they talk about so
+what we're going to do in today's
+lecture is will look into this kind of
+memory so basically mostly tribals that
+you have any kind of information that
+you think of storing any kind of life
+event knowledge any kind of facts any
+kind of mathematical rule or any other
+kind of information which you think is
+stored in your mind or brain is
+basically what is stored in the
+long-term memory so let's then look at
+what is long-term memory and in this
+particular section we look into basic
+processes of long-term memory as in how
+it is formed and what are the basic
+processes and kind of retrieval and all
+and the upcoming couple of lectures we
+look into different kinds of long-term
+memory now continuing from what we saw
+in the last class I discussed about
+something called at kitchen and
+reference model so at kitchen shiven
+model or the information processing
+model talks about a system which has
+three parts into it a three part system
+so what we have is a setup like this and
+this is called the sensory register in
+the last C's of last lectures we saw
+what is sense a register and how does it
+work and what are the various properties
+of the sensory register so basically any
+information which comes out or which
+comes in or gets processed through the
+perceptual and rational processes
+basically arrive at the sensitivity
+and it is a huge capacity very short
+duration of time and then we have
+something called the short-term store
+this is another thing that we talked
+about in our last lecture this is the
+kind of system which shows information
+from brief periods of time not very
+brief but we could be periods of time
+but it can hold only limited information
+and we saw an extension of this concept
+called the working memory in our last
+class so working memory is basically an
+improvement of the short-term store
+because it talks about the system which
+has more capacity then as was discussed
+in that engine and Chafin model and
+obviously the last thing that we didn't
+discuss the last part we didn't discuss
+was the LTM or the long-term memory this
+is the store which holds most of the
+information even the working memory as
+we saw the capacity working memory
+executed systems which basically make
+decisions for the working memory system
+they threw the episodic buffer connect
+to this long-term store so this
+long-term store then holds our most of
+the information now that kitchen and
+schriften model just just doesn't talk
+about this kind of box and arrow
+structure but they also talk about
+processes and so these processes are the
+ones which actually go ahead and
+transfer information so here the process
+here is the attentional processes water
+so I'll write attention allocation here
+so that is the process which takes an
+information from the sense a register
+and moves it to the short-term store and
+once the information is in the store can
+store it is basically the rehearsal
+process which moves information from the
+short-term store to the long-term store
+so the number of rehearsals that we do
+a number of repetitions that you do of
+an information number of times you use
+an information it basically goes to
+something called the long-term store it
+gets stored here now the long-term store
+is not an active store as we discussed
+in terms of the short term store we saw
+the working memory concept describe the
+short-term store is an active store said
+it can do a lot of stuff it can move
+around a lot of stuff it can do a lot of
+activity but the long-term store doesn't
+do any activity it is just like a kind
+of storehouse which is there so
+information are there a number of
+information is stored here it is stored
+in a highly organized and categorized
+format but there is no action as such
+which basically means that things cannot
+be acted upon if a particular rule or if
+a particular information needs some
+action on it
+some kind of an action has to be done on
+this information it has to come back to
+the short-term store the working memory
+store and the process which moves
+information from the long-term store to
+back to the short-term store is
+basically called the read tribal process
+so basically then we will look into this
+part this whole part in this lecture now
+the question is what is the existence or
+evidence for existence of this long-term
+store but again let's look quickly look
+into the idea of serial position car now
+what was the experiment for looking at
+the serial position curve the experiment
+was that unlist is given to people to
+actually go ahead and read and once you
+read this list you are asked to retrieve
+it back and as you retrieve it back what
+tends to happen is a curve like this is
+shown in terms of retrieval so if I look
+at percentage accuracy of recall which
+is on this side and this is the item
+numbers on the list what I tend to see
+is that items which are recent tend to
+be retry more and items which are at the
+the list tends to be they try more
+whereas item in the middle of the list
+are not rape tribe and so this effect
+was called this was called the primacy
+effect and this is called the recency
+effect and very popular theory we have
+discussed this before now this base
+basically experiment shows that and the
+reason that there are there has to be
+two systems of memory there has to be
+two stores of memory the reason why is
+that in the items which have been
+learned at the beginning of the list
+they receive a number of repetitions and
+so they had retrived back better is
+because this goes to a LTM store a store
+which stores information a kind of
+structure in the brain which stores
+information for longer durations of time
+and the experiments are done where it
+was found out that the primacy effect
+items which show primacy effect they
+remembered for longer duration of time
+why because it was processed think of
+you doing the list what happens is the
+first item comes in so second item pops
+in so we repeat the first item and the
+second item third item pops in you
+repeat the first item the second item
+the third item and so the number of
+repetitions that the first item actually
+goes through or it receives is n
+factorial times so kind of the list
+items is there and make a vector low
+that and that is the kind of repetition
+cetera see so with more number of
+repetitions you are prone to more number
+of more processing and so shifting to a
+store so this basically here this
+diagram here shows you that there are
+two different kind of stores and this is
+the short term store and this is the
+long term storage now another
+interesting thing is that as we saw that
+the short term store which is basically
+then improved into the
+in memory store that is divided into its
+central executive the phonological loop
+the VCO spatial sketchpad and the
+episodic memory
+similarly the long-term store has or the
+long-term memory has several
+subdivisions so we look into the
+subdivision in the and as we move
+progress through this and each of the
+subdivision we are going to look at or
+we are going to study one by one so the
+upcoming lectures will look into all of
+these stores so basically there are two
+subdivisions of it one is called the
+declarative part and the other is called
+the procedural part so basically the
+long-term store and itself is divided
+into two stores there is a lot of debate
+we'll also look at the debate of what
+are the declarative and procedural
+parties but basically the difference is
+declarative is that part or the
+declarative is that type of long-term
+memory which you when you retrieve that
+you're conscious about it so a task like
+thinking about your first birthday I'm
+pretty sure that you cannot remember
+your first but that but let's say you're
+12 class farewell or things like that
+now another interesting thing why you
+cannot remember your first birthday is
+up because there is something called
+childhood amnesia we'll talk about it
+means at the end of this section but
+right now that's the reason that I'm
+just given to the reason so basically
+conscious things which you are aware of
+when you are thinking about it or when
+you are retrieving it is what is the
+declarative knowledge and procedural
+knowledge is those knowledge which are
+unconscious so you are basically
+unconscious or you do not know that you
+are craving it example mostly I give
+this example in my class is riding a
+bicycle so how do you teach someone to
+ride a bicycle so even if I ask you to
+give me how do you ride a bicycle it's
+very difficult for you to show how do
+you ride a bicycle and so there are two
+different parts now within this
+declarative and procedural part you have
+within the declarative part you have
+something called the semantic
+type and episode it type of memory we
+look into these two types of memory
+semantic stores world knowledge so
+basically facts rules truths and those
+kind of thing and episodic is that kind
+of knowledge which is basically related
+to episode which is basically related to
+some kind of event in your life
+procedural basically there are four
+subdivisions but will not look in detail
+into the procedural part of memory so I
+just give you a brief overview of what
+can come here so you have basically
+things which are learned from classical
+conditioning things like habits right
+and so this kind of structure is there
+and also priming priming is another
+thing which comes under procedural
+memory so things priming is basically a
+instance or it's basically a phenomena
+in which if you want to if you want to
+identify or if you if you are given the
+task of perceiving an object just before
+perception of an object some information
+some very brief information is given to
+you and that way if information leads
+you to basically remember or basically
+recognize that our object that is called
+priming so basically I think of it in
+this way so when you're going to meet
+someone before you meet someone somebody
+gives you some kind of information about
+that person and that makes you quickly
+identify that person now this
+information which has been given to you
+is basically called priming and
+similarly there are two types of priming
+one is called semantic priming the other
+is called perceptual priming but we'll
+come to that when we come to that
+particular exercise but right now this
+is what it is so let's then start the
+usual things let's start looking into
+the usual thing of long-term
+so what we have done up till now is we
+have established that there is something
+called long term memory and we have us
+to also establish that this long term
+memory has some kind of set up which is
+that which we look into the upcoming
+lectures so basically then in this
+particular lecture if we look into the
+retrial and encoding our long term
+memories basically long term memory
+it's basically described as a place for
+storage or large amount of information
+and as you know from philosophical
+viewpoints this has been quoted as a
+script book of memories or a treasure
+chest so we split it isn't thought of a
+place like a box or a chest which can
+store a large amount of information so
+that is what the conceptualization of
+long term memory is these are all
+philosophically conceptualization now
+the question arises what is the capacity
+of LTM so there have been several
+experiments which have been done and so
+generally speaking the long-term memory
+has a huge its it has sometimes it's
+called that it has in finite capacity
+why because whatever you know up till
+now whatever you've learned up till now
+in your life and till the point you die
+it will all be stored in long-term
+memory so basically meaning that most
+information that you know in your life
+so again that the evidence here is that
+long-term memory hasn't in by night
+storage so basically but there have been
+some attempts to find out what is the
+capacity of this long-term storage to
+look at let's look at this evidence so
+commerce lender he tried to provide an
+answer by making two basic estimate one
+estimate is the cerebral cortex has 10
+to the power 13 synapses and so what
+synapse is at if you look at a neuron
+and in Iran which is there and these
+neurons they connect to each other
+through an empty space so basically this
+is the neuron this is the dendrite of a
+neuron dendrites are those portions of a
+neuron which help in communicating so
+these are two dendrites which
+communicate with each other and they
+communicate through both an electric and
+electrical messenger and a chemical
+messengers or chemical messengers are
+stored here but this is something which
+comes into the biology of memory and so
+let's not get into that particular
+framework but then this synapse is the
+space between these two dendrites which
+are there and so basically this space
+allows chemical messengers are basically
+substances which are called
+neurotransmitters to basically move from
+one neuron to another so if this is the
+neuron which is transmitting and this is
+the neuron which is receiving
+information is passed through the
+synapse so synapse is there that
+particular space avoid which is there
+and it is very important in looking at
+how memory is
+so there's a whole idea of how memory is
+told what is the way it is stored and
+biological basis of memory says that
+there is something called phenomenas
+called long-term potentiation and
+long-term depression which is how
+memories are stored but we will not
+discuss on to that really quick please
+look into this so this is this empty
+voids or spaces are what are called
+synapses and so Thomas Lanier he found
+out that there were 10 to the power 13
+synapses in the in cerebral cortex and
+which is the number of information which
+is stored in the brain so he basically
+created it that one particular synapse
+is trained for only one kind of
+information and so if it's 10 to power
+13 then it is 10 to power 13 bits of
+information which is stored huge No
+another estimate was made as that there
+are 10 to power 20 bits of information
+which is the number of neural
+transmission made by an average human
+lifetime and so this particular
+deduction is made on the basis of the
+fact that the liar is the life of human
+beings in the life of a neuron and based
+on the life of the neuron and life of
+the human being it is estimated through
+computational calculations which show
+that 10 to the power 20 bits of
+information pass on from one neuron to
+the another or that's the number of
+connections and neuron actually a number
+of neurons which are there they make and
+so this is the kind of information or
+this is the kind of capacity of LTM but
+then both of them are genetically an
+estimate of written as I said in genetic
+speaking it has infinite capacity now
+the question is how does it account for
+this infinite capacity so basically
+think of the archiving program that you
+have in your computer so you have either
+a wind
+you have something like some other I
+don't know the names of a lot of those
+archiving systems but then you have
+these systems or you have these programs
+which help you to compress file now
+similar system helps is there in long
+term every what it does is it compresses
+file but then it uses certain features
+which already advanced feature so what
+what it does is first it selects what's
+information has to be stored and based
+on that it also compresses information
+and then it provides a key to this
+compression so let's look at how
+information is stored and how
+information is retrieved the duration
+and all those things in the next few
+slides so basically another question is
+we saw that the pudding that happens the
+way information is stored in short-term
+memory was a caustic in nature and so
+there was a very good experiment which
+was there which was done by Bradley and
+so Bradley showed that if a caustic
+words were used if two different kind of
+information was fed into short-term
+memory and both for a caustic in nature
+in the sense that either they had the
+same phonology which basically means the
+same speech sound and another ones which
+didn't have the same speech sound the
+confusion was more for those words which
+had the same speech sound so P and B
+we're confuse more PBE controls were
+then P and K kind of a thing and so
+basically that experiment showed us or
+basically told us that the kind of
+storage that happens in long-term memory
+is basically a costing now what is the
+format in which it is stored in
+long-term memory so basically this is in
+terms of again Bradley didn't experiment
+and found out that this is in terms of
+semantic nature so what was the
+experiment so what Alan Bradley did was
+he gave two groups first he selected two
+groups of people for one group he gave
+similar sounding word for example map
+made and Men two people for remembering
+and then he gave on other words for the
+same place
+he gave people to group for people to
+different leads layer lists to remember
+now there are two versions of the list
+in one version of the list what happened
+is people were given similar sounding
+words to remember for example and had
+her hair kind of a thing or map madman
+as he are written here and in the other
+list you had my words from the same list
+the presentation list but then these
+words were not similar sounding so you
+have things like pandering because they
+don't sound similar and this was to
+create a caustic confusion and in the
+group B people were given same meaning
+words so you see here what happened is
+you have the huge word the big word and
+the great word all of them have the same
+meaning so it's like a tsunami tsunami
+generally more synonymous are given and
+then another list was created where
+people were given words which didn't
+have similar meaning so it had different
+meaning for example foul old and deep
+and recall was done after 20 minutes
+participants engage and related tasks
+for the task while basically and back
+counting so an N back counting task was
+used now what is an impact counting
+tasks we showed you in the last lecture
+in the Brown Peters and task n back
+counting is basically a task in which
+you count back n units so 1,000 and if
+you have to count three units back it
+will be 997 994 kind of a thing and so
+this is n back you have to keep on
+counting back and those has to what the
+n-back task is all about and so people
+did this kind of a task this was given
+so that they should this kind of attack
+should take up all their available
+attentional resources so that the
+rehearsal is not allowed or rehearsal is
+not given
+so what 20-minute wait was done and
+after that when experimenters are the
+subjects were asked to retrieve back the
+caustic similarity produces very little
+effect on performance as well as
+semantic similarity so when words which
+were similar were they represented or
+they were shown to people twenty minutes
+is enough time for any item to get
+process so when this kind of retrieval
+was done it was found out that in these
+people
+in Group A there was no difference so
+there was no difference between people
+who were given map map and man to
+remember but then more confusions were
+seen on people who were given similar
+meaning word and so this experiment
+basically demonstrates the fact that
+these words which had similar meaning
+that was what was creating confusion and
+this experiment also shows that the kind
+of manner or the manner in which
+information is stored in long-term
+memory is basically in terms of
+semantics or in terms of meaning another
+reason or another thing for the
+existence of semantic evidence I would
+say for the existing semantic memory is
+basically this is called AVENGERS
+forgetting curve so what is the event
+cause forgetting curve and how did it
+arrive so I explained to you in earlier
+lecture that Evan was was a German
+psychologist and he was testing his
+limits to memory of how much thing he
+can remember how much items he can
+remember and for how long the time but
+if he tried to remember words from a
+list then there would be some a
+long-term memory or there will be some
+bias into it so what he did was he
+created a CVC
+a consonant vowel consonant kind of a
+try gap we call this as a try again so
+this triad was so let's say X V and Q
+now xvq doesn't mean anything but PA t
+would mean something or pad or ca t
+would be cat so these have meaning words
+and these as a tiger so this kind of a
+dragon was then he took a lot of try and
+he remembered them and he then retrieved
+the these back over periods of time this
+is a very simple demonstration a very
+simple thing very simple result from his
+experiment what he saw that the
+percentages of mean saving and versus
+the retention interval what happened is
+the as inputted arrived or
+one day's after 31 days people still
+remember this 20% of items from the list
+so even when he did experiments he found
+out that from the list that he
+remembered 20% of items were still with
+him he was able to retrieve this 20% of
+item even after 30 days or 31 days and
+which kept on going for a number of more
+days
+so basically meaning that there is a
+store which allows you to store this
+information for longer duration of time
+and that also this idea that you do not
+get forgetting or do not forget after
+this long duration is basically another
+evidence for the existence of a store
+which stores information for longer
+duration time with more rehearsal so
+what happens is as time passes the you
+don't tend to forget more and this is an
+evidence for long-term memory so let's
+do a quick review of a long-term memory
+so basically the question here is they
+travel transfer the information from
+long-term to short-term memory as I
+showed to you and forgetting is the
+inability to basically retrieve
+information so we people often talk
+about forgetting now forgetting from
+short-term memory is very obvious
+because items to get stored for 20
+second and so we cannot think of
+forgetting as a forgetting here is that
+again we looked at how does this
+forgetting happen so in the last class
+we looked at the brown Peter sent out
+tasks and the worgen dorwan tasks and
+both of them said that there is a decay
+kind of a thing and interference kind of
+a phenomena which basically leads to
+forgetting from short-term memory so
+let's look at why do we people forget
+from long-term memory how do we forget
+things from long-term memory so is there
+something called forgetting from
+long-term memory or if something is
+encoded into long-term memory does it
+stay there forever so let's look at that
+quickly so basically this is how it
+works so this is the sensory memory this
+is the working more short-term memory
+information is rehearsed here and then
+it's passed to long-term memory from the
+long-term memory it is retrieve back as
+and when it is wanted back to long-term
+memory so why do people forget there are
+several forgetting theories
+which have been proposed for long-term
+memory and let's look at some of these
+theories so some of the theories which
+have been proposed for forgetting from
+long-term memory is something called the
+poor encoding Theory the decay theory
+the interference theory and a retry will
+cue theory so some of these theories are
+what you find so basically the reclaim
+and interference Theory is what also
+applies to the short-term store but then
+for the long-term store you have two
+additional theory so let's look at these
+theories one by one so let's look at the
+first theory first theory say is that
+forgetting happens from long-term memory
+because people never encoded that so it
+could have happened that a piece of
+information was given to you and you
+never encoded that information and that
+could be one of the reason why
+forgetting happened and that could be
+one of the fact by forgetting happened
+it could be that you will never know
+example if as is the question where is
+the tilde key in your computer keyboard
+so people who have not used the tilde
+key
+they have no never encoded whether tilde
+key is or where is the function key so
+people who type some people who never
+use the function key they will never
+know because they never encoded it that
+is called encoding failure theory so
+information which is never encoded into
+LT M is called the reason for it there
+is a short term memory information never
+pass from the short term memory to the
+long-term maybe so no encoding and that
+is the reason for encoding failure here
+so some examples are what letters
+accompany the number five on your
+telephone if that is what is given to
+most of you I mean these days you have
+these newer smartphones we don't have
+these numbers with it but the
+push-button phones that were that were
+there it had to be had a number of a
+number written three digits or three
+letters which were written after every
+digit that is the question most people
+would not have ever thought about that
+right and so you don't tend to remember
+or vary the number zero on your
+calculator if this question is asked
+most people do use it and so it's become
+so procedural or so automatic as we saw
+in attentional theories at the
+become so automatic the pressing zero
+becomes so automatic that it's very
+difficult for you to know where it is or
+so according to this theory objects seen
+frequently but never but information was
+never encoded into LT m and that is one
+reason for forgetting from LT m another
+reason why people tend to forget another
+theory which proposes forgetting from
+long-term story is called the reach
+rival the failure theory so what does
+this theory say it says that not all
+forgetting is due to end coding failure
+some of the forgetting is due to retrial
+failure also so on one poor encoding
+theory the first theory says that it was
+not encoded but in the next three
+theories talk about treat rival failure
+something happens at the time of the
+retrieval getting information back from
+long term store and that must be the
+reason why this kind of forgetting
+really happens so let's look at those
+theories so sometimes information is
+encoded in Altium but it doesn't come
+back and so you see this is short-term
+memory encoding is done but it doesn't
+come back visible the retry will failure
+leading to forgetting so what are the
+few is there or what are the some common
+examples that one common example is
+reporting phenomena the purity
+phenomenon is called people now there
+are times in your life when you know
+that you know information for example
+movie song is coming up and so you are
+there looking at it you know the
+actresses name
+you know that which letter it starts now
+you know which heroes she has worked
+with when which movie she has work with
+but suddenly there is a freeze and the
+name doesn't come
+your mouth and this is called let they
+put some na minha what happens is that
+you're not able to retrieve that and
+that is called a travel failure also
+can't retrieve information that you
+absolutely know is stored in your memory
+because you know the first thing of this
+actors you know vo machine work with a
+lot of information will basically mean
+that there is somewhere also the name
+stored but you are not able to retrieve
+it an example I have given so evidence
+of forgetting has an inability to
+retrieve information why we can't
+retrieve information that is what we are
+going to see so three theories from very
+tribal fear failure section one is a
+decay theory the interference theory and
+then they travel cue theory so let's
+start with the decay theory first and so
+what does the decay Theory actually says
+the decay theory this is basically the
+average percentage of information
+retrieved and this is the interval
+between original learning of nonsense
+syllables and memory tests which is
+basically some something like a brain
+goes CVC kind of a paradigm so he looked
+at try games and this is the curve which
+is that so basically the key theory says
+that memories fade away or decay
+gradually if unused so if some memory is
+not used for a period of time it became
+and there is a biological explanation to
+that also will come to the biological
+explanation in a while but that is what
+it is so if you do not use information
+which is stored in your memory then
+there would be a problem and this is
+something which we're seeing nowadays
+what has happened is the google has
+taken up so much of her information
+bucharest taken up so much of her life
+that we don't try to retrieve
+information even if we need some bits of
+information what we tend to do is we
+tend to look into google we type that
+and we get any information and voila
+it's there so basically that's a problem
+so we don't use it and so I always keep
+on telling this to my students that
+please use information if you don't use
+information it will decay out and one of
+the fact is the time how much time is
+spent between learning and retrieving
+the information that is one of the
+reasons of how this particular theory
+works so time plays a critical role now
+I ability to retrieve info are the
+clients with time after original
+encoding so as more and more time
+happens and you're not receiving this
+information the K will decay will lead
+to forgetting so let's say at some point
+of time when you learn something so
+there is a bit of knowledge that you
+learn our Sanskrit for example if you
+learn Sanskrit in your in your earlier
+classes in class seven eight I have not
+used it because you didn't follow it you
+tend to forget some ass or things like
+some other grammar or Sanskrit you don't
+tend to remember how the Sun D is made
+that's basically conjugation of
+sentences how it is done in sanskrit so
+basically that's what happened as time
+passes on information is never used and
+so you tend to forget it so basically
+this is what the decay theory is so
+basically decay theory is a biological
+based theory and so it gives a reason
+why decay really happens and what is the
+reason the reason which has been
+provided is that when new memories are
+formed it creates a memory trace a
+change in the structure of the brain
+chemistry as a new memory is formed from
+the neurobiology of memory you'll come
+to know that as a new memories form what
+happens is new connections are developed
+and so when new connections are
+developed what happens is there are
+number the new dendrites get attached to
+each other and information passes or one
+neuron gets connected to multiple
+needles but what happens is if you do
+not use this connections it will be
+there away the brain chemistry will take
+it away so you finally unused normal
+brain metabolic activities will erode
+these connections these connections
+which have been formed between two
+junctions or two dendrites these
+connections will erode away because they
+are not talking to each other so to your
+on should be talking to each other only
+then a connection is there but if this
+talking stops on how the
+neurotransmitter
+if it stops passing between two
+junctions the receptor two receptor
+neurons what will happen is or some
+change in metabolic activity within the
+synapse happens this leads to
+example one of the interesting thing is
+known is which is evident is dopamine
+deficiencies or Department deficiencies
+in d1 d3 d5 kind of a structure so these
+are three receptor types on a particular
+on particular neurons and so when lack
+of dopamine happens here then people
+show tendencies which are very similar
+to neurotic people and so this kind of
+thing happens so if you don't use any
+connection for a longer period of time
+it will be that way think of it in terms
+of a railway store a railway warehouse
+so in the olden days people these
+railway warehouse used to be somewhere
+and so you would see railway lines
+basically passing through roads but then
+as time has progressed nobody uses those
+railway lines or old stations or whole
+junctions which are there and so it
+withers out nobody remembers it and
+there is no real cares about it example
+then your New York Central Station below
+that there is another station which is
+there it's a popular thing which is
+there and so there is a whole new
+network out there but nobody uses it
+anymore and so it decayed and similarly
+the brain also decays the information
+from the brain also decays by not
+getting you so theory not widely favored
+today in today's world we know heart
+yeah follow this theory because there
+are certain brain chemistry's which say
+that this kind of degeneration doesn't
+happen in the brain then you have the
+print appearance theories and what does
+the interference theories say so memory
+is interfering with another memories is
+the reason for forgetting so why do we
+forget we forget because one kind of
+memory interfere with our other kind of
+memory now we looked at what is
+interference and we looked at how does
+it happen so what happens is that if two
+items which are very similar fairly
+similar together are brought to their
+brought in close proximity to each other
+one will interfere with the other or one
+will compete with the other so there is
+something that there is something called
+a fan effect which has been explained by
+understand for this kind of thing
+farrance so Edison in nearly 1996 they
+did this work on how interference really
+works so they what they looked at is
+that any retrieval cue points to a
+particular target this is how they
+looked at so if this is a retrieval cue
+or this is how you retry something it
+project it points to a target but then
+assuming that another target is added to
+it which is similar in nature this we
+travel cue then is shared between these
+two targets and so if more number of
+competitions are generated what will
+happen is an interference will happen
+because this is a travel qc1 is now
+cueing these targets T 1 T 2 and T 3 and
+so what will happen is when C 1 is
+activated one neuron is activated or one
+Junction is activated now they are not
+uniquely connected what will happen is
+all of these targets will get activated
+and they will interfere with the with
+the processing of one now forgetting not
+caused by mere passage of time so this
+theory basically says that forgetting is
+not basically due to passage of time is
+caused by one or more competing with or
+replacing other memory so the definition
+the thing that I showed you what will
+happen is multiple targets with compete
+with each other so as soon as this cue
+is activated this targets will compete
+with each other the more similar they
+are the more chances that they will not
+be retrieved because similarity is one
+way of how information is retrieved so
+if let's say there are how is the
+conceptualization of working memory
+there are different bean bags or think
+of it in the there are different kind of
+structures out there and so structures
+which have similar kind of structures
+which have similar kind of features are
+put into this bin back we look into that
+and when we talk about semantic memory
+and so what will happen is if
+informations which are of similar type
+they compete with each other what will
+happen is that they will not be
+processed so it's caused by one more
+competing with or replacing another
+memory so if similar items are there
+they will compete with each other and so
+they will not be able
+trivet there are two types of
+interference to look at one is called
+the proactive interference of the other
+is called the retroactive independence
+and a very simple paradigm explains it
+so let's assume that an experimental
+group a group is given to learn a list a
+B and an and while they are doing that a
+control group is given an unrelated
+activity to do after a while the same
+group both the groups are now given a
+list a C to learn so a B is a list
+basically a B is a pair associate list
+so you have how what is a bad associate
+list in a bad SC at least you have
+something called a Q target kind of a
+set up in Q target what you have is so
+let's say if we have goat and we have
+leaf here the goat is what is presented
+to you the leaf is what you have to
+remember and this is called the bad
+associate so a pairing between goat and
+leaf is done and this is called the Q
+and this is called a target so the while
+learning you'll learn goat leaf but
+while you're driving I will show you
+good and you have to learn leaf now we
+have done this earlier on international
+theory and in perception all those are
+part of perception also where we showed
+basically in perception of diversity of
+perception where we showed how Ottawa
+City really works so basically in this
+paradigm then what happens is at a later
+period of time you are given to learn
+list a see now when that happens god
+roll group shows no interference but
+then since list a B and list AC has a in
+common so this will interfere with each
+other and so the learning of a the
+running of a C after a B creates this
+kind of interference that this is called
+proactive interference so here since no
+list was done the learning of a B
+creates interference with learning of AC
+and that is what the proactive
+interference is all about in retroactive
+interference paradigm what you have is
+both groups learn list a B and a B but
+group to learn a C and group the control
+group doesn't learn anything and so what
+happens here is this AC list the
+learning of this particular list it
+interferes with the learning of the
+earlier list
+and that is what attractive and
+proactive interferences let's quickly
+look into what these really mean so when
+a new memory interferes with remembering
+of old information this is called
+retroactive interference example is when
+a new phone number interferes with the
+ability to remember your old number so
+let's say you think you have changed
+your SIM card you have changed your
+number and when some deletion the old
+number the new number interferes with
+remembering of the old number this is
+basically what is called your
+retroactive interference so quick
+paradigm example learning a new language
+interferes with ability remember old
+language so this person here she knows
+French and these are the French words
+that she knows and so what happens is
+after that she learns Spanish no peppier
+and peple both are for paper liver
+and/or pluma and bloom both of her
+flower and so this kind of things are
+there which are very similar in the two
+languages and so what happens is if she
+learns French first studies Spanish
+second and Spanish interferes with the
+learning of French that is why she gets
+an F in her exam and this is what is
+called retroactive interference in fact
+if interference what happens is opposite
+of retroactive interference of an old
+memory interferes with new memory so in
+in the attractive new memory interferes
+with old memory as I saw as we saw that
+Spanish interferes with French I mean
+proactive interference is the old
+opposite the old memory keeps on
+interfering with new memory that is
+called the proactive interference and so
+in proactive interference what happens
+is memories off where you parked your
+car on campus the past with interfaces
+the ability to park car today so what
+happens is since you have parked this
+car your cause how many times near your
+past
+parked a bicycle in wherever you are
+eating your department so many times at
+so many places that that interferes with
+the fact that where you park today this
+is what is called proactive interference
+this is if so old knowledge hampers
+because you tend to park at some place
+and because that was not available you
+part someone else and so the ability to
+go back or the automaticity which makes
+you go back into the case where you used
+to park and not finding a bicycle is
+what is called proactive interference so
+all knowledge basically interfere as a
+completes with new knowledge
+now basically as you saw what happens
+here is that most both the information
+or similar type because it is a parking
+situation in both the cases and so
+similarity is there another theory which
+talks about the failure or which talks
+about how they travel failure happens is
+called the retrieval cue theory of
+forgetting and so what is the retrieval
+cue theory the travel cue theory says a
+clue prompt or hint that can help memory
+to retry so basically when any any
+long-term memory is formed as I said it
+is a cue target kind of any kind of a
+memory is a cue target kind of a system
+so memory is generally has something
+colon healed or kind of a system so
+basically when a memory stored somewhere
+in there in the long-term store a cue or
+a key is provided to it and this key
+fits with this lock of the memory and it
+opens it so this cue cue is the clue or
+the law or the key for the memory and
+the memory is called the lock or that is
+the store which is there and so the
+travel cue is very important because if
+you use a wrongly travel cue you may not
+be able to they try also another feature
+that you have to know what the travel
+cue is that sometimes one memory can
+have multiple retrieval cues what do I
+mean by that if you want to remember
+your let's say farewell the 12th pass
+farewell now that is what you want to
+remember there are several ways of
+remembering it one is the kind of
+importance you were given there another
+is the kind of feeling that you have one
+that they may be in their MB
+so that embarrassment which could make
+you remember that day or maybe it was
+other kind of words people said to you
+or the kind of feeling that you have
+that day the kind of shock that you got
+the kind of emotionality which was
+generated and so several events or
+several events can link to that memory
+and can bring forth that memory and so
+multiple cues can link to that memory
+and each of these cue has a certain
+weight to it the most weighted I mean to
+say the most potent cue will have the
+highest weight so basically if my memory
+that I'm talking about is let's say
+remembering an event and the event is my
+farewell and there are four cues which
+can make it remember for example the day
+in terms of what day it was how I felt
+that day that is another so my feeling
+my emotion is one way of remembering it
+or it could be and let's say party an
+after party which is making it remember
+or some other event at home which makes
+me remember it now let's say this
+emotionality is whenever I think about
+whenever I become emotional I remember
+this farewell so it has the highest
+weight here right and so these have
+another and so each one of them can
+think can make you think about this
+farewell situation but what would happen
+is that this is the one which will make
+you the thing more and this is the
+highest rate so basically what is there
+and similar situation can also occur
+where one queue can retrieve so many
+memories so there are always all types
+of things of that let's look at this
+theory so retrieval cue is in this this
+is water cue looks like so forgetting
+the result of using improper retrieval
+cue if you think about a party and if
+that is what is retrieving the farewell
+and what would happen is there you would
+have so many parties in your life so it
+could be the farewell party it could be
+your home party which is there it could
+be some other party with your friends
+which is unrelated to the farewell and
+and so forth so if party is the fact or
+party is the cue that you're using to
+try to get retrieval this has the lowest
+weight right because you have so many
+parties but how you felt that day has
+the highest weight and so that is the
+most potent thing and so if using
+improper cue if thinking of retrieval in
+some other way in which it was not
+encoded if that is what you are trying
+to retry then that is not possible and
+so that might not be a good idea of
+freight traffic so it rival forgetting
+can be basically happening because
+people don't have the right they travel
+queue now with retrieval cue there are
+two things to look at one is called a
+recall and the other is called
+recognition there are two retrieval
+types from long term memory we will
+discuss this retrieval end and recall in
+detail in upcoming lectures but for now
+let us look into it
+so importance of retrieval cue is
+evident from recall versus recognition
+and what is the difference so recall
+test must retrieve information which is
+learned earlier for example fill in the
+blank type of test so those tests which
+ask you to remember something from
+memory right and as as demonstrated you
+are filling the blank type of questions
+are mostly retrieval or recall kind of
+or a tribal system so here you have to
+retrieve the actual information which is
+stored and in the cognition test what
+happens is it's like in answers in front
+of you but then you have to basically go
+ahead and match them and so as you will
+see that recognition has recalled in
+building to it because only if you
+recall something if you are able to
+recall something and then you will be
+able to match it so basically remember
+vs no kind of a thing remember worse is
+no kind of system so I remember
+something versus I know something so for
+knowing something you have to have this
+remember for remembering something you
+have to have the knowing kind of a thing
+and so multiple choice tests are
+something called recognition yes so for
+example look at this question what is
+the capital of Finland no one's
+is there and so whenever you try to give
+an answer she oh she ever give an answer
+to that it happens so recall because
+when you search a memory for it and look
+at these four answers which are given
+I'm pretty sure that you know the answer
+the answer is as inky and so the fan
+what is the capital of Finland there are
+four answers now when you are recalling
+you are doing a free recall so you are
+searching your memory for any
+information but in the cognition you
+have to have recall also because you
+have to recall well where does these
+things fit and so recall basically is a
+part of recognition and so this is what
+a recognition test looks like and so you
+will put in to fill Helsinki because all
+of them now have a probability of 0.25
+one-fourth probability of being
+remembering so which was easier recall
+and recognition psychological exam would
+you rather have filling the blanks of
+multiple-choice and it's there it's best
+that you have the cognition item is
+basically multiple choice questions are
+what's on which what I've been used
+nowadays everywhere and so this is the
+most important kind of examination which
+has been used and so this is the most
+prominent kind of recall that has been
+or kind of a recall system which is used
+everywhere nowadays so in this lecture
+we looked into some of the what is how
+long-term memory is designed what is the
+way in which it is encoded and what is
+so forgetting how it is stored and what
+is the forgetting from long-term memory
+or how does this long-term memory store
+information thank you

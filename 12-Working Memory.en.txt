@@ -1,0 +1,1022 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+so welcome back to this section on short
+term memory and we basically stopped at
+the point of what short-term memory is
+in the last section we discussed the
+whole idea of what short-term memory is
+so in this section we'll look into as
+promised into a new conceptualization of
+short-term memory which is called the
+working memory so let's first look at
+why this concept of working memory was
+produced or that was presented at all
+the reason why working memory was
+presented was the fact that the
+short-term store as we discussed in the
+last class it was basically problematic
+problematic in many reasons
+now the short-term store the idea of the
+short-term memory which is a limited
+capacity store with seven plus or minus
+two items as the maximum Intel
+entitlement of item which is based here
+and also for a time duration of 20
+second this posed a number of problems
+what was it the first problem that it
+posed is that this store limits the
+number of information that I can store
+here so there were limits on to the
+number of items stored here also in a
+standard serial position curve
+people should not be able to retrieve
+items in the middle of the list so this
+is how a steal position comes look I'd
+look like so these this is where the
+recency effect happens this is where the
+prime is here happens and the items in
+the middle of the list should not show
+any kind of better recall and so this is
+the this on this axis we have the
+percentage of recall on this axis this
+is the serial position of items so these
+are items which is the beginning of the
+list item number one two three four here
+item so it's a four if it's a 20 item
+list item number 20 18 and 19 fault here
+and so item number 11 12 are what are
+present here so it was found out that
+these items when they were familiar to
+people the items when these items men
+which were familiar to people or people
+knew it somehow they were so basically
+then items which are familiar to people
+they should pose a problem to people in
+terms of the memories but what was
+happening is the item suggests which are
+familiar to people they were issuing
+metric memories also in terms of
+interference that we discussed this
+interference that we were talking about
+items of different codes or different
+types of items for example auditory item
+and an auditory cue or a tree test item
+and a visual test item when they were
+presented to people in a sh s TMR where
+people were asked to remember these two
+items in STM people were not showing any
+kind of interference and so the fact of
+the matter was this stn or the short
+term memory or the short term store that
+we are talking about was a little more
+than the way it was received into that
+kitchen chef and what we know we have
+not discussed that in two different
+model very quickly we look into it that
+concern a shipment model is
+similar to the model which is called the
+model memory model and so what attention
+and Shiffrin says is that memory is a
+three part system which starts with
+something called the sense a register
+has something called the short-term
+memory and then is followed by something
+called the long-term memory so these are
+what at each end Chafin calls as the
+stores the different stores and that is
+why he says since a we store the
+short-term store and long-term so with
+these
+additionally attention a friend also
+defines certain control on active
+processes which move information either
+from one store to another or move
+information out of these stores and so
+what attention shipment model discusses
+is there is something called attention
+here which makes information move from
+the short-term register or the short
+term store to the STM so short-term
+memory and from the short-term memory
+information is moves to the long-term
+memory depends on a process which is
+called rehearsal so this is how the
+items move from one store to another
+also decay and interferences are two
+phenomena through which items move out
+of these two stores so they came from
+Rufina interference happens in terms of
+long-term memory as well as short-term
+memory and so this is what a brief
+overview of Atkinson and Shiffrin model
+is we'll discuss this model in the
+long-term memory so basically two
+positions to look at interference and in
+terms of items in the middle of the list
+or those items which people are familiar
+with
+they showed higher amount of detriment
+or certain type of rules or certain type
+of remembrance which required the
+activity of the LTM those somehow went
+ahead and helped people in terms of
+remembering
+so with this conceptualization another
+kind of store was perceived or another
+kind of store was thought of and that
+was called the working memory store so
+the information processing model of
+attention Shipman 68 described
+information processing as a two-part
+process the information representations
+being stored either as SDM or LTM and
+the structure defining an estimate LTM
+store and also the processes which is
+moving it now these authors they
+conceived of STM not as a store for
+seven a few pieces of information for
+few seconds but founded the information
+STM somehow activates relevant
+information incremental tiem and gathers
+some of this information into STS so
+this is what the conceptualization of
+the STS or the short term store or the
+attention shipment model was but then as
+I described to the problem these two
+problems led to the emergence of a new
+store a new kind of memory system which
+was developed by Bradley and H now
+Bradley in his 1974 they performed the
+C's of experiment to test the model
+which was described over which was a
+tension shipping model of how the STM
+works and how it is the way in which STM
+owes information from itself on to the
+long-term memory or how it receives
+information from the short-term store
+now the design was to have participants
+temporarily store a number of digits
+while simultaneously performing another
+task which is a reasoning language tasks
+so two type of tasks were given to
+people and as the STM store has sent
+personas to item it was believed that if
+number of items are increased on to the
+short-term store some kind of
+interference or some kind of forgetting
+would happen or the task would have a
+lower performance for performance or the
+hypothesis was that s team capacity is
+taken up by stored digits fewer
+resources available for another task and
+so performance on the task would suffer
+as I just described to you
+what happens if two kind of tasks are
+given and one task is being stored onto
+the STS or the short term store then
+what would happen is that the next task
+which is given to you if it's a
+multi-dimensional task paradigm and if a
+second task is given to you the second
+task will not be processed or if you
+process the performance will be very
+bad on to it and so this is the
+conceptualization on which Bradley NH
+came up with a new dimension or a new
+kind of memory system which was called
+the working memory system now what was
+this task about so let's quickly look at
+the cast that Bradley and hitch came up
+with the idea of that Bradley and H came
+up in and so what Bradley and hitch task
+was called the reasoning task with a
+recall letter record so what this task
+generally had is people had
+first of all they had to keep some
+letters store a number of digits so a
+six digit or eight digit frame was what
+was what people had to store onto the
+memory so they had to remember this six
+degrees so let's say the digits are
+eight two eight six four three seven
+this kind of a setup was given and they
+were people were asked to commit to
+memory this particular kind of system
+which was there and then later on they
+were given another kind of a logical
+DC's and making tasks so for example
+here a B the letters a B are presented
+to people now what they were required to
+do while holding onto the six or eight
+digit task into memory is basically tell
+as quickly as possible verify the
+statements whether a precedes B people
+had to say true or false or whether P B
+is preceded by a so this kind of thing
+was given to people and they had to keep
+these eight or six days until their
+memory and later on verify these
+statements this a B is given to people
+and then shown to people and then they
+have to verify this a precedes B or B is
+preceded by a what is the result of an
+experiment like this no generally or
+statement like B does not proceed by a
+this kind of a statements are true or
+false statement was given to people now
+the interesting thing that happened here
+the result of the experiment says that
+if the number of digits which were
+two two three if this is the number of
+digits which I held in memory then the
+performance of people on the letter
+verification task on the a B
+verification task it was similar to what
+was there if no digit was given to them
+so two kinds of people whether or two
+groups of people whether a control group
+had no digit to keep in mind or keep in
+the memory and then do this very
+sentence verification task or to let a
+verification task and in the next case
+people had two or three digits in their
+memory and when needed to do this kind
+of a verification task whereas it was
+found out that if the number of digits
+that has to be kept in the memory was
+more than six then the performance went
+down there was poor performance so if
+sentences also some of the interesting
+thing was found out that if the sentence
+was negative if a negative sentence was
+used for this kind of a thing so B does
+not proceed by a look at this this is a
+negative sentence so if a negative
+sentence or a passive sentence like this
+was used now in these cases also
+the verification task was lower or the
+verification task was somehow less but
+then a poor performance happened so
+basically then what happened is one two
+three items are pre-loaded reasoning
+task was done and the letter recall task
+was done but in experiment 2 what
+happened is 0 to 6 items are given to
+people a reasoning task when an annual
+letter recalled task was done so this is
+the result of the experiment what really
+happened so Bradley and H they found out
+that two codes which are different one
+is the logical code the other is the
+digit code now if two codes are
+different then with lesser number of
+items our digits to be stored the
+performance was not and becoming fewer
+all not hampered in any way
+what does this suggest is such as that
+the
+esteem is conceived in the short-term
+store that if the number of digits are
+more they will be cooler performances
+that is not what's happening which
+basically means that the short-term
+store as conceived by attention is a
+friend that it is a store which hire
+which holds on to similar kinds of seven
+acrostic code in the caustic code form
+similar kind of seven plus or minus two
+items was not true so badly English H in
+1984 or Radley alone in 1991 they found
+out that there was no common system for
+cognitive processes there was no common
+short term store which was prevalent or
+which was available for all kind of
+cognitive processes used in this also
+the fact that memory load does not
+disrupt the performances
+so if lower memory load are given if two
+paths are there and if a number if one
+task requires some kind of a memory load
+or a given little memory load then the
+performance on the second task was was
+not hindered in any way and so this is
+the result that we are looking at so
+reasoning times in terms of reasoning
+time later recalled reasoning time the
+later recall in terms of the load was 0
+and 6 and as you can see what happens is
+if the load was more the reasoning time
+and later recall was higher than in
+terms of so it is equal stress in this
+case it is memory stress and this is the
+kind of thing that happened so if the
+number of load was 1 0 1 &amp; 2 and what do
+you see that the reasoning time was very
+less it is nearly 3.3 1 second in which
+people were able to perform the
+reasoning tasks but as it increased the
+number of the time increase to almost 5
+second for reasoning which demonstrates
+two things that parallel task processing
+can happen in the STM store as it was
+conceived by what attention is taken
+said also the fact that STM's roar was
+not the way that it was conceived
+and in in that in right concern and
+shipment so STM was now a limited
+capacity store the way it was looked at
+into attention was no more limited
+capacities or it was it had more
+capacity is it had capacities which is
+beyond which which was sufficiently
+numerous and then there are certain
+control processes which go ahead and
+move it also the fact that the way this
+Sdn is conceived on to that it is a
+limited capacity is no more true that
+the capacity is more than seven plus or
+minus two the way that is looked into
+also if multiple tasks are given people
+are able to complete this task and
+interference that we talked about does
+is not the reason or could could be
+although it is a reason but then if two
+different types of items are taken then
+both a can be process which gave the
+idea also one more thing to be looked at
+here is that both the tasks require
+different kind of jobs the a in the a B
+verification task require people to
+borrow from long term memory the rule
+for verification for example let's say
+this is a and B and if there is a
+sentence the sentence say that a
+precedes by B now if this is the
+sentence or the sentence say that B is
+preceded by a or things that we is not a
+is not preceded by B so if a is not
+preceded a is not preceded by B if this
+is what you need to verify or B is not
+succeeded by a this is the sentence that
+you have to verify first of all this is
+a negative sentence and then the words
+have a meaning and the way that the
+verification happens is that these rules
+are actually stored into something
+called a long-term memory so a long-term
+memory has these rules to stored up so
+what the conceptualization was that
+these experiments were badly and H they
+gave up three the brought to light three
+new important factors about SDF one that
+STM
+can talk to long-term memory and can at
+the time of processing itself can borrow
+rules from long-term memory and that is
+how this verification really happens the
+conceptualization of Atkinson and
+Shiffrin was that STM is a store which
+basically keeps items and works and
+links them through together through a
+control process but on itself it does
+nothing to the item whereas a Baddeley
+and hitch proof for the first time that
+there can be this kind of a sentence
+verification task basically gave the
+plausibility or laid the foundations for
+the fact that more integrate or more
+complex verifications or more complex
+processes can be done on to this kind of
+tasks which were presented to people
+also the fact that if items different
+items where first of all it is not the
+caustic code in which most items are
+stored into short-term memory it is
+different codes which are there and so
+there are different stores within the
+short-term memory is what the
+conceptualization was and for the first
+time it was found out that this idea of
+limits capacity was not true so proof
+short-term memory was not sort of a
+limited capacity store other thing that
+interferences do happen but then if
+items are a slightly different nature
+then these interferences are not so
+prominent if the items to task has
+little items to get look to interfere
+than to then the differences will not
+result also the fact that at the time of
+the working memory execution at the time
+of an item is in to STM with the control
+processes there are other processes
+where LTM rules can be borrowed and some
+kind of processes some kind of
+operations can be done on to jobs put
+into this particular store and so a new
+conceptualization a new idea of a store
+was thought of and this idea or this
+store was what was the working memory
+store and so Bradley and H gave the idea
+of this working memory store now this is
+a very interesting concept realization
+because they still date this is the best
+conceptualization of
+to memory which wasn't out there and the
+best results have been approved of this
+so what is working memory then now
+working memory as conceptualized by
+Bradley and H is a three-part system
+what happens is this itself this whole
+part is now called as the short-term
+store although a new additional item L
+is included here which is called the
+episodic buffer which I have not
+demonstrated here but then this is the
+third system so it's a basically a
+three-part store controlled by a central
+part so the conceptualization or the
+working memory is done in this way
+through attentional filters attentional
+processes reaches something called the
+central executive so by working memory
+store is a three-part system it has
+something called the central executive
+it has something called the phonological
+loop it has something called the visual
+spatial sketchpad and has something
+called the episodic buffer so
+information which comes from the
+short-term store through the attentional
+process in different different
+modalities reach generally something
+called the central executive of the
+working memory now what are the
+activities of this central executive the
+activities are to initiate control and
+this is in process the central YouTube
+can be thought of as a manager it
+doesn't do anything it takes in
+and then manages this information or
+basically redistributes this information
+on to two sub stores which are there and
+so the two sub stores are the
+phonological loop or the articulatory
+rehearsal loop and the visuospatial
+sketchpad now information which is
+verbal in nature which is auditory in
+nature or pushed on to the articulatory
+loop articulatory rehearsal loop or the
+phonological loop where as information
+which is both special or spatial I would
+say in nature or which requires visual
+medium which is in terms of a visual
+medium are pushed on to the
+the usual spittle sketchpad so what
+basically is an executive control system
+it does this takes in information from
+any medium and throws it into these two
+stores which other let's look into one
+by one these stores so basically the
+negative control system in our executive
+store is basically related to or its
+activities are initiating controlling
+the same process so basically it and
+measures control it distribute this
+information different information coming
+from STS into these two stores also
+reasoning language and comprehension so
+basically if a task requires people to
+do reasoning or to basically go ahead
+and and use language then in those cases
+people if reasoning or language is the
+requirement of a job then in those cases
+what needs to be done is that the
+central executive comes into focus and
+then it does this job how does this does
+does this job of reasoning what it tends
+to do is talks to the LTM through an
+episodic buffer now as you know then in
+education achievement model their team
+is the store where most information is
+stored now in the upcoming lectures
+we'll look into how the LEM is arranged
+what is the way in which LTM is arranged
+and what is the way in which LTM really
+works they look into the parts of the
+LTM but then most rules facts are the
+things that we call memory are stored on
+to what is called the LTM so what this
+particular model does is that executive
+control whenever it needs to do a task
+it sends or it makes these reasoning
+language decisions based on rules which
+are borrowed from LTM for example let's
+take a very simple task the idea of
+being more so if i thing is more than
+something else let's say if a has more
+number of if there are two jars and this
+jar a has four items into it or four
+balls into it and jar b has eight balls
+into it and the concept of more so
+who the question is whether jar a or jar
+B is has more number of balls if that is
+the question which needs to be verified
+and then the central YouTube does this
+verification by first taking this
+information the information that there
+is a jar there number of balls and
+pushes this information into the visual
+system then through the episodic buffer
+it talks on to the long-term memory and
+borrows the rule for what is more the
+definition of what do you mean by more
+so what it does is he talks to long-term
+memory and the long-term memory then
+three wheels or relates back the idea of
+what is more on to the episodic buffer
+the episodic buffer transfer this
+information to the central executive
+which then understands what is more and
+then does the comparison also it
+transfers information to long-term
+memory by the Ursuline recording so
+whatever answers that you get from this
+kind of control processes this kind of
+rules which are borrowed from long-term
+memory and the information which is
+inputted through both the articulatory
+loop and the visuospatial sketchpad
+these informations when it makes any
+kind of meaning or if it needs to be
+stored through earlier process of
+rehearsal it is transferred to a
+long-term memory example let's say if
+there is an event you see your picture
+from the fourth or fifth class and so
+you see a friend of yours and now you
+know this friend is now married and does
+a job there so this information update
+which is called recording of information
+so the friend which is there with you in
+the fifth class obviously at that point
+of time he has he doesn't have these
+features of getting married or having a
+particular kind of a job or doing a
+particular kind of a thing or looking in
+a different way so these informations
+are added of up to this event and we
+transfer it back to LT m memory so that
+LT m is updated onto these information
+so this is what also the Central
+Executive does and effects like recency
+a prime is here also which is verified
+by the central executed now the central
+curative
+takes in auditory information and pushes
+all these information into the fore
+look now the phonological loop has a ID
+or something called subvocal rehearsal
+so it does audited rehearsal as I said
+the conceptualization of working memory
+is better than short-term store because
+the short-term store only talks about
+auditory codes but then working memory
+doesn't talk about audit records it
+talks about both image imaginal codes
+which is image code and auditory code
+the phonological loop that we are
+talking about has oddly code as the way
+of remembering things and so information
+which is passed on of the STM is if it
+is in the auditory nature this pushed
+from the working memory onto the
+phonological loop and then this item is
+rehearsed back is remembered in terms of
+sub vocal rehearsal also this
+phonological loop has two different
+systems into it one is called the
+phonological buffer the other is called
+the sub vocal rehearsal now the
+phonological buffer keeps information
+ready for being accessed
+let's say I tell you the word ROM is
+going to the village now ROM is going to
+the village this sentence in an auditory
+code reaches your year it is passed on
+from the stn on to the working memory
+the executive central executive listens
+to this one channel information Ram is
+going to the village and pushes it to
+the or tree loop or phonological loop
+and the phonological loop the buffer
+then keeps brakes away this LOM is going
+to the village into its constituent
+parts for example what is the subject
+what is the object and what is the
+connector what is the verb and loops it
+the sub vocal rehearsal or sub vocal
+yourself is the is the process where
+this whole sentence is loop because it
+is needed if it is not needed then it
+won't do loop and so if it is needed
+this kind of information is go and the
+buffer is the place where the
+information stays for some period of
+time also recycling of items for
+immediate recall is done by this
+phonological of a buffer and
+articulatory basically articulatory
+processor Daniel but if an item or if a
+piece of information which is
+approaching is not in the vocal
+dimension if it is not vocal in in any
+format then what happens is that that
+kind of information is then passed on to
+the visuospatial sketchpad so in the
+visual schedule scratchpad the
+information is then broken down into his
+visual constituents and so visual
+imaginary special image visual search
+tasks are done by this visual such task
+and so here what happens is that the
+visual images are stored nothing about
+seeing a movie how is it that we see a
+movie when we go to a movie there is a
+wise and there is an act which is
+happening there is a sequence of acts
+which is happening here is the best
+example of understanding out of working
+memory happens so generally the audition
+or the auditory channel is a
+single-channel process for example when
+I say Romney it is going to the village
+you have to listen to each word until
+unless you come to know the meaning of
+the word which basically means that Rahm
+is going to the village has to be
+completely said or completely relayed
+back to you if that is not done then you
+will not understand the meaning of the
+word so basically then Rahm is going to
+village if I order to present you each
+one has to be presented to you and so
+each word has a meaning and so as words
+appear to the central executive they
+shall pushed onto the phonological loop
+and a fun little loop then sub bocalee
+rehearses one art after another so rom
+is real starter is the ROM is is nor
+here stupid going and ROM is going is
+rehearsed with two RAM is going to is
+rehearsed with village and so this is
+the kind of yourself and then later on
+you can take an information but and so
+this that is why auditory channels or
+auditory systems are basically a single
+channel system but if I show you this as
+a display ROM is going to the village
+now in one particular brief movement you
+can look at the whole image
+you can make meaning out of it so that
+basically means that video systems are
+more accurate knowing when you are going
+to when you are in a movie what happens
+is the dialogue comes as a one channel
+system whereas the images that you see
+the actions that you see is basically in
+terms of several sequences which are
+there and so there is where the best
+example of working memory is well the
+Central Executive does it takes in
+dialogues because riders proceed and so
+these dialogues are taken in and then
+pushed on to the phonological loop and
+then it is matched with the sequence of
+the action so the whole dialogue is
+taken in and is repeated around through
+the buffer and the sub vocal in yourself
+and then later on a meaning is
+interpreted of the scene based on the
+the auditory feedback based on the
+dialogue and the action and they are
+mashed together with the central
+executive so basically then both the
+information the auditory and visual
+information in a movie a portion to the
+store the visual information goes on
+through sketchpad visual informations
+are slower it is basically stored down
+and articulatory information are speeded
+up and they are mashed together in real
+time for giving the meaning of what you
+hear and that is where a good example is
+now a third stage of this particular
+working memory is called episodic buffer
+and the job of this episodic buffer is
+basically to talk to the LT M so this F
+is Erdrich buffer basically does a
+feed-forward and feedback connection
+with LT and so it takes in the
+information to the LT m and takes that
+information also back from it that is
+what the the idea of this phonological
+buffer is all about so basically then an
+experiment was done to be to test the
+phonological loop the existence of the
+phonological loop and so what happened
+in this experiment was what is the span
+or what is the capacity of this
+phonological loop so three sentences
+were given to people they read very fast
+and so this integer so three kind of
+centers around
+the village Sita is doing something and
+Ram is doing something this is he sent
+the different sentences were given to
+people and people were asked to relate
+back the last word so Ram is going to
+the village so you have to read back the
+word way you have to remember the word
+village back or tell me the word village
+that
+so three sentences are given to people
+and they have to remember back the
+sentences so what was found out in this
+task it was found out that this span the
+phonological loop the efficiency of the
+phonological loop or the span of the
+philosopher loop depends both on the
+comprehension and the task complexity
+the kind of task if the sentences are
+very simple it is easier for people to
+remember where the words in the
+sentences are long and complex in nature
+or if people are not able to understand
+the sentences the sentence contains
+words which have difficult meaning in
+those cases the central executive
+additional input resultant delegative is
+required then those tasks are not
+processed and so basically the recall or
+the span of this auditory loop depends
+on both the task complexity and the
+comprehension the way I think is
+understood or read back also for visual
+information or we just catch bad similar
+experiment was done it was found out the
+complexity or the visual system depends
+describes the span so if it's a simple
+system which is there which people have
+to look into then it was easier for
+people to relate that the information
+but then if the information was complex
+it was difficult for people to relate
+back the information so then what does
+the working memory consists of so as I
+said it consists of a limited capacity
+workspace let me divide it between the
+storage and controlled processing and in
+this term which is the central executive
+that we are talking about this component
+directs the flow of information choosing
+which information is to be operated on
+when and now as I said it's like a
+manager so it takes a lot of information
+and then decides what information goes
+where then there is something called the
+phonological loop which is used to carry
+out subvocal rehearsal and maintain
+verbal material so this is what we were
+talking about in terms of vocal and the
+visuals
+spatial sketchpad which is that part of
+the working memory which takes in
+information from the visual area now a
+very interesting study was done to to
+comprehend the idea of STM and that was
+with something called stimulus
+independent thought the SI t now the
+study was done by a steel in 1995 and so
+what was the study the study was done to
+find out what factors are what stores of
+the working memory produces interference
+with stimulus independent thought now
+what is stimulus independent thought
+let's first look into it and so stimulus
+into independent thought as is defined
+is basically a flow of thoughts or
+images that the content of which is
+unrelated to the immediate sensory input
+so basically it's kind of a daydream so
+basically stimulus independent thought
+is a thought or is is a kind of thought
+process which is not related to the job
+at hand to the task at hand so the thing
+was the task was to find out if STM
+disturbs by performing another task if
+people do another task enough of
+short-term nature if people are doing
+some tasks which is basically of some
+nature whether it is visual and for
+logical in nature whether stimulus
+independent thought are affected by it
+in some way or not and that is what the
+task was so two type of tasks were
+loaded on to the central executive one
+task was to verify silly sentences so
+sentences like you can buy priests in
+shops or a dog a dog was raised on a
+flagpole that kind of sentences were
+there and so you have to verify the
+sentences whether this is possible or
+not and another kind of task that I used
+was more awful looking tasks so in this
+some kind of simple and complex
+a field was given and within this field
+people had to find out known geometrical
+figures for example triangles and
+circles so this kind of tasks were given
+as you can see this task is a
+phonological loop task and these are
+visuals scheduled sketchpad tasks so
+visual tasks and phonological task this
+type of task we're given to people and
+then people were asked to get engaged in
+something called stimulus independent
+thought or basically go ahead and dream
+so in sessions participations so people
+then did this task and with that they
+also daydream and so what happened is
+that at several points of time so at
+several points of time people were
+basically stopped so this is how they
+are looking at this is the stimulus
+independent thought and they're also
+doing some other job so these dusts are
+loaded here and so at several points of
+time this is the time dimension so they
+are stopped here here here and they are
+asked to relay as what is going on to
+the through their mind so they have to
+describe their daydream so the task is
+very simple in nature
+somebody is asked to daydream and with
+that daydreaming they are also given two
+more tasks either to verify a silly
+silly sentences which could which had no
+meaning at all
+whether it can exist or not and then
+also to do a looking task which is
+basically equivalent to looking at
+something looking at a simple field or a
+complex field and find out
+hidden geometrical figures on to it so
+basically then and in in this particular
+framework people were stopped at various
+pioneers points of time since they are
+also D dreaming they asked to relate
+back what is it that they're dreaming or
+what is it that they are thinking about
+so the sparse categorization
+categorizations of society of task it
+was found out that basically neither the
+visual task or this kind of a thing
+both the task together went ahead and
+interfered
+this stimulus and if
+so if kind of extra tasks doing was done
+if people were doing some either either
+sentence verification test which is
+phonological in nature or a simple
+looking task which is which is basically
+visually in nature this interfered with
+the stimulus independent thought it
+basically means that si T's are
+something which are not independent of
+this kind of a loop so if a stimulus
+independent thought if people are
+daydreaming and they're also given
+another kind of task which has to be
+done then it did interfere with the
+stimulus independent thought so it's
+basically then what was the result of
+the study that basically Central
+Executive is the reason why this kind of
+a destruction happened also it was a
+version of this task was done in which
+people were able to do tasks with the
+stimulus independent so people were
+asked to daydream and with this daydream
+they were asked to do some kind of a
+routine task which is they always did
+now in those cases when people did
+routine tasks and they daydream then the
+performance or daydream the performance
+or relating back daydream was not that
+poor then in cases where people were
+loaded up with tasks for people they
+asked to do tasks which required some
+part of I have the phonological due or
+the we just catch a sketchpad so
+basically then it's not these centers
+are these these areas of the working
+memory identification or working memory
+system which is responsible for
+destructing the stimulus independent
+thought it is the central executed so
+when it asked has been well practice
+routine in nature then the central
+executive can devote enough attention
+and civilize independent thought can
+process but when a task requires some
+kind of information processing some kind
+of jobs to be done or some kind of
+matter to be looked at some kind of
+verification which requires some kind of
+an effort in those cases this stimulus
+independent thoughts got receded
+so basically in this particular section
+what we looked into is two things so
+breaking up front elastics section a
+section or thinking from the last
+section where we look at what is short
+term memory and what are the codes our
+short-term memory how to store what is
+the conceptualization what is the test
+for short-term memory and what is the
+kind of forgetting happens in this
+particular section we devoted ourselves
+on to a new conceptualization of
+short-term memory which is the idea
+working memory and we also looked at how
+this working memory is tested and then
+what is the different parts of working
+memory and what is the benefit of using
+value the working memory model over the
+short-term memory model so one obvious
+benefit is that the use of working
+memory doesn't limit ourselves to
+limited capacities first of all then it
+doesn't basically bound us on to the
+concept of limited time processing plus
+it says that the kind of coding that is
+done working memory model of short-term
+store doesn't limit us to a particular
+kind of code which should be used for
+remembering so that's another benefit
+which is there plus the fact that
+working model or working memory model
+allows us to think about a
+conceptualization of a store in which
+the store can talk to ATM and can get
+informations and so the explanation of
+the serial position curve that items
+which are familiar appeal to you more
+and so there's until a descriptive what
+it does is if an item appeals to you
+more if it relates to you in some way if
+the relative 'no sizz very high it is
+immediately transferred on to the
+long-term memory or it is immediately
+verified because this item is already
+present in the long-term memory and so
+the conceptualization or the question
+that came in from the results of the
+serial position curve that items in the
+middle of the list which you're familiar
+are which are somewhere personal to
+people how they remembered more that
+could be explained to this model
+working memory so then working memory
+model is a better model of short-term
+store or the short-term
+conceptualization and so in this whole
+three-part lecture on memory
+introduction to memory we saw how this
+memory system really works we looked at
+the short-term store the basic
+performance of the short-term store of
+how what happens and how things happen
+we look at something called a short-term
+store what is the capacity of the
+short-term store what it does and what
+it doesn't and what kind of information
+is stored and also on to the working
+memory which is a better
+conceptualization of the short-term
+store what are its part what is the
+feedback it takes in how does it connect
+to the long-term store and what are the
+benefits of the working memory store
+over to the short-term store so in the
+next coming lecture we'll look into
+something called the long-term store or
+the long-term memory we look into the
+various parts of the long-term memory
+and then in upcoming lectures we'll also
+look into parts of or different
+conceptualizations of working memory
+thank you

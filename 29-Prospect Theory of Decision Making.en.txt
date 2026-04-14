@@ -1,0 +1,1246 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+so welcome back friends we are now into
+the second lecture on decision making
+and as you know decision making is a
+complex process compressed quality
+process so it follows from reasoning and
+and judgment and so in the last lecture
+on decision making what we saw is what
+is decision-making and so the definition
+that I provided you there is that this
+isn't making is make basically a process
+of making a choice among a number of
+alternatives which have been given by
+the judgment process now when we make
+this choice in in decision-making this
+generally happens in terms of or in in
+the presence of some kind of a risk or
+some kind of a uncertainty and the
+reason that people make or the reason
+for these uncertainties that people make
+decision into is the fact that people
+are humans that humans do not have all
+the information which is necessary for
+calculating a choice for calculating the
+effectiveness of a choice and so they
+tend to run into irrationality or
+irrationality of choices beside that we
+also discussed the idea of something
+called expected utility theory and this
+expected neutral theory which has been
+borrowed from economics basically
+suggests that people's choice which are
+which should be rational or ideal is
+basically dependent on the utility of a
+particular option and the probability of
+happening of this option now what do I
+mean by this no generally this is in
+making models that we tend to study and
+at this level are two in nature the
+first kind of decision-making models are
+called the normative models are the
+prescriptive models and the prescriptive
+models are those models of
+decision-making which are supposed to be
+followed or which are supposed to be
+utilized in making a decision so given
+the fact that judgment has given us four
+or five different choices which are in
+front of us the normative model provides
+us certain guidelines which needs to be
+followed for making choices and if we
+follow and it is a guarantee that if we
+follow these guidelines the choice all
+will
+be rational know what is a rational
+choice a rational choice is the one
+which give bridge guarantees that ain't
+meant of a final goal and it gives us
+the maximum gain or it maximizes our
+gain and also minimizes our losses so it
+is a choice in which the gain
+the chances of gains are there but then
+the transfer losses are very minimum and
+so rational choices are those choices
+which provides maximum utility in the
+presence of maximum probability of
+occurrence of an even know an expected
+utility theory the idea of expectancy
+says that joy those choices which
+provide us the maximum utility then for
+a particular option and with the
+availability the highest probability of
+that option happening is the most
+rational choice what do I mean by this
+given the fact that there are four or
+five different choices which which come
+out of a particular cognition now what
+we tend to do is rate the utility of
+each choices each choices present a
+certain goodness or sources are certain
+benefits and certain downside of it so
+what we tend to do is look at the
+benefit of each choice and the downside
+of it and equate them this is called
+utility or the the use of a particular
+choice with that each of this option
+will also have a probability of
+occurence for example some of these
+choices tend to occur more frequently
+than the other number of choices or the
+other kind of choices so an irrational
+choice are according to the expected
+utility theory the rational choice will
+be a choice which has maximum
+occurrences the highest probability of
+occurrences and also the highest
+expected utility now given the fact that
+some choices have very high utility and
+very low probability we should not make
+this choices we should only make those
+choices which which has a decent amount
+of probability of occurring and also
+give us a decent amount of utility so if
+a choice has highest probability of
+occurring but it gives us the very low
+utility we should not chose this choice
+on the other hand if a choice has
+highest utility and lowest occurrence we
+should not make that choice
+a rational decision-maker will make a
+choice which gives them a certain level
+of utility and also a very good level of
+probability of occurence and so this is
+what the expected utility theory really
+works now the problem is this expected
+utility theory are always violated by
+humans the reason being that humans
+don't have enough information are not
+calculators not statisticians to
+calculate all the options on which to be
+the choices to be made and so they go
+under or they violate these principles
+of expected utility and they create
+violations of them and one of the
+violations that we discussed in the last
+class is called preference reversal
+which basically means that if if people
+tend to prefer choice a in certain
+situation they reverse their choice in
+certain situation B or C know the
+reference reversal theory says that if
+somebody likes choice a or somebody
+likes option a better than B then no
+matter how the situation changes it
+should stick with it but then as humans
+we do not stick to that which keep on
+changing our preference from situation
+to situation and so this is a violation
+or the expected utility theory now why
+does this happen
+the reason I've given before this
+happens because humans do not have all
+making the computations and neither even
+if they have the information they are
+lazy or they have some kind of a
+deficiency in organizing all this
+information and coming up with the best
+choices and so humans then do not follow
+the normative or the prescriptive model
+of generally do not follow the
+prescriptive model of decision-making so
+then what do they follow they follow a
+model of descriptive model of
+decision-making
+what is the descriptive model the
+descriptive model of decision-making is
+a model which generally humans follow
+while making decisions and it has it at
+times tends to give originality or
+choices of irrationality so people then
+tend to make choices which are low yield
+and tend to then suffer and so this this
+kind of people's choice is making or
+people's decision making are not always
+rational
+they are irrational and under this
+irrationality is not too much of a harm
+to people and so what are the theories
+which has been proposed by the Nobel
+prize-winner with Travis key and
+Kahneman in 1979 what's called a
+prospect theory this is a descriptive
+model of decision-making and it takes
+into account of the fact that humans are
+different from computers and they don't
+generally have these expected utilities
+and probabilities combining and making
+decisions onto it so then let's look at
+what is prospectively now one of the
+propeller alternate is to the expected
+utility theory is provided by a Nobel
+Prize winner Daniel Kahneman with his
+colleague and Amos Tversky in 1979 and
+which is called the prospect theory what
+is the prospect theory say the prospect
+theory it's a descriptive model of
+decision-making that attempts to
+describe how we make decisions and why
+our decisions violate the expected
+utility model and so what is the
+statement of this theory the statement
+of this theory says that decisions are
+not valued based on an absolute value of
+the end result the way we make decisions
+generally are not valued if stability is
+not valued as in terms of what the end
+result would be or what the final value
+attained after the decision choices
+should be but this theory passed
+proposed by expectedly theory instead we
+value decisions based on the amount of
+gain or loss from what we have right now
+so people don't look at decisions or
+people don't look at the utility of a
+decision or the desirability of a
+decision in terms of the end value in
+terms of the final value that you're
+going to get but people make decisions
+in terms of the value that they're going
+to get from where they are from the
+reference point of where they are so
+people make these value decisions in
+terms of the amount of gain or loss that
+they are going to have from the point of
+time or from the point where people are
+right now so let's take that take the
+fact that if playing a gamble gives you
+10 rupees and if you lose that or if you
+don't if you win that gamble yet
+if you lose the gamble you get you lose
+ten rupees then in terms of expected in
+to be theory the Tetra please is the
+final value and so that is what the this
+isn't criteria should be followed on to
+that but then we as humans we decide
+this this ten rupees the value ten
+rupees is not the same value on which
+you make decisions what we tend to do is
+even the fact that if you have five
+rupees in your pocket what you tend to
+do is that the expected value or the
+expected value of this outcome then
+becomes five rupees because this is
+because if you have if you lose still
+you will have five rupees which is with
+you and so it doesn't matter too much so
+from where you are standing
+from there you look at the final price
+so winning ten rupees when you have five
+rupees is not that lucrative in terms or
+the fact that if you lose the ten rupees
+right and so that is the difference
+which is there so in terms of prospect
+theory what people tend to do is make
+these evaluations of final value of an
+outcome not based on the final value
+from the starting point but from the
+reference point from the point of how
+much they have at the point of making
+decisions so when you're making a
+decision at that point of time how much
+good that you have or how much a backup
+that you have from there we make the
+assessment of gains and losses on to any
+gamble it also adds that gains and
+losses are on different scales of value
+so one thing that the problem that the
+prospect theory says is that people do
+not make evaluations of gains and losses
+right from the beginning to the end
+value of a gamble of n value of a
+decision but what they tend to do is
+these decisions are based or based on
+the fact that how much people have
+previously are people how much good
+people have before they make a decision
+so somebody who has money and whose
+gambling he will gamble more or less
+depending on how much money he has but
+somebody who has no money in his choices
+will be different so people do not make
+this kind of a calculations in absolute
+terms but rather from a reference point
+the second prediction of the prospect
+theory is that the guy
+and losses are on different skills or
+value for example the scale of value the
+in terms of gains people perceive gains
+as lower value but losses has higher
+value so losing ten rupees note gives
+you more losses or lets you feel that
+you have lost more then in terms of
+gaining ten rupees given the fact that
+if today morning you get a ten rupees
+note from somewhere you the amount of
+happiness that you get will not be
+equivalent to the fact that if you lose
+ten rupees and at some point of time so
+the amount of feeling the amount of
+happiness the amount of happiness the
+gain will not be equivalent to the
+sadness that you get out of losing that
+value and so this is the kind of things
+or this is the kind of predictions in
+the prospect theory actually goes ahead
+and predicts now the value of your
+attached to gain increases more slowly
+as a function of the size of the gain
+then does the negative value we place on
+the loss as a function of the size of
+the loss and so what it basically says
+is that the gain as the amount of gain
+increases the function of gain increases
+very slowly so larger gains will slow I
+will show you smaller increase in
+happiness whereas even smaller losses we
+show larger increase in sadness so if
+even so if you gain fifty rupees the
+amount of happiness that you get and if
+you gain hundred rupees the change in
+happiness from gaining fifty rupees and
+hundred rupees will be sloppily in
+contrast to the fact that if you lose
+ten rupees and if you lose five rupees
+in terms of the drop in terms of the
+sadness that you get in losing ten
+rupees then in five rupees the drop is
+very sharp that then in terms of gains
+so people will be more or less same
+happy when they gain 100 rupees in fifty
+rupees but if they lose five rupees in
+ten rupees the amount of different
+sadness that they feel will be more and
+that is what one of the predictions of
+this particular theory is now basically
+what this theory says is that we feel
+losses more act acutely than we feel
+gain and so as humans in terms of
+expected utility theory if we gain ten
+or if we lose 10 rupees the value of
+that money is still 10 rupees but then
+and so we should feel the same amount of
+happiness and sadness but as humans you
+know that we losing money gives us more
+pain and so losses are more dramatic or
+gives us more sadness then if you gain
+10 rupees and that is one of the more
+prediction so we feel more losses
+acutely so the losses are felt more
+accurately then we feel guess now the
+psychological pain associated by losing
+a dollar 50 is greater than
+psychological pleasure of gaining a
+fifty dollar and that is the basic
+concept or that is the basic standpoint
+of the prospect theory as against the
+expected utility theory which says that
+gains and losses and in terms of value
+say 50 rupees is lost a 50 rupee is
+gained in both of them the expected
+utility that we get or the rational
+choice rational decision maker will not
+be hindered by his preferences but a
+prospect theory says that if 50 rupees
+is lost we feel more sad and we don't
+want to spend more money out of it but
+if we gain 50 rupees we are not that
+much happy and so this is the invariance
+which is there or this is the kind of
+difference which is there now prospect
+theory predicts that people will be
+especially aversive to losses and will
+show differences in preference depending
+on how our enemies are presented or
+frame so basically another interesting
+feature of this prospect theory is the
+fact that people do not like losses they
+are averse into loss so people do not
+like losses at all and so given the fact
+that if two options if a particular
+option is framed differently is what it
+differently people will change their
+preferences so if an option has a gain
+frame which means that it talks about
+everything with certainty people will
+have a different kind of a response or
+people will choose a different kind of
+an option whereas if something is framed
+in a negative sense or something talks
+about losing some statement talks or
+some options talk about losing people
+will have an entirely
+option to choose from and this basic
+tract is called framing so look at this
+graph this graph basically says that
+this is the reference point and in terms
+of these are the losses and these are
+the gains and this is the value so in
+terms of value if you see that for
+higher values as the value goes high the
+gains are very less but then even for
+very smaller values the loss drop is
+very high so people in general they do
+not like losses and losses are perceived
+as bad losses of perceivers ever see
+people want to avoid losses and people
+but on the other hand gains even if a
+very high amount of money is given to
+you you gain a high amount of money you
+will not become happy so the amount of
+happiness that comes with gains is not
+equivalent to the amount of sadness
+which comes with losses so a couple of
+facts to be remembered once this the
+other the fact to remember is that
+people hate avoiding going into losses
+and so there are different scales of it
+and the third thing is that if frame
+differently if the same option is framed
+differently people are presented
+differently people Reavers their choices
+sue them let's look at something called
+framing what is framing framing is the
+term which is used to describe the
+effects on our decisions of how our
+scenario is presented let's say an
+option is given to you and the
+presentation is the option is reworded
+one so something and let's say the
+option of winning of 50 rupees or winner
+or or let's say that there is a
+particular decision that has to be made
+and out of this this is a certain kind
+of choice is that certain kind of
+alternatives come up now these
+alternatives can be framed in a game
+frame which means that everything is
+positive or it can be or everything that
+the alternate is talk about is certain
+or it could be in a loss frame in the
+sense that everything that the alternate
+talk about is uncertain in nature and in
+those cases people tend to reverse their
+preference so prospect theory it
+predicts that our preferences will
+change whenever our reference point
+Changez if we are in a grave frame if
+they are doing evaluations if we are
+choosing alternatives and options in a
+grain frame then in those cases the kind
+of decisions that we make and if we are
+doing evaluations we are choosing
+options in a lost frame those two
+decisions will be different the reason
+being that gains are taken in in a
+different in different way than losses
+gains are not that pleasant as losses
+are - more sadness
+so decisions can be influenced by how
+information is presented and this is
+what is framing framing is basically
+using a say statement or basically
+reframing rewording a particular option
+now if information is presented in terms
+of a positive or a gain frame we will be
+more likely to avoid risk we will be
+risk aversive and pick up a sure bet so
+if something is given to our some option
+is given to us in a gain frame in a
+positive frame or in with certainty that
+something is going to happen we are we
+become risk aversive so in terms of the
+fact that if certain options are given
+to us which show certain amount of
+certainty which have a gain frame which
+has some positive outcome out of it we
+tend to avoid losses in those cases as
+against those so however if the same
+information is presented in a negative
+frame in a loss frame a certain amount
+of information is given to you or
+certain information which is available
+in a particular option is in a loss
+frame which means that certain ideas
+certain level of certainty is not
+provided to you we will be taking more
+risk so people take more risk when a
+loss frame is there when people know
+that something is negative when people
+know that they are losing they take more
+risk but when people know that they are
+gaining maybe people know that there is
+no loss to it people always select sure
+bets so this is what framing is all
+about so it is all about how do we go
+ahead and make this kind of a choices or
+this kind of a thing so in a gain frame
+people avoid risk right and they become
+risk aversive in a loss frame in a frame
+where people know that certain kind of
+losses are there people take more risk
+so people become a more risk flown
+people take more risk in terms of
+negative
+in terms of negative situations in terms
+of positive situations people always
+prefer a sure bet consider so I'm
+presenting a study by a very famous
+study by Travis Kane camera in 1981 and
+this is available everywhere and this
+study what it does it is a sample study
+to show that framing has this effect or
+framing can lead to this reversal of
+preferences among people and so what is
+this subject in this particular study
+subjects they're shown two different
+kind of options which was there so two
+different kind of options are presented
+two or two different scenarios
+represented to people let's look at the
+option so the optional scenario says
+that imagine that the United States is
+preparing an odd break for an unusual
+Asian disease so basically this is what
+it is now which is expected to kill 600
+people so the situation says that United
+States is basically preparing a
+situation or preparing themselves for an
+Asian outbreak of disease where they
+have already calculated the 600 people
+are going to die now two alternative
+programs for combating the disease have
+proposed so there are two options for
+combating these disease are there so 600
+people are going to die no matter what
+this is the certainty with it now assume
+that the exact scientific estimate of
+the consequence of the program is as
+follows so there are two scientific
+options there are two or scientific
+estimates that there are two options to
+look at and then you have to choose
+which are the option you would like to
+go with now if you adopt program a 200
+people will be saved if program B is
+adopted there is one-third probability
+that 600 people will be saved and 2/3
+probability that no one will be saved
+this is one way one thing to be looked
+at so 600 people were going to die out
+of it and so two programs induced to
+save more number of people in option A
+in using the option a what happens is
+that there is your sort fact that 200
+people are going to be saved if program
+a is rapid but if program B is adapted
+then there is one third of a probability
+that 600 people will be saved and
+two-third of probability that no one
+will be saved this is one option so one
+group of subjects were present
+this kind of an option another group of
+subjects represented a similar option
+and they were asked to make the choice
+whether they will go with program a a
+program B now in the other group of
+subjects were presented a similar kind
+of situation in which a prostate ate
+that program C is adopted 400 people are
+going to die but a program D is adopted
+one-third probability that nobody will
+die and 2/3 probably there 600 people
+will die now look at these two options
+which I think so basically the situation
+is that there is a scenario which has
+been presented the u.s. is suffering
+from some kind of an attack 600 people
+expected to be die dead and so they
+create a hypothetical set programs two
+hypothetical situations for combating
+with these diseases and so these are the
+options so as you look into it
+the first option the first two options
+program a and B we went to first kind of
+subjects as in a in a game frame and in
+the C and D are in the lost frame what
+do you expect to happen it'll happen is
+that when things are presented in the
+gain frame most people select option a
+which is 200 people will be saved
+rather than selecting program B which
+says that one-third probability that 600
+people will be saved in 2/3 probability
+that no one will be saved but look at
+this look at the C and D option it is
+presented in a loss frame and here it
+says that if C doctor is R opted 400
+people are going to die and where D is
+adopted one-third probability that
+nobody will die and 2/3 probably that
+600 people will die if you look into it
+there is no change from A to B right it
+is the same but if provided in a gain
+frame people select option A whereas if
+provided in the lost frame people adopt
+B as the answer and this happens this
+shift or reversal of choosing D over C
+or choosing a over B is from the fact
+that it is framed in a different way it
+is presented in different a positive or
+negative frames so in a positive frame
+people select those option which
+presents alternately so 200 people save
+certain thing I'll go with it
+but the fact that if it's a lost frame
+if wanted people are going
+to die on own why not go with the rescue
+option which says that one-third
+property that nobody will die so
+one-third probably that nobody will die
+is going to be the same thing it's not
+going to be different in any way 200
+people is what is the one-third
+probability that is there and so people
+select the option whereas in the first
+case people select a option and this
+basic demonstration shows that people
+show this kind of a preference reversal
+or reversal of choices for yourself
+which options to go with depending on
+which frame it is being presented to
+remember the invariance theorem which
+counsel expected interim it says that if
+people select a in first case they
+should select C in the second case
+although they are the same but that's
+not what happens people reverse their
+choices and this happens because these
+options have been presented in different
+frames or in different wordings in a
+gloss frame and in a gain frame so in a
+gain frame in the first case what
+happens is people become more
+risk-averse see they do not want to
+taste this so they go with a certainty
+option they go with option where two
+hundred people are going to be dead but
+in case where is the last frame people
+go with a more risky option they take
+more risk so although they will even if
+we calculate is going to be the same so
+take a more risky option and in this
+case they take the B option which is
+more risky but it is going to they think
+that it is going to say more people but
+it is almost the same and that isn't
+very very interesting finding of this
+prospect theory which says that gains
+and losses are valued differently or
+they are seen of person differently by
+people now another interesting phenomena
+or another interesting output of the
+prospect theory is something called
+psychological accounting it is another
+interesting output of the prospect
+theory or one of those features or one
+of those ways in which people make
+decisions and what does it says so this
+principle says that people will make
+different choices depending on how the
+outcome is felt or perceive basically
+how people feel so it is about feeling
+it is about emotion it is about how
+people like a particular option so the
+way they feel about an option that
+decides how
+people are going to make the decisions
+and so people feel feelings about a
+particular option makes the final choice
+of the decision and not the utility so
+people do not go ahead and make
+statistical calculations of probability
+in utility in making decisions rather
+what they do is they use a heuristic
+approach of how they feel about a
+particular choice and based on that they
+make the decision and actually make the
+choices of what to do with and they
+consider that to be rational now look at
+there are two situations which I have
+presented to you to explain
+psychological accounting first first of
+all let us look at the first case now
+imagine that you decided to see a play
+for which dollar 10 a ticket and you
+enter the theatre you discovered that
+you have lost dollar 10 bill would you
+pay $10 for the ticket to the plane the
+so the first option is that you have
+lost a $10 bill which means that you
+have lost the money and so you enter
+into a theatre you want to go see a
+movie you enter a theatre and then in
+after entering a theatre you lost a $10
+thing which is also the cost of the
+ticket so are you going to pay for the
+ticket are you going to buy the ticket
+and there is a second situation in which
+decided do you decide to see a play for
+which admission is $10 as you enter the
+theatre you discover that you have lost
+the ticket so you bought the ticket and
+now the ticket is lost the seat was not
+marked and the ticket cannot be
+recovered
+there is no since you bought the ticket
+the seats and and unfortunately the seat
+are not marked and there is no way to
+recover the ticket would you pay $10 for
+a ticket for the play so in which of
+these chances and which of these cases
+are you more happier or are you more
+likeable to buy a second ticket what is
+the answer what do you think is going to
+happen now given the fact that if these
+are the choices which have been
+presented it has been found that choice
+2 in choice 2 people are more reluctant
+people do not want to buy a new ticket
+the reason being that they believe that
+$10 the value $10
+although the ticket has retained their
+value at only $10 has been already
+assigned to the
+and so is the ticket is lost there is no
+point in buying a ticket because the
+$10.00 from the psychological Money
+account that they have that has which
+was assigned to the ticket has been lost
+but in the first case the idea that $10
+bill the $10.00 rupees or the 10 rupees
+for which the ticket is worth that got
+lost and so that the probability of
+losing a 10 rupees is far greater than
+the probability of losing a ticket to a
+particular play which is of $10 and so
+the fact that in in case one in the
+first option you are more likely to go
+ahead and buy the ticket then in the
+second case because here the value of 10
+has been assigned to the ticket and the
+ticket has been lost and so the value 10
+has been assigned to the ticket and in
+your psychological accounting says that
+I do not want to pay more money to this
+particular ticket and so this is what
+Daniel Kahneman and Tversky also found
+out in Drammen and Kowalski in 1981
+original study the subjects were less
+willing to purchase a ticket in scenario
+two now why could this be this could be
+because of the fact that the $10 that
+the spend in option 2 will be from the
+ticket option from the psychological
+account which is assigned to the ticket
+well in the first case the probability
+of losing a $10 is very high so even if
+you lose a $10 bill it it could have
+been lost anyway and so you will buy a
+ticket but in the second case the ticket
+which was further for the $10 the ticket
+was lost and so the value was assigned
+to the ticket and so since you have lost
+the ticket you are not going to put any
+more money onto it and so this is called
+the psychological accounting another
+interesting fact
+or another interesting phenomena which
+is a follow-up of psychological
+accounting or prospect theory is
+something called sunk cost
+it is another feature or rather
+phenomena which shows how people show
+irrationality in making decisions they
+are not rational decision-maker and so
+what is sunk cost now in the sunk cost
+effect is another interesting variation
+of the notion of psychological
+accounting what does he say this effect
+was demonstrated by our keys and lunar
+in 1985 in one of the X
+and so let's look at the experiment so
+in this experiment what happened is
+subjects were to imagine that they
+purchase tickets for two different ski
+trips so basically two different ski
+trips were then subject they actually
+brought ticket for both these trips now
+one ticket a trip for Wisconsin costed
+$50 while the other ticket was a trip to
+Michigan which costed $100 now the
+scenario made it clear that the trip to
+Wisconsin was preferable because it
+would be more enjoyable so basically
+then there are two trips that you buy a
+ticket to a ski trip one is to Wisconsin
+and the other is is to Michigan
+the Wisconsin cost of the restaurant is
+katikut
+is $50 the cost of the Michigan ticket
+is $100 both are ski trips that are
+there but then this information is
+provided to you that the Wisconsin trip
+is more desirable it is more fun and so
+it is both preferable so now you have
+decided to go to both the places now
+comes a complication where is the
+complication a complication arises where
+the two trips are fall on the same
+weekend
+now unfortunately both the trips tend to
+come on the same weekend or the same
+dates and the tickets are nonrefundable
+you cannot go ahead and they find the
+particular ticket my question is which
+other tickets
+are you preferring to go to or which of
+the trips are you going to go to and
+which is the trip that you are going to
+avoid no rationality suggest that this
+constant trip is more exciting although
+it is of lower value so people should go
+for this one and leave the trip to
+Michigan which is expensive hundred
+dollars but is that what happens no this
+is exactly the opposite of it people
+actually prefer the non enjoyable trip
+because it is expensive and so people
+actually go to the Michigan trip and so
+this is what the result of Emerson
+Travis keys or Arkansas main study is
+that they found out that people take the
+Michigan the Michigan trip although it
+is not enjoyable but it is expensive and
+so this is a phenomena which is also
+seen in everyday well maybe what we see
+is that people throw in money after bad
+money so if people lose money they tend
+to throw in more money
+so if there is something that you have
+which is not working and so when you see
+that this thing is not working and you
+put more money into it for it being
+repaired and it doesn't get repaired you
+tend to put more money on to it people
+do not get into it so some you buy a
+particular product it gets defective you
+give it to someone for repair now after
+the parrot is still not working you tend
+to put more money into it to getting
+repaired rather than buying a new thing
+because it has already costing you more
+and so you tend to make some more money
+on to it and this is the exact same
+phenomena here happens people tend to
+put more ornate on to the expensive
+option then the expensive option rather
+than choosing an option which is a more
+enjoyable but lesser value so these are
+what is this is to do with what is
+prospect theory and how does prospect
+theory really was another interesting
+theory or another interesting fact in
+decision making is the role of effect in
+BC's and making or the role of emotion
+in decision making so positive and
+negative outcome a positive and negative
+effect which comes with an outcome is a
+feeling of goodness and badness which
+comes with an outcome they give us
+different different feelings with us and
+with predictable implications on disease
+and we make so our decisions are not
+just in terms of factual information it
+is also related to the kind of feeling
+that we get after taking a particular
+decision after taking a decision or
+after choosing a particular alternative
+how do we feel about that alternative
+also plays a large role or plays a major
+role in how people make decisions or how
+this is in making it done so affect us
+is an important determinant of decision
+making and can have a sizable impact on
+psychological accounting process so it's
+basically the feeling that you have the
+kind of pleasure or pain that you get
+out of taking a decision that depends or
+that decides a lot about how you pick
+diseases now has a and rot the stage
+2004 they made this point by
+highlighting an important dimension of
+choice that interacts with effect which
+they term as scope they basically came
+up with this dimension of choice which
+interacted effect and we call this the
+scope which refers to the sweep of a
+decision or action how much impact will
+it have
+so basically Hattie and not
+rotten stage in 2004 they invented or
+they came up with the whole this a whole
+new dimension which is called scope
+which refers to the sweep of a decision
+how do sometimes diseases are made in
+terms sometimes of positivity or
+negativity or sweep and this is what
+they discovered so consider these
+particular two things suppose you give
+$10 to save one endangered tiger
+it feels good now how much would you
+give to save forces in endangered tigers
+given the fact that you often see people
+coming to you saying that see these kind
+of animals are endangered they have to
+be saved in some way and so we need some
+kind of money from you to save these so
+if they then they show you some basic
+thing give us $10 and we we are going to
+save some endangered animal out of it
+let us say panda tiger or whatever it is
+and so you give some kind of money into
+it the fact that for one it is okay but
+then he says that you are going to save
+for Tigers are you going to pay more
+that's the question now how much are you
+going to shell out for and saving for
+endangered tigers or what is the way in
+which your decision process really works
+the answer to this question so if you
+are giving $10 for saving one tiger
+whether you're going to give $40 for
+saving four Tigers is the question and
+so the answer to this depend on whether
+the subjective value derived from saving
+tigers is somewhat multiplicative so
+basically the kind of value that you
+derive that or the kind of utility that
+you derive by saving tigers how much
+that is
+so is it multiplicative or not so saving
+one tiger if you are and so this basic
+the decision depends on two different
+modes of decision-making so basically if
+one tiger requires $10 for saving and if
+somebody asked you to save for Tigers
+are you giving $40 for saving the tiger
+and that depends upon how much utility
+or how much subjective value derive from
+saving these four Tigers now the author
+proposes a dual process view of the
+relative impact of scope and subjective
+value or decision-making they say that
+people make these kind of decisions
+under two different modes of
+decision-making and what is this mode
+there is a particular mode which is
+called a deliberative mode in
+which map onto the conscious reasoning
+so when you are into a deliberative mode
+or when you are into a conscious mode of
+reasoning then if somebody says that
+saving one Tiger is $10 saving for
+Tigers $40 then you would provide $40
+because you reason that one tiger will
+require $10 of saving then for Tigers
+will be 10 into 4 which is 40 but if you
+are functioning on to an effective mode
+if you are functioning into one of those
+in a way that you feel good about saving
+Tigers then saving one tiger is enough
+for you and so if you are functioning
+into an effective mode we should map on
+to an unconscious reasoning in this case
+you say that I don't care
+I have said Tiger that is the answer and
+so one time beat one tiger or four
+Tigers I have saved an endangered
+species and so $10 is more than enough
+and in those cases you don't shell out
+more money so in a deliberative mode you
+are more prone to giving more money
+because you do more calculations and it
+maps or from the conscious part of the
+brain and so you tend to shell out more
+money because you do a calculation but
+if it is the feeling which comes with
+the decision of saving Tiger if you feel
+good by just saving Tiger if that is the
+underlying meaning out of it then
+whether it is 1 or 4 it doesn't matter
+and so in those cases you are take a
+different kind of decision altogether so
+when we are in a deliberate decision
+making more we value things by
+calculating 4 is greater than 2 and so
+saving for is much better than 2 while
+when we are in an effective
+decision-making mode we value things by
+feeling help Tigers so saving one tiger
+is helping Tiger and saving for tiger is
+helping tiger
+so whether I say 1 or 4 is basically the
+feeling which is out of it it is not
+that some when you say 4 Tigers the
+feeling will be greater
+it is not multiplicative but when we are
+in a deliberative more we understand
+they're saving one tiger and saving for
+Tigers are saving two tigers and four
+tigers four tires is more then two
+tigers so let's give more money and so
+their decision will be based on that
+kind of an imperative or that kind of a
+system but when in an effective mode
+once you are in an effective mode it is
+the feeling which is of interest to you
+it is the fact it is the pleasure that
+get when you say what iger's is the kind
+of appreciation that you get when you
+say what I got and that is all it
+matters so it doesn't really matter
+whether you're saying one Tiger or
+you're saving for Tigers and so it is
+saving Tiger which is of importance to
+us
+so in deliberately decision-making mode
+as cop increases subjective value
+increases corresponding when in
+effective EC and making mode Scoob
+doesn't matter nearly as much as
+affected by the presence or absence of
+first stimulus so scope is basically the
+sweep of the decision so in the
+deliberative mode the scope has very
+less value than in the effective mode it
+is all about the scope which is our
+there and so people's decision-making
+then vary in terms of whether they are
+in the deliberative mode or in the
+effective mode and their decisions are
+affected by the kind of feeling that
+they generate in the affective mode it
+is the feeling which basically decides
+what kind of decision that they are
+going to make or what kind of imperative
+that you are going to use or what kind
+of disease and options that you are
+going to do but in terms of the
+deliberative mode it is quite different
+and so this is the last section onto a
+course on cognitive psychology and in
+terms of decision-making so basically
+what we did in this particular class is
+that we saw a extension of one of the
+popular theories of decision-making and
+this is the descriptive theory so in the
+earlier class what we did in the earlier
+lecture what we did we looked at a class
+of theories which is called the
+normative of prescriptive theories which
+work in terms of reasoning and rational
+decision makers or ideal decision-makers
+and it it is called expected utility
+theory or it is called the multi
+attribute utility theory both these
+theories work on the fact that this
+isn't making is basically done in terms
+of what is the utility of a particular
+option choosing a particular option and
+what is the probability of that option
+coming in and multiplying this gives us
+the final basis on which an option
+should be choosing these are the
+prescriptive theories or these are the
+normative theories which are there we
+saw that human beings since they do not
+have a lot of information available to
+them and even if the information is
+available to them they cannot be working
+as calculators or mental computers so
+they make it
+now choice additionality and this
+irrationality basically happens because
+human beings have certain limitations
+and so we as humans follow a descriptive
+theory are more worldly theory or
+decision-making and one of these
+theories are the scene making which is
+descriptive in nature is something
+called the prospect theory so what is
+the prospect theory the prospect theory
+is a theory which basically goes ahead
+and says that gains and losses that
+people have have different values so
+gains are higher gains
+I have lesser pleasure lower losses have
+more pain into it so gains and losses
+come in different frames they evaluated
+in different frames and gains and losses
+are thought of differently also prospect
+theory proposes the fact that losing and
+gaining are basically dependent on the
+frame in which a particular option is
+presented so if a particular option is
+presented in a gain frame then people's
+choices will vary whereas if a
+particular option is presented in a loss
+frame the people's choices will also
+vary according to it so reversals of
+preferences or reversals choices of
+option depending on which frame the
+information is presented in gain frame
+people are more risk-averse if people do
+not want to take risk people always
+select certain options whereas when
+something is in a loss frame people are
+risk-taking they like risk they take
+risk and so once something is in a
+negative frame when in the last frame
+people want to take risk and put more
+risk into it and so that is the kind of
+decision-making that they tend to take
+and then we discussed two other outputs
+out of it or two other phenomena related
+to the prospect theory one is called
+psychological accounting it says that
+how you feel about a particular
+situation how you feel about a
+particular option makes you decide
+whether you like that option or not in
+contrast to whether it is multiplicative
+or it is whether things are rational or
+not so it is the basic feeling that
+people get of our part of it
+the second the option or the second
+output to it or the second theory to it
+was the sunk cost theory which says that
+people always what they tend to do is
+take the non desirable option they
+always put more money after the bad
+option so if even if something cost more
+people tend to take the more unlikable
+or the more enjoyable journey because
+people put more money on to sunk money
+that is the way that they like so they
+don't do these calculations given the
+fact that if they calculate they will
+always go for the lesser enjoyable trip
+but they tend to go to the more higher
+trip which has higher money do it
+because they think that says larger
+money has been there let's go with this
+thing that is one of the things now in
+the last section of this particular
+lecture we saw how effect of or
+basically how getting pleasing or a non
+pleasing feeling out of an decision
+basically helps you into decision making
+or basically as you do making decisions
+and so we found out that when people
+have a deliberative mode people are in a
+conscious mode then they tend to do this
+calculating and they are more helping it
+is not about feeling that they think
+about it is not about the effect which
+decides which help them decide a
+particular decision which they which
+doesn't rule the decision but when
+people in an effective mode the kind of
+decisions they tend to take is entirely
+different but and and they are affected
+by the sweep or the scope of the
+decision so basically effect then itself
+has a major role to play now in terms of
+brain physiology it has also been found
+that this risk options of framing has
+been proved or the the effect of framing
+on decision-making has also been proved
+in terms of certain brain studies so in
+certain brain studies it has been it was
+found that people who were presented
+options in a positive frame so if some
+option was given to them in a positive
+frame and people selected and went in
+the positive frame people selected those
+options which was certain the brain
+activity was very less so in if things
+were in offer an option if an
+alternative was presented in a positive
+frame and people selected certain
+options people selected those options
+which were not presenting risk people
+showed
+sir brain activity then if they selected
+those options which presented some kind
+of a risk on non certain options in
+contrast to this so basically less
+activity was there when they selected
+certain options there then if they
+selected those opt options which were
+non certain in a positive frame but in a
+loss frame it was quite the opposite in
+a loss frame when people selected those
+options which were risk producing less
+brain activity was there then people
+when people selected those options which
+were certain so in a lost frame
+risk-taking led to lesser activity of
+the brain and more common activity of
+the brain which means that decisions a
+more thought true this is answer more
+like through then in cases in in the
+other case in the positive frame where
+certain option selections are selecting
+those options which was certain which we
+get trying to which were very definite
+which are very certain or which were
+sort of very fixed those in those cases
+the activity of the brain was less than
+the wind was much calmer then selecting
+those options in which it was not in
+this the options were not certain so in
+this way human beings make decisions and
+in this way human beings produce
+decisions or make decisions and and they
+differ from calculated machines or
+economic decision making so basically
+using these processes of decision making
+either using the prospect theory or
+using the other things human beings come
+up with diseases and then they make this
+this is an under uncertainty and under
+risk and based on that when a certain
+decision fails they reevaluate it make
+another decision make another choice and
+then keep on learning from it
+this is how the higher order cognitive
+function decision-making really works
+and this is the last lecture in the
+series on decision-making or in this
+whole course which is of cognitive
+psychology so until we meet again thank

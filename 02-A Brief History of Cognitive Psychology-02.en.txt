@@ -1,0 +1,772 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+so in the last lecture we looked at some
+of the basic processes of cognitive
+psychology we looked at what cognitive
+psychology is composed of we looked at
+the schools which led to the development
+of cognitive psychology is a field we
+look at the subject matter of cognitive
+psychology in terms of mental
+representations what are mental
+representations what do they represent
+how do they combine together to find
+knowledge and how mental representations
+are manipulated the way they can be
+expressed the way they can be understood
+in this lecture we look at why brain is
+to be brought into the idea of cognitive
+psychology up till now we have been
+looking at mental processes and we'll be
+looking at mental representations and
+the functions of mental representations
+we're looking at how mental
+representations function but the idea of
+cognitive psychology in terms of what
+behavior is said or in terms of what
+cognitive is said proposed that mental
+representations explain functions the
+process of how they combine together
+explained functions of a of how mental
+activities take place is not enough so
+at the inception of cognitive psychology
+it was all about the functional aspect
+of how mental representations make up
+mental activity and mental knowledge now
+one of the core challenges one of the
+main challenges of cognitive psychology
+is to understand what happens in the
+mind and how does the mind does what it
+does the conception of the mind have
+been differently put by different people
+philosophers have given one way of mark
+mind is psychologists have understood
+mine in more in terms of consciousness
+understanding consciousness and go
+through the cognitive revolution
+training of the mind was put down to or
+brought down to the understanding of
+mental representations understanding
+mental processes mentally activities and
+so on and so forth up till now till the
+cognitive revolution the study of mental
+processes descend to study of mental
+activity the study of cognition which is
+basically the study of mental activities
+was in terms of functions but the mind
+cannot work on its own and so it it's
+the the idea of mind and brain as a
+computer hardware and software
+introduces first the first time brain as
+that system on which the mind works and
+so one of the most interesting fact that
+has been bought or that has been thought
+of as my cognitive psychologists is
+introduction of the brain in the whole
+idea of study of mental processes of how
+mental events takes place the question
+is why do we study the brain what help
+will we get looking at the brain it is
+composed of different neurons neuronal
+grooves and these neuronal groups have
+biological structure and so at the sight
+of it it doesn't appeal or it doesn't
+give us much information about mental
+processes or the functioning of the mind
+so why should we actually look at the
+brain looking at the brain will help us
+identify those processes and the correct
+combination of processes that are
+required to complete a task what does
+that mean what it would mean is that
+since the brain leads to the mind the
+working of the mind the process of the
+mind will have a direct impact or would
+directly project to the brain and so
+changes in brain structure changes in
+brain activity can then be correlated to
+the
+of the mind think of it in this way and
+this is a very blow not example suppose
+a region a of the brain activates when a
+certain mental processes takes place and
+it doesn't activate it doesn't show
+activity when a certain be mental
+process takes place then now we have an
+observable a quantifiable fact or a
+quantifiable system on which we can look
+at changes because these brain
+activities the the increase and decrease
+of brain activities will signal whether
+process a is working or whether process
+B is working and so one of the reasons
+of including the brain or bringing up
+the brain into the whole idea of study
+of cognitive psychology is to identify
+because brain helps us in identifying
+what mental processes are taking place
+if we are able to form correlations
+between mental activity and brain
+activity but then there is a catch to it
+what is the catch different information
+processes they lead to the same kind of
+mental experience what I am trying to
+tell you here think of emotions now
+there is a correlation between a brain
+region which is the amygdala and the
+kind of emotion that people have and so
+if I'm looking at unhappy emotion or if
+I am looking at positive emotion what
+will happen is that most on most have
+positive emotions the same or nearly
+same brain regions will actually
+activate or show activity so how do I go
+ahead and pinpoint those brain networks
+which lead to the happiness or sadness
+factor also there is no way to tell us
+how does the brain reduce or give labels
+to these emotions whether this is
+excited this is happy and this activity
+leads to this kind of emotional feeling
+so then the different sort of
+information processes can produce
+similar results or continue similar kind
+of at in in outputs is one of the basic
+problems by including of including the
+brain so one of the problems is that
+also there is a problem which is called
+the structure process trade-off why does
+it mean this is the same thing that I
+was trying to explain you a little while
+ago what is the structure process
+trade-off I try to explain this to you
+in a very easy way
+Sall Starnberg Sternberg sorry was
+trying to identify how people search
+mentally what is the process people use
+for doing mental search and for that he
+gave people students volunteers
+experiments so in the first
+conceptualization what Steinbach was
+trying to do was trying to find out how
+information is accessed from
+memory any conceptualized so an
+experiment which he gave to volunteers
+the experiment was like this certain
+numbers were given to people for example
+numbers 1 3 5 7 and 9 and later on these
+people once these numbers were shown to
+them later on these numbers were shown
+to them one by one and they were asked
+to tell with confidence whether these
+numbers were in the list or not so it's
+like a list recognition so what happens
+in this experiment is this list of
+number will given to people to remember
+to learn and once the learning was over
+one by one these numbers are presented
+and they were asked to decide they were
+asked to recognize whether each of these
+numbers represent in the list or not
+what he conceptualized is that this kind
+of list excess memory excess happens
+through serial search and why did he why
+did he propose that he found out that as
+the list increases the verification time
+also increases so list increases the
+length of the list increases the
+verification time also increases what he
+found out from his studies well that
+information excess from memory was in a
+serial way so what happens is that when
+once you saw this list to people people
+formed a mental image of this and then
+later on when you show one of these
+members of the list and ask them to
+verify from their mental image or from
+the mental representation whether this
+is present or not we what people tend to
+do is match this with this if the match
+of this with this results in a yes
+response the search is terminated if it
+is not you get a negative response here
+and so the search goes to the next item
+whether this and these are similar it is
+not so search goes to the third item
+not match again not match again not
+match the list returns to the first item
+verifies it again and then gives an
+output saying that it was not present in
+the list and this is a serial search so
+what happens is one item at the same
+time list
+2 is matched to the list and that gives
+this kind of a serial search system and
+so obviously as the number of items will
+increase the verification time will
+increase because this serial searches
+have to be more in number this was what
+Saul Steinberg proposed and this is how
+what he said is the reason for accessing
+or how information is system in memory
+but later on people like Townsend gave a
+different conceptualization of
+information accessing from memory
+what did Townsend say Townsend said that
+the same conceptualization that I have
+the same problem can add that I have can
+be thought of as balls in a plate and so
+now I have one three seven four and nine
+and instead of a serial search what
+really happens is information is
+searched through parallel processes
+information access from memory is done
+through parallel processes not if that
+is true if parallel processes occur in
+the memory then adding new items into
+this list for example two and eight
+should not increase the time of
+verification as list length increases
+this is not what was found
+what Townsend found that as the number
+of balls the number of item increases
+the time of verification also increases
+so how do I confer it for a serial
+search it was accounted in terms of the
+fact that more number of processes are
+there and more structure is in so as the
+number of processes increases or sorry
+the number of searches increases the
+time will increase but in this case when
+I have parallel searches here the same
+structure in the same structure the
+number of items are there but still the
+time of verification increases how do I
+confer this the counting further this is
+done in terms of the number of processes
+that take place what happens is in
+serial search
+although the process of verification is
+single but the structure that stores
+this information is a bigger structure
+and so what happens is although the
+process is a single process since the
+structure is more or there is a bigger
+structure which throws this information
+the time of verification will increase
+because as I add up more items into it
+more structure is required on the other
+hand parallel search although the
+structure is same but the number of
+processes that are there the number of
+comparisons that have to be done the
+number of processes takes up for the or
+icons for the more time what will happen
+is since there are let's let's assume
+that there are four process processes
+which run in parallel what will happen
+is these four processes will have to do
+multiple evaluations and these multiple
+evaluations although this is much faster
+but these multiple evaluations are the
+reason for the increase in verification
+time and so the inclusion of the brain
+the inclusion of the idea of the brain
+gives us a chance to identify what is
+the reason for the mental activity or
+what is the reason how this mental
+activity is taking place
+another interesting thing is the
+adequacy theory is the requirement of
+adequacy what does it say the inclusion
+of the brain into the understanding of
+mental processing or mental processes
+gives us this chance to understand what
+necessary or what adequate processes or
+what requirements are there for certain
+mental process to take place what does
+this mean it means that if four
+different processes or if four different
+answers of a particular way a particular
+process through which a mental
+experiences fell is being proposed given
+the structural constraint of the brain
+which of them will be the most correct
+what do I mean by this in the first part
+I have explained that multiple processes
+will give the same result but how do I
+go ahead and look at which of this is
+the most optimal or which of this is the
+most optimal theory the best theories or
+best threat of theories because there
+will be several theories there will be
+several reasons of how the mental
+process appeared and so what the
+adequacy Clause will tell us is that
+given the constraints of the brain even
+the constraints of what the brain has or
+what structures of the brain are which
+of the theory explains the processing or
+the answer to a mental process or the
+output to a mental process and so
+education law says that when inclusion
+of the brain will help us in pinpointing
+which theory works in which theory
+doesn't and what should be done for
+theories or what changes could be done
+in a theory to adjust it so that it
+explains a mental mental phenomena now
+there are certain paradigms to the study
+of cognitive psychology first of all let
+us understand what a paradigm is it's a
+body of knowledge
+structured according to what is
+proponents consider important and what
+they do not so it's basically what
+should be the basic idea behind
+cognitive psychology or what what is the
+basic matter behind cognitive psychology
+and so this these paradigms are
+assumptions which are made by
+investigators appropriate types of
+research methods because these paradigms
+then when I use a particular paradigm
+when I use a particular approach to
+study cognitive psychology it will not
+only give leaders to having a set of
+assumptions which vary across paradigms
+but it also gave us different methods of
+research of the same different processes
+or the same mental process it will also
+give new questions in the field so the
+same processes same mental process or
+same mental activities if it is studied
+by different paradigms if it is studied
+by different approaches not only will it
+give us different types of research
+methods of having same process but it
+would also give us new questions and
+also new analog is to it or new similar
+problems to it of how the solutions can
+be generated and so in cognitive
+psychology there are four basic paradigm
+that I wish to make you aware of here
+the first paradigm is called the
+information processing approach and so
+this approach started with the cognitive
+revolution the part of this approach
+this approach comes from the structure
+list and what this approach says is that
+cognition is basically information
+passing through a system so there are
+several systems out there Seraph several
+process systems in in the mind and these
+process systems takes in information
+from a previous process a processing
+system and passes processes it in
+certain way and passes it along to the
+next system and so information
+processing approach says that quality
+psychology the subject matter of
+sovereignty psychology should be how how
+these systems process information the
+basic information processing approach is
+built in this way it says that any
+information which comes out or which
+people encounter from the environment is
+first detected so this is the
+environment
+and this environment provides certain
+signals or certain kind of information
+and this information is detected by the
+mind or by the brain using a process
+called attention this attention then
+separates the different formats of
+information which are passed on from the
+environment so the information which is
+passed on from the environment could be
+in visual medium it could be an auditory
+medium or it could mean olfactory medium
+or the other two senses which is haptic
+or the taste gustatory once these
+different formats or this different
+types of information is detected by the
+human system through process of
+attention it is passed on to something
+called a short-term memory and what is
+short-term memory it's a system or it's
+a place where information which is taken
+in through a process of perception using
+attention is thrown here or is put here
+for storage now this storage system is a
+temporary storage and so if people do
+not rehearse this information do not go
+ahead and repeat this information it is
+lost here through forgetting if it is
+rehearsed it goes back to something
+called long-term memory also information
+which is coming out from the environment
+is first recognized through perception
+so perception has certain filters and
+these filters are three these basic
+modules will recognize different
+information which is coming from the
+environment I am talking about here the
+content so based on the content the
+information is stored in short-term
+memory from the short-term memory it is
+rehearsed it goes to long-term memory
+once the information comes into
+long-term memory this is basically
+categorized into already so existing
+information systems or information pages
+in the long-term memory so mostly
+long-term memory has a very categorical
+structure
+since long-term memory has a lot of
+information to into it so what it does
+is it categorizes information into
+different categories
+what are these categories these
+categories are generally formed through
+something called schema if it's episodic
+knowledge or it if it is semantic
+knowledge this categorization is done
+through something called hierarchical
+tree structure what you need to
+understand here is that this long-term
+memory takes in information from
+short-term memory and it binds this
+information which is coming from
+short-term memory into already existing
+long-term memory information for example
+the next time you see an apple you do
+not need to learn that this is an apple
+what happens is when an apple is
+presented to you this Apple is perceived
+by your perceptual system the perceptual
+system identifies a scale color shape
+and these kind of informations texture
+passes on to short-term memory the
+short-term memory takes this information
+ask the long-term memory in terms of
+given the fact that this is the format
+and this is the meaning or this is the
+kind of information that is coming from
+this structure or this mental
+representation what could could be the
+long-term memory then compares this
+information and tells you that this is
+an apple or if tomorrow
+a black Apple comes in now when I taste
+it when I see it it looks like an apple
+but the possibility of black Apple is
+not there so what the brain will do is
+take this black colored Apple compare it
+with features which are existing in in
+the long-term memory and so since the
+black Apple has most of the features
+which is similar to any other Apple only
+the color is different so what will
+happen is this black Apple now gets
+stored up or gets included into the
+category of Apple
+which are already stored in long-term
+memory with one pointer to it or with
+one exception to it saying that this is
+a black color Apple because most apples
+are green and red in color so this is a
+unique feature which says that it is
+black in color
+so this is what the information
+processing approach says it says that
+any information comes in or it passes
+through certain stages and these stages
+define how an information or mental
+mental activity defines how an
+information path is processed through
+this system now the information
+processing approach tells us about the
+system's the processes and the goals
+what is the systems here the various
+systems which help in the processing of
+information are the sensory memory here
+the short-term memory here
+the long-term memory here what are the
+processes which help us in in
+understanding this mental experience or
+in sending metal activity our processes
+recognition rehearsal recording
+reorganization manipulation
+categorization and so on and so forth
+and what are the goals of it the goal is
+the response the goal is the
+understanding so in the Apple example
+the processes which help us and
+understanding the Apple is the
+short-term memory the long-term memory
+the perceptual systems those are the
+processes what are the sorry those are
+the structures those are the systems the
+processes are the process of encoding
+the process of recognition the process
+of rehearsal the process of response
+manipulation the process of
+identification recognition these are the
+process through which you are into Phi
+this Apple and the response the output
+is storage of a new kind of Apple the
+response output is the information the
+knowledge that a black apple also exists
+this is the goal though the goal is to
+understand that
+that can only be L can also be black is
+achieved through a system of processes
+the second paradigm which has been used
+or which is popular in cognitive
+psychology is connectivism what is
+connectivism now collectivism is also
+known as parallel distributed processing
+model and what it says is that there are
+several small units which are connected
+together and these connections lead to
+the formation of mental experience in
+the information processing approach we
+saw certain systems interacting with
+certain processes to give a particular
+kind of a goal in connectionism what
+happens is there are several small units
+and these small units connect to each
+other through circle connect connections
+and these connections later on lead to
+the formation of mental experience how
+does this connect to vision works the
+basic fundamental premise of this
+connectionism theory is that individual
+neurons in the brain they do not
+transmit large amounts of symbolic
+information but instead they compute or
+they come up with the goal by being
+appropriately connected to large number
+of situational units so what is the
+meaning of this it means that there are
+specialized systems and these
+specialized systems are connected to
+each other and these connections lead to
+the idea of mental process for example
+let's
+understand how this particular sentence
+Robin is a bird the mental experience to
+this is explained by connectionism look
+at Robin this is our name it's a kind of
+bird and so if you look at this side of
+it it falls from the category of birds
+so there are Robin a canary sunfish
+Salman all these are birds and these
+fall under the living things living
+things have are further divided into
+plants and animal then into trees and
+flowers bird fish and so on and so forth
+so basically on this side you have a
+system of connections through which in
+which you have categorization in terms
+of living nonliving birds animals and so
+on and so forth and so Robin forms Robin
+goes here the name Robin goes here is or
+ASA is basically a connector which
+defines what is the relation of Robin to
+the word bird and once Robin which is a
+bird is connected to three to this
+connection of SR we can then say that if
+the mental experience of Robin is a bird
+can then conclude - or can give then can
+give us the idea that since Robin is a
+bird it should have wings it should be
+able to fly why because the idea that
+bird falls under the category of living
+things and living things certain
+features of living things are there and
+these live certain features should be
+present on any member of living things
+so bird is a member of living things and
+so everything that is there in the
+living thing should be present in bird
+so Robin Hood Robin which is basically a
+bird should be leaving should be
+locomoting should be doing daily
+activities and certain features of the
+bird should also be present in them the
+basic idea and connection is
+is that it is not big processes it is
+not big systems and process a connection
+between big processes and systems which
+leads to the formation of mental
+activity or mental experience but there
+are several connections between several
+networks which are there there as there
+is a network of what a bird looks like
+there is a network of what if there is a
+bird what is the basic feature of the
+word and so on and so forth and this is
+how connections are so small units small
+amount of units or small units combined
+together to give us the mental
+experience now these units which combine
+with each other to give us the kind of
+experience that trees wear that we get
+when we talk about robbing is a bird it
+they have certain weights and so weight
+wise combination will tell us what
+features should Robin have now we'll
+discuss connectionism the idea of
+connectionism in detail in the chapter
+of memory where we look into what is
+semantic memory and what is the parallel
+distributed model there and how symbolic
+the hierarchy structure of symbolic
+memory is and those things there but the
+basic difference between connectionism
+and information processing approaches in
+information processing approach there is
+one system there is a set of there is a
+set of system and set of processes which
+leads to the goal but whereas in
+connectionism several units several
+independent units they combined together
+to give us the mental experience the
+third approach to studying of cognitive
+psychology is called the evolutionary
+approach now what this approach does it
+says that the study of mental processes
+through the ways in which the IP model
+the information processing model and
+connectivism connectivist models look at
+they basically don't count for emotional
+features or aversion Airi approaches
+evolutionary inputs to our understanding
+of community psychology so what they say
+is cognitive psych or subjective matter
+of cognitive psychology is not
+how mental processes are studying off
+mental process how mental process a
+process but there are certain
+specialized competence which comes
+through evolutionary input for example
+basic cognitive abilities like language
+and three-dimensional perception of
+perception of depth are present in very
+small children and they don't need some
+kind of mental experience for them to
+develop that and so what evolutionary
+approach says that human beings they
+have very specialized ideas of
+completeness produced by our
+evolutionary heritage evolution has a
+role to play in cognitive psychology so
+the subject matter of cognitive
+psychology the view the way of looking
+at what cognitive psychology should
+study should not only be the study of
+mental processes and thoughts it should
+also be how evolution has made us think
+in certain ways or behave in certain
+ways what they say the unitary
+approaches say is that the human mind is
+basically a biological system that has
+evolved over generations and the
+development of the human mind has come
+through a process of national selection
+so certain features or certain aspects
+certain working of the human mind or the
+human brain is inbuilt is evolutionary
+in nature and nature has given us this
+kind of system to process information so
+basically then the evolutionary approach
+will use evolutionary as one of the
+reason of mental experience and one of
+the basic views or one of the basic ways
+of looking at how mental experiences are
+processed and similar to that is the
+last approach which is called the
+ecological approach the ecological
+approach goes ahead and says that mental
+experiences or cognition does not occur
+in isolation all cognitive activities
+take place in certain context and so
+contexts are very important in studying
+career cognition so just studying the
+mental processes or what is going in the
+brain what is going on in the mind how
+the brain or what the brain does or what
+mental experiences are what kind of
+processes and systems make up certain
+kind of certain kind of mental mental
+experience should not be the only way of
+looking at cognition of how cognition
+happens but one way of looking at
+cognition or one viewpoint of looking at
+cognition is also in terms of the
+ecology or the culture in which people
+live because culture has only a large
+role to play of how information is
+processed certain cultures do not allow
+information probe to be processed in
+certain ways certain cultures allow
+information to be certain process in
+certain ways and that leads to the
+different kind of information processing
+or different kind of thinking
+think of the individualistic and the
+cult and the collectivist culture the
+kind of culture that the Westerners have
+individualistic in nature and the kind
+of culture that we have here the Asian
+countries have is more collectivist
+nature and so the way the mental
+processes the cognition of people who
+live in the West are entirely different
+from the way we live in our country
+because we have a collectivist culture
+the reason is that from right on right
+very beginning they the Westerners are
+taught to be individualistic taught to
+be alone taught to be doing things on
+their own and so they process
+information in an entirely different way
+whereas the
+as Asians since we live in a
+collectivist culture what really happens
+is the way we perceive information is
+always in terms of how the whole society
+will look into it
+so basically then the ecological
+approach says is that all correct
+cognitive activities are shaped by the
+culture and context in which they occur
+and so this brings an end to the base
+the first section of where we looked at
+the history of cognitive psychology the
+subject matter of cognitive psychology
+the various paradigms of cognitive
+psychology of what it should be the what
+is the subject matter what is the
+content what kind of things are studied
+into it what kind of processes are there
+and what is the input-output kind of a
+system this is the basic introduction to
+the history of cognitive psychology in
+upcoming lecture what we look into is
+how do we study cognition now as I said
+cognition is the mental process
+processing of mental activities or
+mental representations so how do we
+study this processing how do we study
+this cognition in action is what we'll
+do in next lecture and from there on
+will slowly move on to other cognitive
+processes or basic cognitive processes
+such as perception things like attention
+things like memory this isn't making and
+so on so forth thank you

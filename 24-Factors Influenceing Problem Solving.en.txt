@@ -1,0 +1,1394 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+hello friends welcome back to this
+lecture on problem solving
+now this lecture is a continuation from
+the previous lecture which we in which
+we saw what is problem solving what is
+the nature of problem solving and what
+is the problem
+comprise off and after that looking at
+what the problem comprises off we also
+looked at whether different kinds of
+problem to exist and we looked at
+Mayer's definition of number of type of
+problems which could actually exist so
+we looked at five different kind of
+problem and we saw how these problems
+differ from each other
+what is the nature of these problems and
+how do they differ from each other in
+what respects then we looked at
+something about how to solve a problem
+so we looked at two basic approaches to
+the solution of problems the first
+approach that we looked at was the
+approach that behaviorist took in terms
+of Skinner's idea of context idea of law
+of redness and how does a problem solve
+in terms of associations which are made
+between correct responses and the
+consequences of it so that was one
+approach to solving problem in terms of
+the behaviorist in terms of the
+behavioral psychology and the next
+approach that we saw in last class which
+helped us understand how to solve
+problem was in terms of the gestalt
+approach which talked about problem
+solution as reorganization of the items
+or materials available in a problem or
+so what this approach said is that
+problem solution is about reorganizing
+the problem elements in such a way that
+a novel solution comes up and so if they
+talk about something called the eye
+experience or the insight and so this is
+what in brief we saw in the last class
+and in addition to this we also saw the
+cognitive approach to solution
+a problem and there we discuss the idea
+of renewal and saya
+Simon's based on novels in Simon's idea
+of what information processing theory is
+the idea of a GPS the general problem
+solver and so this GPS basically then
+talks about how to break the problem
+into its subproblems and then arriving
+at the largest solution of the problem
+in terms of integrating smaller problems
+or inter finding solutions to smaller
+problems of the larger problem now what
+do I mean by this
+take a large problem break up into
+smaller problems then arrive at
+solutions for smaller problems integrate
+them together and then arrive at a final
+solution of the larger problem and that
+is what the idea of the general problem
+solver was and the concept of a general
+problem solver now what are we going to
+do in today's class now in today's
+lecture we will see what is a solution
+to a problem how does solution to a
+problem arises and not only that we'll
+also see what are the problems in
+solving a problem what are the
+hindrances which are out there in
+solving a problem so when problems or a
+solution occurs or when we try to solve
+a problem what are the kind of obstacles
+that we face and how to go about these
+obstacles how to take care of these
+obstacles in addition we'll also see the
+several factors which go ahead and help
+us are basically better or increase or
+decrease problem
+solution so let's starts to raise
+lecture by something called
+representation of a problem so solving a
+problem by using any of the ways either
+it is a guest artists approach or using
+a behavioral way requires the first step
+of it requires to encode a problem now
+as I said problem formulation itself or
+the idea of a problem itself is to
+understand some kind of hindrance some
+kind of a uneasy State and representing
+this uneasy state as a mental
+presentation is what problem is all
+about so basically the first step in
+problem solver solution is encoding the
+problem or basically making a mental
+representation of the problem that one
+is facing and so several problems or
+several hindrances or obstacles can
+arise at this very first phase where
+somebody might not be able to represent
+a problem or form a good representation
+a mental representation of a problem now
+remember in long-term memory one of the
+problems that we faced or one of the
+things that we looked into is something
+called forget and one of the rules of
+forgetting or one of the theories of
+forgetting was in terms of the fact that
+the problem or the information which was
+thought to be encoded in the long-term
+memory well they were encoded and that
+was basically due to poor encoding or
+due to non encoding of the problem
+forgetting happens
+a similar situation arises here one of
+the problems or one of the obstacles in
+problem solving could be at the very
+first stage of problem solution which is
+encoding or forming of mental
+representation and that is called
+problem representation so let's go ahead
+and look at what is problem
+representation now problem solving it
+involves the process of converting a
+presented information into some type of
+internal mental representation so as I
+said the first step in the problem
+solution is to take up a problem or to
+take up the elements of a problem and
+then to do an actual encoding of it in
+terms of mental representation that is
+the first step so no matter what problem
+you face whether it is writing a paper
+or going somewhere or eating something
+no matter what the problem is first you
+need to understand this problem first
+you need to understand the related items
+in this problem or what is the problem
+the question that the problem is posing
+to you and then to go ahead and do
+exactly presentation or do some kind of
+mental representation of this into the
+mind now within the framework of the GPS
+problem solver a problem representation
+involves correctly specifying the
+problem space that we correctly
+identifying the initial state as well as
+the goal state and the operators which
+must be applied and within the
+constraints of the problem so basically
+then problem representation in terms of
+the GPS solver in terms of the GPS
+sequencing is about finding out the
+problem space defining the problem space
+or laying out the boundary conditions of
+the problem space so what we get to do
+here is that if this is the idea of my
+problem space problem representation
+basically involves defining the
+boundaries of this problem so this is my
+GPS solver this space and not only
+defining the boundaries of this space
+but it also leads us to understanding or
+identifying what is the initial state
+where is the problem starting and where
+is my sub goal so these are the several
+sub goals which are there this is my
+initial State or I guess I would write
+and this is my goal state GSI right so
+basically identifying this is what are
+the parameters of these is and what are
+the parameters or attributes of this
+goal state so what will the problem look
+like an initial state is what will the
+problem look like at the goal state also
+in addition to it
+a problem representation also involves
+finding out the constraints what are the
+constraints so given the fact that this
+is the boundary condition and these are
+the attributes of the initial and the
+final state the said there will be
+several constraints in solving this
+problem so what are the several
+constraints now one constraint could be
+how we can divide the problem into
+smaller parts so what are the
+constraints or sort of the rules into it
+and further to that it may also define
+about the different operators through a
+different solution for example this goal
+state or this sub goal may be solved by
+using behavioral approaches but this
+goal state may
+be solved by using the gestalt approach
+right or this cold state could be solved
+by using another kind of approach which
+is that and so each state or each sub
+goal here may be solved by using
+different approaches but then what I'm
+getting at final is this is the initial
+state of the sub goal and this is the
+final state of the sub goal so here I
+get the solution and then I take from
+this solution and this solution now
+becomes my secondary initial state and
+then I move on so this is what it
+basically involved so in in general what
+the problem representation really means
+is to find out the initial state of the
+problem face find out the goal state of
+what the problem will look like
+identifying the constraints the
+hindrances which is out there which are
+they're ready to block you for solving
+the problem and also in addition to that
+the type of operators driver solution
+mechanisms type of solution on analysis
+that you will use to solve the problem
+so basically this is what is problem
+representation for example look at this
+problem now I will give you one minute
+to look at this problem and come up with
+a solution let me see if you can come up
+with a solution to this so starting now
+I'll wait for one minute
+so coming back to the problem I hope
+that you are able to solve this problem
+most of you would have been able to
+solve this problem so basically it's
+it's the problem talks about two moms
+going up and down or one mob monk going
+up a particular Hill starting at sunrise
+and reaching there at sunset and then
+starting at sunset and reaching towards
+the downhill position from where he
+starts at the sunset so basically what
+the problem ask is to find out to verify
+whether there is a point which the monk
+is going to cross both while ascending
+the mountain and descending them now you
+realize that what is the solution to
+this do you understand what is the
+solution to this and so most for most
+people who start writing mathematical
+equations to solve this problem you will
+not be able to solve this problem by
+this and this is what I mean by problem
+representation which is basically
+understanding what a problem is and I am
+presenting you the solution the easiest
+possible way to solve this problem is
+using a visualization and so what I'm
+going to do is show you a visualization
+of the menthe problem and so if you do
+the visualization like this again coming
+back to the solution so if this is the
+problem the solution is doing a
+visualization and as you see if I do a
+visualization these two people go up and
+down the mountain and so there is a spot
+where they are going to meet and so the
+easiest way to look at this problem is
+doing the visual visualization or visual
+interpretations of it and so if you use
+any other interpretation or nyrians or
+operator to solve this problem you may
+not arrive very easily at the solution
+of this problem right so this is
+basically what is problem representation
+to identify what the problem is and to
+understand the sequence to understand
+how it should be solved now I give you
+another problem try to solve this
+problem now give you 30 seconds it is a
+very easy problem I will give you 30
+seconds to solve the problem and let's
+see if you can solve this problem
+right so here goes the time and so on
+more than 30 second over so basically
+then did you solve the problem and most
+of you would have been able to now what
+we realize here is that in this
+particular problem what we need is we
+need a mathematical representation so in
+comparison to the visual representation
+that we used in the last problem the
+kind of representation the kind of
+solution the kind of operator that we
+are going to use in this particular
+solution or this particular problem is
+the mathematical operator and so in this
+way the problem gets solved easily so if
+you do a visual representation of this
+you are not able to solve a problem and
+so this is what problem representation
+talks about it talks about that at the
+very initial phase we have to understand
+how to solve the problem or represent
+the problem in the correct format
+now rigidity in representation now
+problem solutions to problem what
+hindrances the problems or a solution
+may arise because people get rigid about
+solving a representation or people
+become rigid in representing a problem
+so the initial representation of problem
+is basically it's critical and failure
+to represent these kind of
+representations will lead to number of
+factors now one of the first factor is
+that sufficient attention has not been
+given to the problem so when a problem
+is presented to you and if you do not
+pay sufficient attention to parts of the
+problem or to the problem as a whole
+what would happen is that you will not
+be able to identify the key elements of
+the problem and this will lead to you
+identifying the problem itself and
+representing it in the correct form and
+once a problem is represented in the
+incorrect form a solution will not be
+most probably the solution will not be
+arrived at now the second problem or the
+second hindrance is that problem
+elements have not been understood what
+would have happened in this case is that
+even if you put some attention to it or
+more attention to a problem you did not
+understand the various elements of the
+problem or what is it asking you so
+basically it is like looking at a
+question and not understanding what the
+question is asked
+you and so some people make questions
+like that which which has a lot of so
+basically in most open-ended questions
+or open textbook questions you get the
+question in such a way that the question
+revolves around certain things but there
+are certain key elements that you need
+to realize and once you realize these
+key elements you'll be able to solve a
+problem and so another problem element
+or another factor which helps in problem
+solving or which hinders problem solving
+is not understanding or not realizing
+the various elements of the problem and
+what relation they have to each other
+the third problem that could arise or
+third obstacle that could arise is
+previous experiences similar problem may
+not have led to encoding the problem
+elements in a rigid manner so what would
+have happened in since some examples of
+the present problem and this is
+basically called analogous problem
+solving so when solving a problem due to
+past experiences what we tend to do is
+not look at a problem in a particular
+way but think of the problem in some
+fixed manner and that is basically a
+reason for fingers in problem solving so
+instead of thinking independently
+thinking about a problem independently
+realizing a problem or independent
+focusing your attention on to certain
+elements of the problem we tend to use a
+heuristic approach to it matches the
+problem to some already stored format of
+how it was all previously and that could
+lead to problem not being solved or it
+into incorrect representation of the
+problem now some of the major entrances
+to problem solving arises from something
+called mental said so what is it it is a
+tendency to rely on habits and
+procedures use in the past and this is
+what is mental said so basically if I
+know or basically if I think of solving
+a problem in a particular way I tend to
+basically use that format and take a new
+problem and fit it into that format and
+if I do that what happens is the
+solution becomes difficult so this this
+basically idea this basic idea of using
+a mental set or using a previous habit
+of solving a problem in particular may
+leads you to leads you to incorrect
+representation of the problem and
+thereby leads to solution other
+incorrect solutions of the problem
+now look at a question here and so this
+is the problem which I asked so there
+are six eggs in a basket six people take
+one of these ejects now how is it that
+one egg is still left in the basket now
+most of you would worry about the fact
+that how does this happen
+but then hidden within this is the
+representation problem and mental said
+says that six people took six different
+takes so how is it that one the one egg
+is still in the basket the solution to
+this region you have to realize that was
+the last person who took the egg also
+took the basket with him and then it is
+possible that the last egg is still in
+the basket and what when when you to
+think of this in terms of six different
+people
+the mathematical variable then you think
+six people going away taking six
+different eggs and don't realize that
+the sixth person can also take a basket
+with it
+and so there is whether mental set is
+all about so the mental said they tends
+to affect the representation phase of a
+problem solving as past experiences
+leads to inappropriate representation of
+a problem so what mental sets intends to
+do is that as I said there are certain
+past mental representations and these
+mental representations are these
+inappropriate ways of representing a
+problem actually makes you think of a
+problem a solution in a particular fixed
+way and that leads to incorrect
+incorrect solution to that particular
+problem another factor which is of
+importance or which is of any importance
+to solutions of problems or in terms of
+representation a solution to the problem
+is something called functional fixedness
+what is it please what does it mean it
+refers to people's tendency to view
+objects in a narrow fixed sense right in
+terms of the typical functions of an
+object so in functional fixedness what
+we tend to do is that we just look at
+something in a particular way in a
+particular manner so a spoon for example
+should be looked at or is looked at only
+as a spoon something which is for eating
+we do not think of a spoon as a lever
+and so what we can do is you can use you
+can think of a spoon as a lever and then
+use it to raise the the upper part of a
+team or if you
+Tim can and there is a lid to the tin
+can we can wedge the spoon between the
+tin can and the lid and apply pressure
+to it basic physics basic simple physics
+and that can help us in opening the lead
+of a tip but then we don't realize it
+and functional fixedness says that a
+spool is thought of as a spool and so it
+should not be doing anything else or
+using the down part of a toothpaste the
+bottom of a toothpaste as a tongue
+cleaner nor do - I'm sorry tooth brush
+and so the tooth brush is thought of as
+the tooth brush and so we do not think
+of it as a tongue cleaner and so but
+there are certain toothbrushes are
+available and so functional fixedness
+what it says is that certain objects are
+seen as that object are having a fixed
+function and it cannot be seen as having
+another function or more functions out
+of it so one development perspective
+says that functional for a fixed Ness
+they pick up or they start or they hold
+on to people as they grow older in age
+so younger children are more flexible in
+terms of functional fixedness they can
+they are not harmed by or they are not
+troubled by functional fixedness but
+people as they grow in age they become
+this narrow sense they approach at this
+narrow sense of how a functional or
+water functional fitness fixed nurses
+now look at this particular problem this
+is called the two string problem now I
+will give you 30 seconds to look at this
+problem and tell me how to solve this
+and I can bet you that due to functional
+fixedness you will not be able to answer
+this question
+and though once you are able to see this
+problem pretty sure that you are not
+able to solve this problem
+the reason here is that functional
+fixedness the certain items which have
+been mentioned the chair the plier and
+all those have been represented as
+represented in your memory in a fixed
+way and so you are not able to solve
+this problem but a solution is there of
+this problem and this is the simple
+solution what cart has to do is to climb
+up into the chair hold one end of the
+string onto the other end of string he
+has to tie the pillar make a swing out
+of it go and stand on this chair and
+then basically hold on to this string
+now if if you put a pillar here it will
+come back to you and then you are
+holding on to this and so you can go
+ahead and then tie it together that is
+what is so he has to recognize that he
+can use the pillar as a novel function
+as a weight for the pendulum as I said
+this is the swing that it will do so try
+the pillar here it will work function as
+a pendulum and you can always go ahead
+and solve the problems and so what what
+people don't understand is the pillar is
+used the plier here is used for
+mechanical things for basically use or
+tightening of screws and all and so you
+don't realize that the player can also
+be used as an object for swinging or for
+making a pendulum and that way you can
+tie up that and so this solution problem
+to solution arises from the fact that
+you are not able you are functionally
+fixated by certain functions of these
+objects now another interesting thing
+the basic problem which can arise with
+solutions of problem is something called
+stereotyping so Serio typing threat
+occurs when a member of a negatively
+stereotyped group fuse that the
+stereotype might be used as to judge
+their behavior thus resulting in a
+negative judgment so here in this kind
+of a problem solution or present problem
+representation what would happen is that
+since a certain groups have been
+stereotyped in certain way they are not
+able to register the problem or
+represent the problem in a correct way
+and so problem the problem if not
+represented in the correct way
+could not be generated and so Queenan
+Spencer 2001 they use men and women to
+solve math problem by using either word
+word representation of it or a numerical
+representation of it and this is what
+they form so this is the kind of problem
+that is out there and so this problem
+represents a statement or basically it's
+a word problem and so this kind of
+problem was given to people know so this
+is a word problem it can this problem
+can also be represented in this
+particular format so either you
+represent the form of the problem in
+this format which is now a word problem
+or I could use as oblique problem or an
+equation problem or equation format of
+it so two representations are that and
+so it was believed that or there was a
+need or this study basically proposed
+that women would solve more of numerical
+problem then in in word so what are the
+same problem in terms of what when it is
+related in terms of word for then when
+it is related in terms of an equation
+and this is the results from Queen and
+Spenser study it was found that the
+males and females so word problem more
+males there and less males were able to
+solve the word problem and more measures
+were able to solve the numeric format so
+this is the numeric format of the
+problem and this is the word format and
+in terms of the fact that now it was
+proposed that more women would be
+solving the word problem more women
+would be about ending the word problem
+and solving it much easily but the
+solution represents that only eight
+women out of the total number of people
+which has been given this solution only
+eight preferred the word format for it
+most women for men or they use the
+numerical format or they applied the
+numerical format and through the
+numerical format they were much easier
+for them to arrive at a solution and so
+this is basically Jindal industry
+typing are basically stereotyping so
+basically due to CBO typing initially it
+was believed that women would be more
+comfortable in solving the words
+representation of the same problem but
+then this is not what the solution is
+and so this is another reason for
+representation problem representations
+or obstacles in problem representation
+not solutions to problems
+now once the problems has been
+successfully transformed from an
+externally presented information into an
+internally presented information the
+next phase of problem solving involves
+searching for and testing evaluating of
+solutions so once a problem has been
+encoded in the right format a right
+representation of it has to be done now
+a problem solving process has to be
+evaluated or it has to be searched off
+how to solve this problem now within the
+context of Numan enzyme is 1972 IP
+approach information processing approach
+from the solution amounts to traveling
+through the problem space so basically
+in terms of problem representation it is
+identifying the initial state what is
+the initial state of a problem so in a
+GPS solver in a GPS prob problem solving
+space the problem representation is
+basically at this point where we need to
+identify what is the initial state of
+the problem or how it the problem should
+be represent in the initial State
+whereas the solution to a problem
+requires us to move to this state from
+the initial to the goal state and
+realizing how to move from the initial
+state to the goal State
+now there are several ways of how to
+solve a problem and the first
+interesting way our first important way
+of how problems can be solved is using
+the algorithmic approach or using
+algorithms so what our algorithms then
+algorithms are a set of rules that can
+be applied systematically to solve
+certain type of problems so these are a
+set of rules these are a certain list of
+rules which when applied in the correct
+format which when are applied in the
+correct sequence or which applied which
+one applied sequentially will finally
+always give you the solutions so that is
+the best part of an algorithm an
+algorithm is a set of steps set of steps
+bounded by rules now once you use these
+set of steps
+once you pass through all the set of
+these steps which have been there then
+you really finally arrive at a solution
+and that is guaranteed so almost all
+gorillas guarantee a solution to it
+right now mathematical formula is a good
+example of an algorithm so you have to
+go through the number of steps which is
+there a formal solution you cannot jump
+and if you go through a number of steps
+you are always going to solve the
+problem and remember from a real classes
+of how an algorithm is written I'm
+terribly sure that most of you had
+mathematics till plus 12 and so if if
+that is what it is then you do know what
+in algorithm is so basically then how to
+define an algorithm for making T the
+idea is that you have to describe a step
+two step process from right from taking
+water into a pan going deleted or adding
+something into it and in the
+step-by-step manner you will always end
+up by making that T so algorithm is a
+set of sequences or a sequence of steps
+which when followed in the correct order
+it always guaranteed a solution and so
+one way of finding solution to problem
+is using the algorithm and so the tool
+for example look at this problem two
+short sides of a triangle at three
+centimeter and four centimeter so what
+is the hypotenuse it has to be 5 so a
+square plus B square is C square that is
+how we look into it and so then this way
+it has to be 5 centimeter and so this is
+an algorithm that is a correct way of
+doing it and so we know that this is how
+it has to be solved so algorithms are
+very powerful problem-solving techniques
+applied correctly an algorithm is always
+giving you the correct solution if there
+is an existing look at this initial
+problem that we encounter now if we need
+an algorithm to solve this problem there
+will be several obstacles or there will
+be several states or there will be
+several steps into it for example what
+would happen is it will lead to since it
+is 2 3 4 5 6 it is 6 so to lead to
+basically 6 factorial number of
+representations which is there now what
+do I mean by this what will happen is
+that initially I will just change the
+last two letters so this the next letter
+is n I then I will change the third
+letter and so one letter at a time I can
+upon changing and then arrive at a
+problem this is basically using the
+algorithm approach so in algorithm
+approach all the representations are all
+changes within this letter all
+arraignments different arrangements will
+will be there and from that final
+solution will be outputted now if you do
+that you would have to do these many
+number of representations of these many
+number of variations into it to finally
+arrive arrive at the answer that this
+will lead to whitening as the answer now
+there are several shortcomings to using
+the algorithm as I said now if we
+requires these many steps if it requires
+these many variations which are out
+there if it requires us to do these many
+variations for arriving at a solution
+then it is a it's a huge task now when
+it is a huge task so basically then
+there are some shortcomings to it and so
+what are the shortcomings first the
+exhaustive nature make them overly
+Tydeus in quite impractical what would
+happen is since 6 sec toriel times doing
+it these many times doing all
+representations all for all number of
+variations on this so each letter being
+varied in not only in relation to itself
+but in relation to all other letters
+will be huge and it is to exhaustive and
+so it will require basically a computer
+for you to do this and so if but but if
+you do this the correct answer is one of
+these sequences and so one of the
+problems or one of the hindrances or one
+other shortcomings of using the
+algorithmic approaches that it it is
+very tedious in nature it requires a
+number of variations and so it is quite
+impractical nobody has that much time to
+go up and look at these many variations
+no simple code breaking password
+breaking how do you do it one of the
+ways of doing a password hacking is
+basically using or to basically do
+ethical hacking is to use some people
+the brute force now in the brute force
+what happens is all combinations that
+exist in to the dictionary is used by
+the computer to arrive and the password
+now if we do that and if it is assuming
+that it is a seven-letter password then
+we will have to do almost innumerable
+number of representations right from a
+in the first place to a 26 different
+representations of the first place 26
+different representations a seventh
+place second place till the seventh
+place and then in relation to each other
+also using each representation so huge
+numbers and so this is one problem or
+this is one shortcoming of the
+algorithmic approach what is the second
+shortcoming there simply aren't any for
+most of the problems in our daily life
+so what would happen is is algorithms
+are the best way to come up with a
+solution and they always guarantee a
+final solution what it turns out to be
+is that for most problems on our daily
+life we don't have an algorithm out
+there and so we don't have an algorithm
+out there then solutions are difficult
+and then it becomes difficult for us to
+come up with a solution because there is
+no algorithm there is no true method of
+doing it why because each new problem
+daily life problem is a new one it is
+not an exact replica of some problem
+that we have seen and so that is one
+thing another interesting way of coming
+up with solutions to problem is using a
+theorist now what is a yearís these are
+general strategies or rules of thumb
+that can be applied to various problems
+so basically then one way is using the
+algorithm another way of solving a
+problem is using a shortcut and this
+shortcut or mental shortcut or rule of
+thumb is called a purist so this serves
+as a shortcuts through problem space
+what Urist are it and these are fixed
+ways of solving a problem or these are
+fixed ways of how do we go ahead and
+bypass the all great algorithm some
+steps of the algorithm so these are
+water
+Kuras so given the strength and
+limitation of human problem solver along
+with the fact that most problems are
+ill-defined they are relatively large
+problem spaces heuristic problem solving
+is more effective the reason is since
+the problem space is huge since any
+problem requires a number of big problem
+space and a number of subproblems into
+it what people tend to do while solving
+problem is using a theorist what does
+the here is do it gives you some kind of
+a shortcut so what is the shortcut it is
+in terms of bypassing certain types of
+the algorithm now since we know that if
+we come to know that
+two three four or five of an algorithm
+always gives a particular answer for
+example mixing yellow with green gives a
+particular kind of color and if we know
+that we need not repeat this each time
+or mixing the Tilly's into boiling water
+and boiling water always gives a certain
+kind of color or a certain kind of taste
+and flavor we need not repeat this again
+and again and so we can jump by stating
+that if you mix tea into it this is the
+kind of color that we are going to get
+and so this is basically what is called
+the heuristic approach of
+problem-solving for example how do we
+solve the same problem so in terms of
+algorithms we saw that we'll do n number
+of manipulations we'll do these six the
+different letters are there and we can
+manipulate we can do all number of
+arrangements out out of it and then come
+up with a problem a good purist of how
+to solve this problem is that thinking
+of gkv k and i KN are not possible so
+English words do not start with this
+kind of beginning and so we can
+eliminate these kind of or these
+different starting with it and so these
+are eliminated and we can sell since use
+more huge and then come up with the
+final answer that VI ki ng is the final
+solution because this is the URIs it
+says that if in your understanding or in
+your in your life you haven't seen in
+your readings you haven't seen any words
+starting with gk v k VG or i KN and so
+these can be eliminated this can be
+ruled out also look at this particular
+things now it's a daily shopping
+experience and if you do that basically
+or if you would think that you are
+shopping what most people tend to do is
+something called roundup and so one easy
+way to solve this problem is rounding
+this to 20 and rounding this to $30 and
+rounding this to $30 so 30 30 60 70 80
+is not answer
+so $80 is what you are spending but
+already the approach says is that we
+have to add up 9.95 0.98 0.97 generally
+speaking most people will say that I
+spent up
+eighty dollars so if you're purchasing
+three the item it is $80 which is then
+what I have done is I have rounded up
+and this rounding up is called the
+nearest or this is the problem or this
+is the mental shortcut so the fastest
+way is to basically go ahead and round
+up and this is what is called the
+heuristic way of solving a problem
+a third way of solving a problem is by
+using a means-ends analysis now what is
+a means and analysis now basically the
+general problem solver which was done by
+Newman in Simon
+it basically utilizes a URIs known known
+as something called means-ends analysis
+now what is the MA
+it involves basically breaking a problem
+so if this is my problem state initial
+state and this is my goal state and what
+then happens is that means ends analysis
+says that I take this problem and draw a
+break into four different parts and each
+of it which is solvable and then what I
+do is I then this becomes this part then
+becomes my initial state one and this is
+my goal state one so I first think of
+solving this part of it and then when
+this goal state now becomes my initial
+state to problem two I solve this part
+of it then I solve this part of it and
+then I solve this part of for example
+think about launching a rocket now if I
+want to launch a rocket this is a huge
+problem now I can then divide this
+rocket launching into several steps for
+example thinking about the physics of it
+thinking about what material should be
+used
+what kind of fuel should be used so they
+would do people who will calculating the
+fuel calculating how the rocket moves up
+calculating things like what what is the
+material that should be used and so
+several people are this launching or
+rocket can be broken down into several
+types rise from the physics to the
+chemistry of it the physics of it and
+several other systems in which should be
+tearing through the electrical
+appliances and so on and so forth
+now I solve this one part one part by
+one part and then I come with the final
+solution or a simple thing that if you
+have a car it is not starting now if the
+car is not starting brake this
+starting of the car into several sub
+part for example check the key checked
+some the ignition check the battery and
+so on and so forth so several solutions
+are there and I arrived from one one
+solution say to the nurse solution says
+the first step is to raising up the
+bonnet to identifying where the battery
+is to testing the battery to basically
+then testing some other facts the
+electrical circuit stressed in the fuse
+and then finally arrive at solution of
+this problem how to start a car if which
+is not starting so then the MEA it
+involves breaking up the problem into
+smaller several sub goals in which
+accomplishing each sub goal moves the
+solver close to the final goal of the
+problem solution as I said if you are
+tailed the if you solve this huge
+problem if you make the shield problem
+into smaller problems and solve it one
+by one or solve parts of it one by one
+you will finally arrive at the solution
+as the term implies in MEA the solver
+systematically attempts to devise means
+to get to the each sub goals end ma can
+be effective way of transana the
+effective way for solving a
+transformational problem now look at
+this problem and if I want to solve this
+remember this is the solution to it
+thank so from state one where it was
+here to state to where it was here there
+is a solution to it and you can see the
+solution so on the right hand side I
+have the solution so this is how the
+solution really looks like from moving
+from this state to this state this is
+the number of solutions and so it
+realizes or you have to realize that the
+problem has to broken down into sub
+parts there are certain constraints and
+so if you break the problem into sub
+parts you will be able to solve this
+problem as it is now when you actually
+another way of solving a problem is
+using analogous problem right and so
+what we do in analogous problem is that
+we think of a problem when reaching at
+the solution of a problem we think of a
+problem which is similar to the problem
+which is at hand and then we tend to
+borrow certain features or we tend to
+look at the similarities with the
+problem which is at hand and then think
+of the problem which which we are
+thinking about which is represented in
+our mind and then solve it for example
+I'm giving you a problem now the problem
+and I will give you a solution to it so
+the problem is that there is a person
+and he has to be treated with lasers now
+the fact is that if this person is given
+a high-voltage laser a treatment what
+would happen is or a high-energy laser
+treatment what would happen is the
+single focus I mean single ray of laser
+light is given to you with high energy
+what will happen is the organ which is
+diseased in in in this case that will
+disintegrate or it will burn up and so
+what is the solution or what is the
+solution to this problem how should we
+treat but then this organ can take in
+small or can only take in small laser
+energy values right so it cannot take in
+a high-energy laser it can take in small
+energy laser if you if you give in a
+high energy laser from one direction
+what will happen is the
+instead of curing the problem instead of
+curing the cell which is disease the
+whole organ will burn up so what is the
+solution the solution here is using
+several lasers which are low powered
+from several different directions now
+what will happen is the since the whole
+organ is not surrounded so it is
+basically in this case what has happened
+is if I give one laser with a high value
+high value laser this organ will burn up
+so what I do is I use several different
+lasers which are smaller in energy from
+several sites so then since it is each
+laser has a very low value it is not
+going to burn up the organ it is only
+going to hit upon the particular cells
+which are diseased and also the fact
+that the total energy of all these
+lasers will be the energy which is
+required to one of their cells so I can
+then distribute it across no analogous
+problem is there is a military officer
+who was going to go ahead and capture a
+particular fort now the only problem is
+the fort is bounded by certain bridges
+now he require a certain amount of army
+and certain amount of tanks to be taken
+before fighting the war but the fact is
+that each bridge is going to or each
+breach has a certain limited capacity of
+carrying the track now he has to take
+ten tanks and but each bridge can only
+take one tank and a few soldiers onto it
+so how do how does he go about solving
+this problem and all of us - what we
+have though if he can relate the his
+problem the major or the commander of
+army can relate his problem to the
+problem of this this particular laser
+thing what he could do is that he can
+use several bridges and each bridge will
+now hold one tank and then each of it
+will arrive at the enemy fort and can
+actually win the war and so this is how
+analogous problem or analogous problem
+solving really works now in analogous
+problem solving there are two things to
+look at once in terms of comparison one
+is the company called surface versus
+structural features so what are the
+primary steps in solving problems by
+using analog involving the use of
+mapping the original problem - the new
+problem basically what happens here is
+that in terms of what we saw that you
+have to understand the commander of the
+army has to understand that how his
+problem
+winning the enemy fort is similar to the
+medical problem that I defined before so
+he has to go ahead and map these two
+problems together or basically make a
+one-to-one relation between his problem
+and the problem which Virtua which was
+the medical problem now yeah can her
+geek and holic
+they termed this mapping process a
+schema induction he says that this
+mapping or this identification of
+one-to-one identification of the
+elements of the medical problem and the
+elements of this war problem how they
+are related together is basically called
+schema induction now I ability to notice
+map and develop schemata depends on
+particular type of similarity so we look
+at similarities and the more similarity
+a particular section of the problem
+particular part of the problem has to
+the new problem which is out there the
+more similar the more easier it is for
+us to solve now these two can be of two
+types so we look at two types of
+similarities one is called the surface
+feature similarities now in the surface
+feature similarities what happens is
+specific elements or the problems are
+Mac if two problems sure they share
+specific surface features we believe
+that it is same and then we go ahead and
+basically map the problem together
+for example paper jams know if there is
+a printer and all of you are very
+familiar with what a printer is so if
+you have a printer at home and it it
+gives up paper jams then if I take you
+to a new printer and if I introduce you
+a new printer you will be more or less
+similar you will understand that the
+back of the printer is there the roller
+is and so that is where the fact where
+paper jam is and so it will take you
+very less time because most printers
+work in the similar way it uses the same
+kind of roller mechanism and so you will
+always look forward for where is the
+back button or owning a printer and so
+you know that the the central switch
+will be big and it will give you the
+affordance of pushing down and so no
+matter what printer I am giving you with
+the idea that the most printers require
+this kind of this kind of build up you
+understand that pushing this button is
+what is going to
+help and so this is called surface
+similarity mapping in structural
+features although the surface features
+although two problems may not look like
+each other but then there are certain
+unique features are the certain
+meaningful features within the problem
+itself which would look identical and
+that will make solution of the problem
+easy and so in the case that we
+described below
+the commander has to realize that
+although the other problem was a medical
+problem but the same kind of solution do
+exist for example in this case in
+understanding the structural features
+two problems are structurally similar
+they may look quite different on the
+surface and underlying similarities
+would be there for example looking at
+the two sentences one is active wise the
+other is passive wise if we look into it
+the dog chased by the dog chased the cat
+or the cat was chased by the dog both of
+them although structurally they are
+different but meaning wise in terms of
+the meaning in terms of the semantics of
+it they mean the same thing and so both
+the problems are structurally similar
+now another interesting thing to look at
+is in terms of how do expert solve
+problems so experts have something which
+are called expertise which are
+exceptional knowledge performances is a
+certain specific problem domain area so
+now it's Ron's 1950s experts are now
+viewed as the product expertise is
+basically seen as a product of innate
+capabilities but nowadays in today's
+view expertise is seen as more of a
+skill memorizes so according to Erickson
+and Paul since 1988 skill the memory
+theory there are several differences
+between how an expert or how unknown
+novi solves a problem first experts have
+highly rich semantic networks it
+basically means that the semantic
+network the thinking network the network
+through which they solve problems are
+highly developed or highly connected
+with each other experts have quicker and
+more direct access to long term memory
+so most experts can easily access long
+term memory because they have done this
+problem solving this kind of a problem
+over and over again and so they have
+quick access to long term memory then in
+terms of what our nowise could do and
+information is more easily encoded onto
+long-term memory by experts and the
+speed of the encoding improves it
+this now if for an expert he can
+understand quickly the problem the the
+parts of the problem quickly represent
+the problem in the correct format and
+quickly find out the problem space also
+find out the correct operators and can
+solve it for novices the problem is the
+problem arises the hindrance either
+right from the very beginning where the
+representation of the problem as reacts
+as a hindrance and even if the
+representation is there they might not
+find the correct operators and so this
+is the difference between an expert
+enough nowise problem solving now what
+are the advantages when expect problem
+solver the core of the problem solving
+is memory the long-term memory that
+allows for storage know of domain
+knowledge and general information of
+specific episodes that working memory
+there allows for quick and efficient
+online processing of the information so
+basically studies by Chase and Simon
+1973 and DeGroot 1988 at a point that
+experts can instantly recognize problem
+configurations based on extensive
+knowledge and experiences so what
+experts tend to do is they quickly
+repair understand a problem when they
+look at a problem they are very easy in
+understanding or they very quick in
+identifying the problem configuration
+which means that problem representations
+is very easy an expert they will very
+quickly identify a problem now Ericsson
+and Creech in 1995 they proposed the
+idea of long-term working memory to
+explain expert advantage in in online
+processing of problems now the theory
+states that experts can bypass limits of
+the working memory by using the
+information or the working memory to
+direct access to LT M so what experts
+can do is they can bypass these working
+memory storage capacity problem and they
+can using the working memory directly
+access the long-term memory and so this
+is the way how experts are better also
+expert problem solvers use general
+strategies that differ from those are
+the no wise release to searching the
+problem space in a forward fashion then
+reaching from the good
+so what experts tend to do is they when
+given a problem they don't think about
+the goal state and and travel back from
+the goal state to the problem state what
+experts tend to do if they use novel
+strategies they use effective strategies
+and they always move in a forward
+direction from the initial state to the
+goal State and that is why they are
+faster in solving a problem then
+coming from that goes straight to the
+problem state experts are much better
+picking up on structural features of the
+problem and recognizing analogous
+problem so experts are not fooled by the
+surface feature of a problem they always
+look at the meaning they always look at
+the at the conceptual level how a
+problem is different from some other
+problem and so they are easy they are
+easy and understanding the structure
+these structural problems and
+identifying analog of solutions to it
+and Lamar and Ziegler in 1995 proposed
+that adaptive strategy model which
+distinguishes between experts and
+Noailles and what does he say
+the strategy existence experts have more
+number of strategies in disposal since
+they have solved problems in so many
+ways
+or they're solve so many problems they
+have something called the newer
+strategies or more number of strategies
+at the disposal then then no wise also
+strategies based based rate experts in a
+given domain of knowledge which
+strategies tend to work and select those
+strategies so in a given domain of
+knowledge for example looking at math
+expert they tend to know which formulas
+are going to work will formulas are not
+going to work and so there tend to be
+very choice e in using those strategies
+or using those formulas which are going
+to work and not those formulas which are
+not going to work so they don't do
+foolish acts what they tend to do is
+only those strategies are used by
+experts which tend to work and they use
+those strategies over and over and the
+third thing is strategy choice refers to
+express advantage in discerning which
+strategy should be chosen for a specific
+circumstances
+so they're very quick in identifying
+which strategy should be chosen over
+which other strategies and how these
+strategies choice works with in
+circumstances work with environment so
+what is the relation between environment
+and statically and they're very quick in
+identifying which strategy is going to
+work and which strategy is not going to
+work or which strategies to choose and
+which strategy to not choose and for
+this strategy execution they first do
+that expert advantage in actually
+carrying out the strategy in terms of
+speed and accuracy so basically even if
+they know our strategy no wise would not
+be able to basically implement this
+strategy with speed and accuracy but
+experts what they tend to do is since
+they have used strategy a number of
+then no war strategy is going to work
+and they have a number of strategies at
+they use they also can execute the
+strategy fast with higher speed and IR
+accuracy and that is how they differ
+from the otherwise but then this is not
+the only thing there are certain
+disadvantages also
+for example nowise are better at
+understanding randomly arranged problems
+and experts know I can focus on two
+problems or elements of the problem
+which experts will not focus on since
+experts are always directed at solving a
+problem they always look at those
+factors in a problem which require a
+solution or which give them a hint
+towards the solution and so they tend to
+overlook other features or other answers
+in a particular problem also nowise
+remember more information about specific
+problems and experts and this is termed
+as immediate amid intermediate effect
+now what happens here is that no wise
+since they look at a problem study the
+problem wholly they understand all parts
+of the problem right what experts tend
+to do is pick up only those
+configurations which need solution or
+which have solution and so one once you
+ask both the expert as well as the
+Noailles about basic questions relating
+to what the problem was no wise will
+tell you more about what the problem was
+and not the solution faster but experts
+will not be able to tell you what the
+problem the overall problem was they'll
+only look at features of the problem and
+how to go ahead and solve it and experts
+may actually we saw actually solve
+problem using mental set as compared to
+no wise users no experts make this
+mental set of a solution of how a
+particular solution should arise our
+particular problems will be represented
+in solution should we approach that and
+they use mental said whereas no wise
+don't have these mental set and so they
+can have varied solutions they come up
+with multiple solutions although if not
+correct it may not be correct but they
+can come up with these things and so
+they are different from experts and so
+in what we did in this today's lecture
+is we looked at the different type of
+problems solutions which exist what are
+the problem hindrances to the problem
+solutions which are there need a
+comparison of various problem solving
+techniques and at the end of it we also
+looked at what is the difference between
+or how experts and novices before with
+each other
+in terms of solving a problem thank you

@@ -1,0 +1,1225 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+friends welcome back to this section on
+concepts and categories we will continue
+this section from the earlier one by
+revising some of the things that we did
+in the earlier section on concepts and
+categories so the things that we studied
+in the section on concepts and
+categories was we looked at what is a
+concept and what is a category and how
+does this concepts and categories really
+work and so the basic definition that we
+look there is concepts are kind of metal
+buckets where you fill in things where
+you fill in items instances or events
+and categories are basically a process
+of organizing knowledge into these means
+which are called conscious we also
+looked at concepts as nodes which has
+explained in terms of the semantic idea
+of semantic memory idea or the
+hierarchical model of semantic memory so
+basically then forming a concept allows
+us to ease out and form an organization
+scheme for world knowledge and
+categorization is the process where we
+taken a new instance and go ahead and
+fill it in two buckets mental buckets
+which have at the top level or which are
+described through the concepts basically
+the bucket is described through the
+concept and categorization the process
+of filling up this bucket now we also
+looked at some of the models of
+categorization in the last class and so
+one of the
+model was the classical approach to
+concept formation where we looked at
+something called the necessary and
+sufficient condition and what that
+concept said or what that model said is
+that there is something called the
+necessary and sufficient condition which
+every instance of a concept or a
+particular mental bucket should have to
+be categorized as a concept and so there
+were critics to it one of the famous
+critic being that this necessary and
+sufficient condition is not always
+validated and the idea of cognitive
+economy which says that the looking at
+every instance or looking at every idea
+of necessary and sufficient feature in
+particular in all instance will not be
+enough we also looked at the prototype
+view and the exemplar view where in the
+prototype view we looked at how a
+prototype is formed and how this
+prototype helps us in categorization and
+we saw that the prototype view scores on
+to the classical approach of
+categorization on several aspects and
+what is a prototype then so it's
+basically an idealized version of the
+concept and so the idea is that the
+prototype may or may not be in actually
+instance but it has mental averages or
+mental summaries of all instances which
+belong into that particular category or
+under that concept
+similarly we looked at also called the
+exemplar approach where we looked at how
+examples of a prototype are basically
+used for categorization and we looked at
+that there is something called the basic
+level of categorization or basic level
+of organization above which there is a
+superordinate level and below with there
+is the subordinate level and looking at
+the taxonomy or looking at an example
+here
+the basic level here is the one out of
+which the concept is form for example in
+the first case and the musical
+instrument is the superordinate node or
+the higher node the basic level is the
+guitar and within the guitar the
+subordinate node is the classical guitar
+or some other form of folk guitar or
+classical guitar so basically then what
+the exemplar view said or basically
+suggest is that there is a basic level
+of categorization and from this basic
+level of categorization you have a
+higher level categorization or a higher
+level node and a lower level node so
+this is basically a summary of what we
+did into the last class now let's
+continuing with what we looked at the
+theories of concepts and categorization
+let's look at the next theory of
+categorization and so the next view
+which explains what categorization is
+done how categorization is done and how
+concepts are formed is the schema table
+view and what does this view says so
+this view says that it shares features
+from both the prototype view and in in
+that the schema tank prototype store
+information that is abstract across
+instances and the exemplar view that the
+Scimitar examples of store information
+about the actual instance so what does I
+mean by this what do I mean by this so
+basically what it says is that this view
+the Scimitar view is actually a mixed
+view and so it borrows the good parts it
+borrows features from both the prototype
+view as well as the exemplar and so how
+is this schematic view the idea of
+schematic view similar to the prototype
+view basically it is similar because in
+both the schemata and the prototype the
+information are abstracted across
+instances so basically what happens is
+Kamata says that the schematic view is
+similar the prototype view because here
+forming a concept or forming or
+the way of categorization is done
+through looking at an abstraction and
+this abstraction is generated across
+instances so looking at mental somebody
+or mental averages and how does it
+become close to the exemplar view so
+basically what it does is that whenever
+we are doing this exam categorization or
+whenever we are looking at this mental
+average this mental average has at the
+end of it or has at the top node of it
+the an example of the category so
+basically all in all the Scimitar view
+is a mixture of both the views or the
+prototype in the exemplar view and so it
+says that we in the schematic view which
+it is suggested that the categorization
+happens through abstractions or
+prototypes which are made from or which
+are generated from a number of instances
+looking at a number of instances and
+these are mental summaries and also this
+average or abstraction that we are
+looking at is an actual instance which
+basically means that as a prototype view
+says that the prototype may not be an
+actual instance but the schematic view
+says that the prototype that we are
+forming the abstraction that we are
+forming or the one definition the one
+form across which we are categorizing
+actually exists which means that it is
+an actual example of it and this is how
+it is close to the exact value so we
+skim the idea of what is a schema kind
+what is a script in a chapter and memory
+and so then we saw the schematic is
+basically a way of looking at or
+organizing knowledge organizing word
+knowledge and so schemas are basically
+kind of organization scheme under which
+world knowledge is fitted whereas script
+is basically a routine for a particular
+schema or of particular schemata so this
+idea of categorization then uses the
+idea that people make mental schemas or
+people make this mental bin
+or basically mental barebone structures
+on bases on which this categorization is
+done and how is this verbal structure
+really made so it is made in terms of
+abstractions it is made from
+abstractions of various incidences of
+the concept and these prototype that is
+made or these bare bone structure which
+is made has an actual existence onto it
+and so this is how the schematic view
+differs from both the views that have
+been we have studied up till now now the
+thing is that schema tates are
+frameworks of knowledge that has roles
+slots and variables onto it so basically
+it has this key matter that the bare
+bone that we are talking it not only has
+spaces for categorization but it also
+tells you how the categorization is done
+or basically how what are the slots for
+categorization what are the variables
+which decide how the categorization is
+done and the various rows that each
+factor play in categorization so that's
+what a schemata is all about and in the
+schematic view the categorization is
+done through something called a
+hierarchy structure so as in a prototype
+you see that there's some some factors
+or some features have a higher role or a
+higher similarity and the other feature
+features don't have a similarity so
+similarly based on how similar items are
+a hierarchy of closeness to the actual
+concept of closeness to the actual
+prototype is done and this is how the
+schematic view really works now there
+are several problems with the schematic
+view which is there in the first is that
+it does not clearly specify the
+boundaries among various kamata's so as
+we saw the scheme matters are actually
+barebone or they are actually structures
+on which items are categorized into so
+and these structures are developed or
+the
+bare bones are developed through an
+idealized representation or through
+looking at various instances of what of
+a particular object or a particular type
+of event which exists now if that is
+true then how does two scimitar differ
+or what is the difference between what
+is the clear boundary between two
+schemata is not actually very clear and
+so this clear-cut boundaries is doesn't
+exist or is not specified by the schema
+tableau we always have fuzzy boundaries
+for example what would happen is that if
+an item is classified in one that a
+particular schematic it could also be
+classified under some other schemata and
+so what will happen is the dog if it is
+classified under the schema of an animal
+is also it also gets categorized into
+the pet animal or a man's best friend
+and so there are no clear-cut boundaries
+of how this categorization or what is
+the distinction or what is the boundary
+line between different schema tasks now
+the other problem is the schematic view
+is that in the present view it's not
+sufficiently delineated to be empirical
+testing so if we don't have clear-cut
+boundaries if we don't have we're asking
+matter view begins and very tends if we
+don't know that then we cannot go ahead
+and do empirical testing to this idea
+because since we don't know where the
+schema starts and where it ends and what
+is the boundaries between two schemas
+empirical testing observable testing
+cannot be done and so that's another
+problem with it since we don't know the
+boundary so we cannot define the
+boundary conditions if we cannot define
+the boundary conditions then data cannot
+be collected and so they cannot be
+tested now also questions like what
+informations leads to schemata and how
+they are modified plus the process of
+using appropriate schema toss are not
+known so how was this schema form first
+of all what leads to the formation of a
+schema or what kind of information are
+gathered before the formation of a
+schema that is not very clear so what
+kind of information
+get amalgamated and makes the schema is
+not clear and also if a schema is made
+and an instance comes in or even comes
+in which doesn't fit the schema how is
+the present schema modified for example
+let's lick the example of a dog now the
+idea is that most dogs the lovable
+creature and so supposedly we have a dog
+and so we have a schema of a dog the
+schema for dog a schematic for doggies
+it has four legs it barks it's a pet
+animal and so on and so forth now there
+comes a dog which actually goes ahead
+and bite someone and so this dog is not
+no more lovable although it has the
+characteristics of the particular schema
+or a particular categorization so how do
+we fit this dog into it or a
+temperamental dog for that example let's
+take a chihuahua which is a very very
+temperamental dog now how do I fit a
+Chihuahua into the idea of the dog ears
+dog that is therefore Marian is the most
+lovable dog or you have golden
+retrievers which have very lovable dogs
+so chihuahua is a very very
+temperamental dog so how do I fit it and
+so the schemata which is of a dog how
+does it get modified what is the way in
+which modifies so obviously that's not
+present the plus the process of using
+appropriate schemata is also not known
+so when we are classifying the dog in a
+wildlife and when we are classifying the
+dog as a dog in a home what is the
+process that we are using for
+classificatory stew classifications that
+also is not known and so the process of
+using appropriate schemata of when a dog
+becomes a wildlife animal and when they
+become pet and when they become man's
+best friend that is also not clearly
+defined in a schematic view so how does
+the schema changes from one context to
+the other or one moment to the other
+that is also not available and so that's
+a big problem with the schema Tavia so
+next on is the knowledge-based view and
+so what does this view says the idea of
+the knowledge-based view is that a
+person classifying objects and events
+just compare so what does this view say
+this says that when people are comparing
+people are making classifications or
+categorizations they are not doing
+physical comparisons but they are also
+thinking about the way in which a
+particular category is organized so it's
+a two-part process they are not just
+going ahead and looking at features and
+ca-- when people are categorizing
+they're not just looking at features of
+an item physical features of an item and
+then going ahead and comparing it what
+they do is they are also mentally
+thinking about the organization process
+about how the organization process work
+and what is the organization scheme and
+that's what it says is that people just
+don't compare features of physical as
+personal object to the features of the
+aspect of the stored representation and
+said the people also use his or her
+knowledge of how the concept is
+organized to justify the classification
+right and so what is the meaning of this
+the meaning of this is that people are
+not stupid so when they are doing some
+kind of categorization they just don't
+do the categorization as a machine would
+do by just looking at certain aspects
+and matching certain aspects so they are
+not looking at it's close to how what a
+template matching model is and
+perception so people just don't look at
+certain templates or people just don't
+look at certain features and go ahead
+and make the comparisons and based on
+those comparisons classify different new
+instances or of any element of any
+concept into a particular category what
+they do is they also think about why the
+organization has to be done why is he
+categorizing it and then why is he or
+how is he
+categorizing the whole or how is the
+whole process of categorizing going on
+and why does he do that to explain why
+certain instances happen to go together
+in the same category so this is
+basically one of the thing so what
+happens here is that people just don't
+do physical comparisons they think about
+the physical comparisons of
+objects and they do the categorization
+processes and that is why things which
+don't belong together are categorized
+for example let's say we have a five
+item is given to you and a
+categorization scheme is named now these
+items are a child a dog
+you're very valuables a laptop and some
+money now how does these five things
+classify together or they are
+categorized together
+no absolutely looking into it just from
+the just from a third-person perspective
+you wouldn't think that they have
+anything in common what is a child has
+common with a laptop and where some
+valuables that you have and some money
+that you have so none of them are
+actually in any category or sort to
+propose any form of category but then if
+I give a name to it for example things
+to be saved when in a fire then it makes
+sense to you and so what people do is
+they don't just look at these four
+things and do the categorization they
+also think how they are related to each
+other and this thinking of the
+organization scheme then leads them to
+make the classifications and so this is
+what event actually talking about so
+people then think about the
+organizational scheme and justify the
+classification so in this case the four
+items can be classified together how
+they are classified together by looking
+at the fact that these are the things
+that needs to be saved when a fire is
+there so more previous views of
+conscious fail to answer so most
+previous views of the concepts they fail
+to answer satisfactorily how things in
+the same category go together the
+knowledge base you propose that people's
+theories or mental experience about the
+world are intertwined with their
+concepts and provide the basis of
+categorization so up till now the
+theories that we have looked at they
+don't look at instances or they don't
+the beauty satisfaction and answer of
+how people from different categories are
+categorized together right or people
+which are which have very low similarity
+how they are classified together but
+this theory the knowledge based theory
+they say the people have their own
+theories and men and mental explanations
+about the world and these theories and
+mental explanations help us in forming
+concepts and helping us categorize and
+some of the most weirdest of elements
+together then can be given a theory for
+categorization and can be categorized
+together
+so here this knowledge based view gives
+us the scope to categorize the most non
+natural or most asymmetrical objects
+into a kind of a symmetry that's that's
+the fine kind of a thing that this
+particular idea of categorization helped
+us now the five approach to conceptual
+structure the five theory that we have
+looked at they can be divided now
+categorized into suit two subtypes
+and this suppressor provide provided by
+comes a two in 1992 so what are the two
+categories so the five categories that
+we have looked up up till now they can
+then be or the five different models
+that we have looked at till now they can
+be clubbed into two basic categories
+what is it the first category is the
+similarity based category and the other
+is the knowledge based category so in
+the similarity based category we can
+classify the classical approach the
+prototype approach of the exemplar
+report and parts of the schema view can
+be these models can be put into the
+similarity based category so what does
+it say it includes approaches in which
+categorization is assumed to be based on
+similarity of an instance to an abstract
+abstraction revivification of the
+category and so why these four models or
+why these three models and part of a
+model is similar as I said the schematic
+view
+or it it possesses parts of the
+prototype view and parts of the exemplar
+view right and so basically how they are
+together or how they are clubbed
+together the idea how they are clubbed
+together is that all these use our
+similarity based system so they talk
+about that concepts and categorization
+or concepts are former categorization is
+done based on how a new instance or how
+close a new instance is or how similar
+and unions instance is to the available
+concept the more similar it is the more
+easily it is categorized into that bin
+otherwise it is taken to some other mean
+or it is pushed out of that particular
+bin so the more similarity you have to a
+particular concept the higher the
+chances of being categorized into that
+particular concept the more close our
+animal looks to a dog the higher the
+chances that it should be categorized in
+a dog category the more clothes animal
+looks like a cat the higher the chances
+that it will be classified as a cat
+right and so similarity based view so
+that's why and so the problem with this
+view then would be that are typical
+incidences will not be part of its for
+example if I have a three-legged dog or
+if I have a dog such as a Doberman now
+the Doberman dog has a very very long
+tail and so for its own survival
+sometimes the tail is chopped off and so
+if it doesn't have a tail right how do I
+go ahead and classify so this view says
+that I will not be able to classify the
+Doberman into a dog category right why
+because it doesn't have the absolute
+similarity that we're looking at and so
+this view is based on this idea of
+abstracts there's specifications of a
+category the idea that things which are
+classified into a category should have
+things or should have properties which
+are similar
+now the key critic of this view or the
+similarity is meaningfulness only in
+certain aspects so basically the
+similarity waist view is meaningful in
+certain respects only in certain other
+respects there it is it doesn't generate
+meaning so in for example in in
+arithmetic or in in those Sciences this
+mu will be very nicely looked at because
+problems can be categorized into certain
+formulas a certain mathematical problem
+could be akin to certain other
+mathematical problem it means lend a
+solution to it and so we can look into
+it for example integral most integral
+indefinite and definite integral could
+be classified into a certain way of
+solution to it but then the for certain
+other kind of solutions where a new
+approach is needed some kind of mental
+knowledge is needed or some kind of work
+on the mental knowledge is needed or
+some kind of work from the person who's
+categorizing is needed some effort from
+the person who's categorization is
+needed there this this view will fall
+now the other category is the
+explanation based category and so what
+is this category it comprises of the
+schema table view and the
+knowledge-based view so it as I said the
+Scimitar view a part of it is the
+prototype view part of it is the
+exemplar view right and so the half part
+which is the exemplar view then falls
+under this category and so this mu has
+comprised of part of the Scimitar view
+and the knowledge based view and so what
+does the meaning of this or what is the
+proposal of this explanation based
+category the idea is that people using
+this view they base classification on
+meaningful relationship among instances
+and categories so people who use this
+kind of explanation based view they do
+not look for the explanation so they do
+not look for similarities rather
+categorization is done in terms of
+meaning of how things are related
+together in meaning and that is why the
+previous example that I gave you in
+which a dog a child some variable that
+you have and certain amount of money
+that you have are not clubbed together
+because how they are clubbed together
+because they are the things that you are
+going to save and
+that reason the man our dog and that
+could also be classified together
+because they form a household right and
+so this is how they are classified
+together but then looking at it in terms
+of similarities a dog is not equal to a
+man neither the man is equivalent to a
+bed neither is equivalent to some other
+household items or chair for example and
+so the explanation will suggest that
+with meaning or true meaning people can
+do categorization and so categorization
+or the property of categorization or
+concept formations can also be done on
+the basis of meaning now up till now
+we've looked at the five models and a
+combination model of how these
+categories are generated or how this
+category concepts are generated we will
+now look at the fact of how a new
+instance our new concept and
+classification of new instances are done
+what is the way in which people form new
+concepts and new categorization and so
+study was done by Bruner which we'll use
+as a reference here so concept formation
+requires some basic level of
+generalization so when we are using a
+when we're making a concept some kind of
+features have to be generalized or with
+all these instances all instances of a
+particular category have to be looked at
+and some commonality or some
+generalization has to be looked at for
+group grouping certain things but not
+others together now the process requires
+filling out what features are relevant
+irrelevant with a little feedback so
+basically in terms of concept formation
+we should be focusing on generalizations
+we should be focusing on commonalities
+and we should also be looking at those
+features which are relevant to us and
+those which are which are not relevant
+to us and only once we can do this
+relevant
+relevant kind of an identification can
+we go ahead and then make concepts or
+newer concepts so how do I make a
+concept or how do i attain a concept and
+for that purpose the process of
+acquiring a concept in was acquiring the
+information necessary to isolate and
+learn a concept relating to the
+formation of later use and
+transformation of information to make it
+usable when testing ideas and new
+possible instances now to show how new
+concepts are formed a study was done by
+Bruner and others and so Bruner good now
+in osteen in 1956 they did a study and
+so what was the study like so it was a
+very simple study in which they showed
+people Bruner Austin and good now
+they showed people a display like this
+right and so this play had certain cards
+onto it so certain cards were there and
+the display had a card this kind of so
+I'm just drawing a part of the display
+so this kind of things our cards were
+there and these card cards had certain
+geometrical figures on unto it so either
+it had a triangle it has a circle it has
+a square or it had a rectangle so
+basically then each card had one of
+these features so either it had a
+triangle
+it had a circle or it had a square so
+each card has either a triangle circle
+or a square on to it in addition each
+card also had black white and stripped
+color onto it so each card was other
+black white or strip kind of it so
+basically the card was either black in
+color or the figure was great in color
+the figure inside was white or the
+figure inside was striped that kind of a
+thing was there so first feature it
+had a number of three of these either a
+triangle circle or square it had black
+white or strip figures then it had
+either 1 2 or 3 shapes into it so it
+could have a single triangle it could
+have two triangles or it could have
+three triangles similarly it could have
+one square one triangle it could have
+one square one rectangle I'm sorry not a
+rectangle one square one triangle one
+circle and that kind of a thing in
+addition it also had boundaries around
+the shape so each card then had either 1
+2 or 3 boundaries so 1 2 or 3 figures
+and 1 2 or 3 boundaries so the variation
+was that these were the four variations
+these were the four aspects which varied
+between the cards right so most people
+were shown this kind of a system in
+which each card has either 1 2 or 3
+boundaries it had either 1 2 or 3
+figures it had the four figures
+classified as black white or striped and
+it had either a triangle a triangle a
+circle or a square onto it and so this
+kind of figures were shown to people
+later the experimenter gave a definition
+concept the experimenter asked the
+people a defining concept or it gave a
+definition of a concept that things like
+black circle in two borders strip figure
+so he said that I am thinking of a black
+circles a figure with a card with black
+circles two borders and a strip figure
+right so black circles two borders and
+strip figure and the experiment has said
+that in terms of classification so
+subjects were asked to classify of how
+many of these cards actually match the
+concept that this experimenter gave me
+so first people were shown this kind of
+cards and later on they were given a
+explanation like this of the concept of
+is the concept the person the
+experimenter is thinking of a concept
+which has black circles in it has at
+least doesn't say at least it says two
+borders and then it says it is striped
+in nature and so this kind of a thing
+was given so these cards are either
+black white or striped in nature and so
+then after this the third step first so
+this is step number one this is step
+number two in step number three people
+were shown up positive instance so two
+borders two circles which are black one
+another stripe so this is a positive
+instance right and this was shown to
+people and then people were asked to
+look at this positive instance think
+about this concept and later on go ahead
+and verify how many of these or what are
+the what all cards actually match this
+kind of inclusion criteria inclusion
+criteria for categorization now people
+each time the subjects went ahead and
+tested these cards each of these cards
+for inclusion criteria a feedback was
+given to them whether it was true or not
+and so this is what the experiment was
+so very simple experiment a number of
+cards were shown to people these cards
+varied on four variables one it had a
+triangle each card has either a triangle
+circle or square on to it then it that
+the cards were either black white or
+striped
+third it had one two or three figures
+onto it and it had one two or three
+borders on to it later on a concept was
+given by the experimenter saying that I
+am thinking of a card with black circles
+two borders and striped figure so that's
+what I'm thinking about and then a
+positive instance card was shown two
+subjects and later on subjects were
+asked to go ahead and match this
+instance or basically tell the
+experimenter which of these cards follow
+or which of this card matched this
+particular
+concept that has been given and so when
+the experiment was done Bruner and
+others found that there are three ways
+in which people went ahead and attained
+the concept or did this particular kind
+of a matching task people either use
+cement image scanning successive
+scanning or convert on conservative
+focusing now in simultaneous scanning
+what people did was all hypothesises
+were tested the same time so people went
+ahead and tested the black circles of
+people compared number of black circles
+to number of borders and number of
+stripe figures at the same time right
+so they verified all the hypotheses all
+the points which have been given in one
+single instant instance and that is
+called simultaneous scanning so
+simultaneously they verified all the
+hypotheses or they verified if the
+target card matched or the target card
+had all these features or not in
+successive scanning what people did was
+they first matched whether the target
+card whether the card which we were
+matching to the concept had a bad circle
+a black circle or not if it didn't have
+a black circle it was left behind and
+the next card was moved on to so that's
+how people looked at so one hypothesis
+the time so first they verified whether
+people whether the cards had black
+circles then they went ahead and
+verified whether the cards that they got
+from the first verification with black
+circles whether they had two boundaries
+or not and once that was done from that
+group they looked at whether black
+circle cards with two boundaries were
+striped or not and that is how they did
+and this is called successive scanning
+in Kundel conservative focusing what
+people did was they selected the
+positive instance they looked at the
+positive instance and then they started
+comparing this positive instance to each
+card so what they did was they compared
+so they were not testing hypotheses they
+were not eliminating hypotheses they
+were looking at the positive instance
+and comparing the positive instance with
+each instance of the card and so what
+Bruner
+Goodenow and Osteen came up with is that
+this is how people our team called
+concepts and these are the strategies of
+attaining concepts
+they said that there are three ways of
+attaining a concept one is called the
+simultaneous scanning in which you go
+ahead and compare all hypotheses the
+same time then there is the successive
+scanning in which one after another the
+multiple hypotheses are compared one by
+one and then there is conservative
+focusing in which what you do is the
+standard instance is compared and this
+comparison is what basically leads to
+the idea or leads to the matching and in
+this comparison what we do is one
+feature at a time is compared to the
+target the target cards not with this so
+this is what I was talking about and so
+as you see there were stripe figures
+there was darker figures I mean black
+black figures they were white figures
+number of boundaries number of signs
+into it and so these were the cards
+which were use and so any instance was
+used and so these instants were how it
+was tested so Brewin others 1956 found
+that the effectiveness of each of these
+strategies dependent somewhat on the
+extent of the task conditions so the
+question is which of the strategy is
+better which strategy should be used in
+which the strategy should be used when
+and they found out when the strategies
+we're not complex the simple strategies
+for example arithmetic problems were
+very simple or very straightforward
+strategies people should be using the
+simultaneous scanning but as strategies
+become more and more complex as more and
+more complex items have to be clubbed
+together or categorized together people
+should be using conservative focusing so
+it's basically the task that has been
+given to you the idealized conditions
+that has been given to you how difficult
+it is the more difficult the more
+complex it is the
+more conservative focusing we use the
+more simpler it is the more successive
+scanning that we use or simultaneous
+scanning that we use so another question
+was how do we acquire the prototype in
+our concept formation so basically the
+the card that was positive instances
+that was given is actually a prototype
+so how do I get a prototype so people
+use and form prototype you haven't given
+distorted instances during learning so
+going back to the chapter on perception
+where we looked at a study by Cillian
+Posner where they gave people various
+random patterns of the letter M and so
+what happened is there were there were
+low distortions and high distortions
+pattern of or low distortions and high
+distortions versions of the letter M so
+remember if you if you remember from
+that chapter so this is how a M would
+look like and so this was the prototype
+which was never shown to people what
+people were shown where distortions of
+it so for example this is one distortion
+which people were shown and the other
+distortion could be this
+so several distortions were shown to
+people and these distortions were high
+distort so these were load instructions
+because if you join together it will
+form a M or in this case it from the M
+like this and the high distortions
+versions were also shown to people so
+people if given both high distortions
+and low distortions people and it was
+found out that people work better or
+people make prototypes better in in
+terms of moderate distortion see if you
+people are shown no distortions and they
+are asked to make a prototype or people
+are shown high distortions in both these
+cases the prototype that they form are
+not very convenient but if noticed
+medico distortions and moderate
+distortion the items are shown to them
+or moderate distortion instances of the
+actual prototype is shown to them they
+can accommodate a large variation so
+even if a large variation if the test
+stimuli has a large variation into it
+people who have been shown distortion
+moderate distortion cards or modern
+distortion versions of the original
+prototype they are able to still
+classify the test cut into their
+prototype now learning about category
+variability may be at least as important
+as learning about prototypes especially
+if categorizations are to be made later
+and in instances that vary a great deal
+from the prototype so category
+variability is another thing how much
+there is a variation in the category now
+more variation in the category the more
+distorted or the more bigger the
+prototype would be or the time mentions
+the prototype would have the bigger the
+prototype abstractions would be and the
+higher the lower the category
+variability the more stronger the
+prototype is or them the more contended
+the prototype is so with category
+variabilities this prototype also varies
+now books 1978 they define something
+called non analytical concept formation
+in contrast to logical scientific focus
+caution and they call this as implicit
+learning and they require people to pay
+attention to individual exam plus
+storing information about
+representations of them into memory so
+what Brooks and others they
+found out that people just as we saw in
+prototype acquiring of how people
+acquire prototype what people do is
+people use implicit knowledge or people
+use non analytical knowledge to form
+concepts now even from the high
+distortions of dots of an M or hardest
+low distortion versions of M people were
+still able to make the prototype and M
+it basically means that people are able
+to use implicit knowledge for forming a
+prototype and how does it there because
+people pay attention to individual
+examples so people take all these
+distortions and look at these
+distortions and they pay attention to it
+and from that they store information
+about the representation of that
+particular thing of that particular
+abstraction in memory now later
+classifications are done by comparing
+new instances to the representations
+drawing analogies between the old and
+the new so what if a number of
+variations of the dot pattern is
+presented to people
+we're from somewhere high distortions or
+some or low distortions people will look
+at all of them and then store the mental
+prototype and then later on if still
+variations of native variations when
+they come in the the people compare
+these variations with whatever has been
+stored into memory or comparing to the
+prototype which has been stored into
+memory so in Brooks example what Brook
+did was we Brooks presented people with
+examples like this and so these were
+words that represented to people and
+people were asked to remember these
+words no there was one rule which was
+there and that what what the rule was
+that some of these words followed a
+certain kind of a grammar right and so
+these words which which are here these
+I'm sorry these are not words these are
+letter string so these letter strings
+are presented to people and people are
+asked to remember these letter strings
+or to predict how these letter strings
+are actually formed now unknown to
+people were the fact the some of these
+letter strings followed are certain
+rule a certain way of doing it our
+certain language grammar for example
+some of these words which are presented
+here follow a grammar and so as you can
+see this is the grammar this is the
+structure of the grammar so a certain
+rule has been followed in some of these
+letter strings and in some of these
+letter strings that tool has there not
+been followed for example one rule is to
+start here and then you can have a T to
+start with or you can have a V to start
+with so we have a T or or a V to start
+with and then you can either have P a
+number of peas into it and so this is
+one in which we are having a number of
+piece or you can have a number of X's
+onto it and so this is the one which has
+a number of X's to start with a V and
+number of X's and then you can proceed
+to either a T so this is a T or you can
+proceed to either a V so this is this is
+either a V and from there this T then
+follows an S and so this is one the one
+which follows this logic right or it it
+it can from T it goes to an S and s then
+comes back to X or it proceeds to the
+end so basically what the experiment was
+all about is that in this case these
+letters some of these letter strings
+followed a grammar and some of these
+letter strings were a random pattern
+which were there and so people were not
+told some of these people were not told
+that they followed a grammar strict kind
+of a grammar and some of the people were
+told that the letter strings that you
+are using followed a kind of a grammar
+onto it right and so later on they were
+asked to so some people some of the
+people were told that certain rule is
+there from which this letter strings are
+generated and some people were told that
+there are no rules to it and so later on
+participants when who learned better
+strings that followed grammar rule made
+few errors
+then control participants now the thing
+is that participants who were told that
+they follow a grammar rule they perform
+or made more errors in terms of
+retrieval and then participants who
+didn't follow this grammar rule
+so if told about the rule people were
+told that there was you know a rule
+which was followed people who would
+retrieve back or learn these strings
+they made more number of errors and
+people who were asked to just learn the
+rule so three instances in one instance
+people were not told anything and they
+were asked to learn these words in
+instance two people were told that see
+there is a grammar rule and this grammar
+rule isn't followed for making these
+words and so each new instance then
+follows this rule right and the third
+group was there where they were shown
+this rule right and they were not asked
+to learn anything they were not stared
+at anything about that whether it
+follows a grammar rule or not they were
+shown this prototype they were shown
+this thing and they were asked to
+classify what happened is what was the
+result the people we were just own an
+exemplar people who were just shown this
+particular instance and they were asked
+to classify based on this instance or
+basically remember this instance based
+on prototype they perform the best but
+when people were said that a grammar
+ruin is there and you have to deduct the
+rule and fall based on that do the
+categorization they performed poorly and
+of course the people who were not said
+anything about the rule or if any rule
+exists implicit rule exists for learning
+these words things they perform the
+worst so that'sthat's how the result of
+this example turns out to be also in
+another example in another study people
+were shown this kind of a hereo graphics
+and a particular word related to this
+hereo graphics and so what was the thing
+here people were first shown that this
+is the stress stimuli and this is the
+response so this means wrong
+this means gone
+this means tiger this means bus and
+later on they were asked questions by
+showing this kind of a stimuli whether
+this flies whether this is bigger or not
+whether this is live or not and whether
+this is attacks or not this kind of
+questions were given now unknown to the
+people where the fact that each of these
+hey leo graphics that you see actually
+mean something actually mean a
+particular thing in English a particular
+word in English right and so when P when
+people were not shown people were not
+told that this kind of meaning exists
+they performed better they they made
+this idea better and they could they
+could just go ahead and relate this I
+this implicitly this particular
+Geographics to a particular concept but
+when people were actually told that a
+certain holographics mean actually
+something the number of errors rainbow
+so people who have just shown this and
+later on tested on to this area graphics
+they perform better why because they
+implicitly made some kind of connection
+they implicitly made some kind of a
+connection of what this thing means what
+this thing means and so on and so forth
+but if they were just told that there is
+some kind of a rule which is there and
+they perform much over sir
+Brooks then described five factors that
+encourage people to store information
+about individual exemplars and what are
+these five things so Luke says that
+first of all people are better off in
+making concepts and categorization in
+terms of exemplars and he's always
+stated there there are five factors
+which encourage people to make more
+examples and what are these the first
+factor involves learn information that
+distinguishes among in in among
+individual instances so if the task
+requirement is such that it makes people
+to learn more information that
+distinguishes among
+in individual instances if the
+variability is more and people learn
+more about individual instances they are
+better off making learning through our
+concept formation through through the
+process of exemplar or using exam
+process method for categorization also a
+second factor factor is the original
+learning situation so more closer the
+original learning situation is the more
+varied the original learning situation
+is the higher the chances that people
+will use exemplars for making
+categorization also some stimuli lend
+themselves to hypothesis testing better
+than others and so what happens is there
+are different different kind of similar
+stimuli for example some dogs would be
+called a dog that would be much better
+example of a dog then some other kind of
+dogs which are not better examples of a
+dog and so what what would happen here
+is that since some stimuli led to better
+hypothesizing and some not a good
+example a good way of categorization
+would be using the exemplar similarly a
+food factor that in real life is that in
+real life concept learning instances may
+belong to a number of categories so what
+will happen is a particular instance in
+the instance can belong to a number of
+categories for example the dog could
+belong to the the animal category to
+man's best friend category to the
+household category and so on and so
+forth and so if that happens if the dog
+is sharing so many categories there's so
+much overlap an example is the best way
+or example should be the best way of
+categorization and the fifth thing is
+that in natural setting we learn about
+instances without knowing how we will be
+called to use for information later and
+so in most natural instances the
+immediately we don't come to test a
+particular instant or make a concept or
+categorize something using a concept so
+we learn a particular we see a
+particular instance of something and
+then we make a concept out of it but
+immediately we are not given the task of
+categorizing something according to that
+concept it may happen that
+or some period of time may exist or some
+period I may laugh before we get at
+instance of that category and so in
+those cases example as a best example or
+examples are the best way to go ahead
+and categorize so this is the end of
+this section and in this particular
+section we saw how concepts and
+categorization really work and what are
+the various theories which help in
+categorization and concepts and and then
+also look compared across the different
+categories we also saw how concept
+attainment is done and what is implicit
+concept the idea is that people use
+implicit knowledge for cancer concept
+formation and so that's another
+interesting thing that we looked at and
+at the end we also looked at the
+examples are the best way of forming a
+concept so in the next lecture when we
+meet we'll talk more about a different
+kind of memory or since they are still
+continuing with a memory example in the
+next section we'll talk about a
+different kind of memory thank you

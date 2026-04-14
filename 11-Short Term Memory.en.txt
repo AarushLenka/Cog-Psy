@@ -1,0 +1,1124 @@
+﻿Kind: captions
+Language: en
+[Music]
+you
+hello so
+to the second section of memory as they
+discussed in the last class we saw what
+is memory what is the need for it and
+what type of 20 process this is we also
+discussed about model model of memory
+what the model model talks about or how
+memory is multi-store in a single store
+kind of a concept so in the single store
+memory was discussed as processes which
+work or which use a single store for
+storing but different processes define
+different kinds of memories whereas in
+the multiple store model there are
+different stores and different processes
+related to each store and that is how
+the model is defined we also looked at
+the first unit or the first part of the
+model model that we discussed in the
+last class and that was paused the
+sensory memory so we looked at what is
+sensory memory what is the different
+aspects of sensory memory different
+requirements of it and how does it work
+we looked at two basic types of special
+sensory memories these are the visual
+memory and the auditory sensory memory
+now in today's class what we are trying
+to finish is short-term memory so what
+is short-term memory now looking back at
+the definition of the model model
+memory is a three part system and it's
+also proposed by at internship and
+attention shipments model of memory the
+first part of which is sensory memory
+and when an information is processed
+from sensory memory using attentional
+filters or intentional filters
+information from sensory memory is
+passed on to something called the
+short-term memory
+now the short-term memory store is
+basically thought of as a store which
+has limited capacity but it can store
+information for longer
+nine longer than the duration which is
+available the durability of time which
+is available for the short-term store or
+the STS also the main difference between
+the short-term memory and the sensory
+register the sensory store is the amount
+of information which can be stored so
+basically a large amount of information
+is what the sensory register holds
+whereas the short-term store can hold
+only limited information so let's
+continue our this lecture on short-term
+store and look at some of the properties
+of the short-term memory so starting
+with the definition of what it really
+means
+short-term memory when people mostly
+talk about is a type of memory which
+people use for temporary holding
+information think of a scenario like
+this you're on a call talking to someone
+and within the call itself number is
+given to you by the caller the person
+who's speaking to you gives you a number
+to dial to now imagine a situation where
+you have nothing at your hand to write
+this number down so what do you do how
+do you remember this number or how do
+you make sure that the number telephone
+number which has been passed on to you
+from the collar stays with you till the
+call ends the most likely scenario or
+the most likely thing that most people
+do is locally rehearse this number and
+so this number till the point of time
+that you are vocally rehearsing it stays
+with you if you stop rehearsal then this
+number goes away and this particular
+temporary store where this telephone
+number or the number given to you by the
+collar stays is what is called the
+short-term store so here mostly if not
+rehearsed most information which is
+passed on from the Census register stays
+for no longer than a second one or two
+seconds so that's the timeframe which is
+there and as we saw a time frame for
+which the information stores on to or
+stays on to the sensor
+history's about 100 250 milliseconds so
+basically the in short-term store is a
+temporary store which holds on to
+information little information but for a
+longer duration of time now as far as
+the definition goes short-term our
+primary inactive stores it is the
+capacity of holding small informations
+for some limited period of time
+now the question again comes to us is
+what is the capacity of this store as we
+saw the capacity of the other store
+which was the short-term store was huge
+it has a huge capacity in taking a lot
+of information but then what is the
+capacity of the short-term store also we
+talked about processes which are active
+during or which are inbuilt to these
+stores so one of the processes which
+helps in passing information from the
+short-term store to the short-term
+memory is called the attentional
+processes so basically attention is that
+process which takes in information from
+the short-term store and depending on
+people's motivation and intentions and
+the requirement of the task move
+information moves on to a short-term
+store to a short-term memory
+so as concerning the capacity of the
+short-term store a paper was written by
+Sperling I'm sorry George Miller in 1956
+and where he defines the store to be
+having a capacity of seven plus or minus
+two chunks of item
+now when I say seven plus or minus two
+chunks of item what I am specifically
+trying to tell you here is that chunk is
+a word and it's it's it's a conceptual
+word so seven plus or minus two chunks
+doesn't mean that you have to have nine
+or five items into it but a chunks of an
+item so basically let's go ahead and
+define water chunk is so chunk is a
+process or chunking is a process where
+meaningful units or meaningful materials
+which are similar to each other are
+clubbed together are categorized
+together we'll look into this in the
+chapter of categorization how does this
+process happen but for now chunking is a
+process of basically putting into a
+similar mean items which are
+conceptually or meaningfully similar in
+nature for example letters conformer
+chunk or digits can form a chunk and
+certain other for example visual stimuli
+scan from a chunk and that kind of thing
+is junking so the capacity which has
+been defined by georges milies paper is
+called 7 plus or minus 2 that is the
+maximum capacity of information which
+can be stored into the short-term memory
+now the thing is this is also called the
+magical number and very recent studies
+my nicer demonstrates that it is not
+seven plus or minus two items but it is
+rather four plus or minus two items that
+is the capacity of the short-term store
+so one thing is the capacity the next
+thing to like example of how chunking
+really works so if I show you this
+string which is at the top of this
+particular slide and if I ask you to
+remember this if I show this string to
+you for let's say a hundred millisecond
+or for one second and then I ask you
+back to relate back what are the number
+of things that you are seeing or what
+are the number of letters that you are
+seeing here it becomes a difficult job
+so I'll demonstrate what chunking is
+what chunking really does is to make
+meaningful sentences or Club meaningful
+sentences together so one way to
+remember this whole string is to
+understand the fact that this string has
+acronyms from the famous detective
+agencies or basically security agencies
+of the world so what I do is if I can
+break into three chunks FBI is one
+agency NSA is another agency
+as an agency CBI is an agency CIA is an
+agency mi5 is an agency and B and D is
+an agency so these basically can be
+chunked into smaller chunks the meaning
+of the chunk or the meaning of the bin
+which holds these chunks together is
+security agencies and that way you will
+be able to remember this whole number of
+digits or this whole string of so
+this is basically what is the process of
+chunking then another thing that we want
+to know is how are things coded into the
+STM nitrous area explicit to us that
+coding in the short-term store was
+dependent on modality so different
+modalities had different codes in the
+short-term store so is it also true for
+our SDM what is the way in which
+information is coded into the SDM that
+is an interesting thing to be looked at
+now the coding in STM generally happens
+to be in terms of the caustic feature or
+in terms of the caustic way so
+information mostly are held on to your
+STM in an a caustic trace which
+basically means that this sub vocal
+rehearsal that we are talking about in
+our earlier example where we were
+looking at how this study this number
+was given to you by your friend over a
+telephone and so you needed needed to
+dial this number what you tend to do is
+mentally rehearse it and so when you are
+mentally rehearsing it you are doing a a
+caustic rehearsal now just to prove in
+the fact that it is a caustic trace that
+is the way of how items are coded or how
+items are stored on to the short-term
+store or short-term memory koenraad 1964
+he conducted a famous experiment and so
+what his experiment was he gave people
+some letters to remember and a string of
+letters to remember
+later on ask them to remember these
+letters Pat for example Kay's GC or TBC
+kind of thing and what he found out from
+the remembrance that when people try to
+remember these letters back what he
+found out that people confused or
+committed errors by retrieving or in in
+retrieval by those letters which sounded
+similar together
+so basically letters which sounded
+similar or which appeared similar they
+created more confusions or more errors
+then for those letter strings in which
+letters were not similar together for
+example in terms of when a visual
+presentation of letters weighed on so to
+presentation of these letters were done
+in one case KGC kind of a thing was
+given to people and in in and we in an
+auditory manner and or through an
+auditory stimulus in the other version
+of the experiment this KGC was shown to
+people and so when this kind of a
+stimulus was shown to people it was that
+people made more confusions when
+auditory testing was done and what
+happened here is that K the K or the G
+confused more with C people made more
+confusions with C whereas in terms of in
+terms of the visual
+people didn't can confuse with the
+letters G and C so it is basically the
+caustic code or it is basically the
+acoustics are the four names the basic
+speech sound which made the confusion
+and that led to the idea that it is
+coding which happens in the STM is
+mostly in the caustic and form Nate in
+1988 he found that people use a caustic
+code dominantly for STM storage and
+recall so basically people do some kind
+of a sub vocal rehearsal and it is not
+mental images it is not imagery that
+people make off items in the STM people
+generally
+make an acrostic trees or an acrostic
+image I would say so let's not use the
+word images or in a caustic trace of any
+information which has to be put into STM
+and and basically then remember it that
+way now the question then which is in
+front of us right now is what is the
+retention duration and how does
+forgetting take place in STM not to to
+the way in which the attention is done
+in STM or how items are retained in STM
+and what is the way in which forgetting
+takes place in STM several experiments
+fact discussed and so what I will try
+and do at present is show you two
+different versions of the experiment in
+first version which is called the Brown
+and Peterson task will see that decay
+has been named as the reason for
+forgetting whereas in the fog and norman
+task i will try and show you the same
+explanations the same results from the
+walk from the peters peterson and brown
+experiment or how it is explained in
+terms of interference so basically there
+are several theories of how items get
+moved out or items are forgotten and so
+there are two popular theories of it one
+is the decay theory which basically goes
+ahead and says that items which are not
+used for a longer period of time they
+decay so they what happens is that they
+trace the memory traces erased and they
+got they get decayed or without use in
+the theory of not you says that they
+slowly be there away with time so that
+raised itself disappears another theory
+of forgetting is the interference theory
+which says that if items of similar
+nature they come in contact with each
+other or if one item is presented in the
+second item which is similar in nature
+to the first item is presented alongside
+then one eye both the items will compete
+with each other and they will
+interference so basically in the next
+section in long-term memory when we will
+discuss we will also discuss on to the
+interference phenomena but now these are
+the two modes of forgetting so what
+people were wondering is what is the
+nature of forgetting or how things are
+forgotten in to esteem and how they are
+stored so let's then look at these
+experiments one by one the first
+experiment is called the Brown and
+Peterson task so what is the task all
+about and so this this experiment was
+done by Brown and Peterson in 1959 so
+what is the experiment all about now in
+the drawing Peterson experiments a very
+experiment to look at a digit string was
+presented to people so digit string like
+this was presented to people and what
+they had to do this digit strings were
+generally a try again a three letter
+word or three letter trigram a triangle
+is basically a three letter word which
+doesn't make sense because if you have
+sensible word here then the chances of
+you recalling it will be better because
+it makes meaning and so a trigram is
+used and basically the start starting
+point of tri gang of or who started the
+use of Trigon was basically event
+because what he did was he created three
+letter words of the format CVC which is
+the consonant vowel consonant format and
+so in CVC he combined three words
+together or three letters of the English
+language together so that they don't
+make any meaning for example K and C or
+Q K T now these words don't make meaning
+and so they're combined together and
+this is what a diagram is so in this
+particular experiment an arrangement was
+done in which people were shown this
+kind of try GAMP and so after they were
+shown this try again they were asked to
+come back this trying m to memory so
+basically someone is shown this dragon
+and they're asked to commit this to
+memory later on they were said to count
+back from 1,000 increase so the first
+really
+nine nine let's say seven and then the
+next will be nine nine seven minus three
+so we'll be nine nine four and so on and
+so forth so keep on counting like this
+so our task was introduced so the the
+working of the task is that I distract
+this kind of heart like I was introduced
+people were made to commit this to
+memory to sub vocally remember it so we
+were given this task and the sub
+Oakleigh remember it and later on a
+delay destructor tasks like this was
+given it is called the end back counting
+task here what you need to do is that
+you have to count back in digits of
+three this kind of a thing and keep on
+counting now people were stopped at
+several points of time starting from
+twenty seconds delay so within the first
+twenty second they were worse so people
+remember this task and they started
+counting back and after the first twenty
+second they were stopped and asked to
+relay it back this this try again so
+this is called the recoil diagram phrase
+in which after the first twenty second
+people were asked to stop so within this
+twenty second people are counting back
+now one thing is that that this counting
+back tasks then background and back
+counting tasks as it is called this
+requires a huge amount of short-term
+memory it requires a huge amount of
+attention and so most attentional
+resources will be diverted to it and so
+chances of the any chance of people to
+basically subvocal rehearse this this
+particular thing is not possible it's
+not at all possible in this task and so
+this was to demonstrate the fact that
+this khr or this recall was basically do
+to indicate now people were stopped at
+two seconds time
+after the counting start started so they
+were made to recall the tagging after
+two seconds four seconds six seconds
+till twenty seconds so after every two
+seconds they were made to stop this
+counting task and recall back the
+diagram what really happened what is the
+result of this experiment the result of
+this experiment showed that after 18
+seconds so this is what the result looks
+like if you look into it initially what
+happened is this is the relative
+accuracy which is there in the recall
+interval of time so what the first thing
+that shows or that is evident from this
+particular result is that at 18 seconds
+the curve becomes a sort of a simple tat
+and so which basically means that to the
+recall accuracy doesn't fall anymore so
+the curve runs parallel to this but if
+you look into it for the first three
+seconds there is a maximum fall of
+accuracy so this is the portion if I
+draw this then this is the kind of
+portion which is then immediately there
+is an accuracy so just let's say half a
+second the accuracy is almost 1 which
+means that people are almost highly
+accurate 80% accurate and recalling the
+or more than 85% accurate and recalling
+the trigram back but then as you proceed
+in time by the fur by the first third
+second by the third second of still the
+start of that accounting task people
+almost lose the accuracy by or the
+accuracy drops down by 42 to 43 percent
+by the next 6 second it drops to almost
+let's say around 35% and then similarly
+it keeps on dropping till it becomes
+stable at 18 second and this idea gave
+or this task gave two prominent result 1
+that decay is the reason for the
+forgetting since
+the task was so heavy the working memory
+task which was used was for heavy what
+happened is people didn't get time to
+repeat and so the trace of memory trace
+of this task went on decreasing till it
+reached a very low level which is nearly
+0.1 here the point one chances of
+accuracy here after 18 second also
+another important thing that was
+demonstrated here was that the time
+period for which any item get stored on
+to the short term store and the time
+period which was determined through
+their experiments by Brown Peterson was
+eighteen to twenty second this is the
+time period through which an item will
+be in your short-term memory if not
+rehearsed and after twenty second a
+rehearsal doesn't happen then most items
+from the short-term memory will go away
+and so the duration of the short-term
+memory from this experiment is twenty
+second now Brown and Peterson task which
+explains decay as the reason for the
+delay can also be explained by the walk
+and norman task but before that let's
+look at the results from broaden
+Peterson tasks the study interpreted
+that freely talk recall occurs during
+the decay of due to the key of memory
+traces and though within the first
+twenty second no another group is said
+that vagan norman tried to explain this
+result in terms of interference and so
+what they said is that they challenged
+the decayed here we are forgetting in
+memory and proposed a different
+mechanism which is called interference
+so interference as I explained to you is
+a phenomena in which what happens is
+that two items which are similar in
+nature they compete with each other and
+so they block the recall of one item or
+the important thing two
+remember is that they have to be two
+tasks have to be similar in nature and
+they have to be competing if they're not
+competing if people are not focusing on
+both the task then the interference
+phenomena will not happen so basically
+then the fearest theory says that some
+information displaces another
+information making the farmer hard to
+retrieve as the second item competes
+with the first item and since they are
+similar in nature
+people confuse and the second item is
+pushed out or interfered out from the
+memory so an explanation of the same
+Brandon Peterson task or Varga Norman's
+interpretation of what happens in terms
+of forgetting and time delay in SDM
+another task was design which is called
+the probe digit task for explaining the
+interference phenomena or interference
+for getting from short-term memory now
+what was the task it's a very easy task
+to look at so it's a 16-digit number
+task so a 16 digit is presented to you
+at one go so you have things like 2 4 6
+8 4 6 3 4 3 6 8 9 4 3 4 2 3 4 5 6 so
+this kind of a setup is presented to you
+so one example is given here the last
+digit now this digit then serves as a
+cue so or digit like this
+a string like this is presented to
+people and what they have to do is to
+first recognize the last digit and this
+serves the cue now what is the task the
+task is to basically go ahead and name
+the letter which preceded the first
+occurrence of the last word here what do
+I mean by this what I mean by this is
+that this six which is the last digit in
+this string this serves as a cue and so
+that is the first occurrence of this the
+first occurrence of this is here and so
+the letter B precedes the first
+occurrence of the six is four and so
+what people had to say is four was the
+correct answer so you had two people
+have two last digit in the number is a
+cue for the participant a report a
+number that the
+number that first came after the first
+occurrence the queue in the number and
+so that is what it is and so far is the
+answer here so this is the task a 16
+digit number is presented you have to
+remember the last digit remember the
+first occurrence of the last digit and
+remember the number which preceded the
+first office of the last digit now there
+are two versions of this task in the
+first version letters represented very
+fast so either very quickly at the rate
+of four digit per second so this whole
+string was presented at the rate of four
+digit for a second and so people had to
+then go ahead and so first the string
+was presented and then the string was
+presented in a manner in that four
+digits very quickly were presented to
+people and then from the last one so for
+for the sixteenths for presentation are
+there four digits presented together
+into four different times makes it 16 so
+you have to last remember the last one
+remember the last digit and then
+remember where the first occurrence or
+the last digit on the fourth panel was
+there and then go ahead and tell me
+the first number which occurred in the
+the first occurrence of the last cue and
+or there was another presentation which
+was one digit for a second so 16 seconds
+16 repetitions rather than here four
+repetitions were done with four digits
+or a sixteen repetition one number at a
+time was presented people who remember
+asked to do the task no walk in Norman
+the reason that if decay cost forgetting
+in STM then participants receiving a
+slow rate of presentation should not be
+able should not be as good at recalling
+digits from early in the number which
+basically means that if the first
+occurrence of the last digit in the 16
+digit string comes in the first half or
+towards the middle of the list then
+people should not be able to remember
+this but this is not what happened
+keeping an Underwood they found that
+forgetting in the brown Peterson tasks
+doesn't happen until after few trials so
+what happens is this is not the answer
+they found they found that they have a
+similar kind of
+forgetting which was then but then if
+words they're similar if if DK is the
+reason then this kind of answer should
+come but this is not what they found
+they found that quite similar kind of
+forgetting into both the versions of the
+task and so now this Kapil and Underwood
+they found that forgetting in the brown
+and Peterson toss doesn't happen until a
+few trials had happened they suggested
+is overtime proactive interference
+brings up so what happens is that well
+in in in the four into four kind of a
+set what happens is due to proactive
+interference if they disappear in the
+later half if the first presentation of
+the cue happen in the later half
+forgetting was more but if the
+presentation was in the earlier half
+forgetting was less and so this kind of
+an result was what was form from the
+worgen Norman which basically suggests
+that interference is the reason for
+forgetting so this is how the task looks
+like this is 16-digit task this is the
+first occurrence of it and this is what
+you tend to remember and this is what
+affects our presentation rate versus
+number of interfering item is looked at
+so if four items are there then you tend
+to have so if you look here the number
+of interfering items are five if this is
+there at four second pour the 1 second
+end the four second presentations are
+almost similar in terms of relative
+accuracy but then if the number of
+digits interfering various number of
+interfering items are more which means
+that the number of letters which are
+presented or number of letters which
+precede the first occurrence of the Q so
+if my Q is like this let's say sixteen
+digit and so four digits so a block of
+four into four what happens is if my Q
+the first occurrence of Q falls here
+somewhere then the chances of forgetting
+the accuracy of forget will go down in
+the for presentation group but not in
+the one presentation group but then what
+happens is if I am presenting it in one
+one word at a time there won't be any
+interference and so
+there will be no forgetting at all here
+and so this basically is a concrete
+example to basically go ahead and say
+that with interferences the reason for
+forgetting and so this graph in itself
+explains that a four words per second is
+there and how it relates to number of
+interfering items is the number of
+interfering item is five this is where
+both the list matches but as it goes to
+seven the one word has lower accuracy
+then the forward items and this happens
+because in the one word the interference
+will be more since one words are
+presented one after another and so there
+will be a lot of interference but in
+this there are only four presentations
+of the interference will be less then
+the question is is forgetting from STM
+rdk or interference related phenomena
+now it's a badly first question why
+because it rules are the possibility for
+lost by both the phenomena and so broad
+Baddeley said in 1990 I used that phrase
+decay does occur from STM alpha and we
+also propose that decay does occur in
+fact an essential to avoid catastrophic
+throw at proactive interferences
+basically both these people go ahead and
+say that it is not one over the other
+kind of a thing both the factors decay
+an interference they go ahead and then
+they basically relate to each other to
+actually go ahead and show that this
+kind of interference has happened or
+both the items are responsible for the
+interference now these are authors
+believe that information must be updated
+frequently in memory its current value
+decays to prevent interference with the
+previous values so another interesting
+thing that can be that was looked at is
+that if interference is there is a
+reason why forgetting happens in
+short-term memory phenomena which is
+called the release from proactive
+interference now as as we saw in the
+worgen normal study it was basically
+proactive interference which was the
+reason why forgetting happened and
+forgetting happen in the one word item
+very clear explanation what happens is
+since
+is one word presentation so there will
+be 16 occurrences of it and so more
+number of interferences but in the for
+white a word items or for red
+presentation there are only four
+different presentations which are there
+and so interferences are unless the
+proactive interference is the lesson
+number and so what we have here an
+interesting thing that we have here is
+that a phenomena called proactive
+release now what is proactive release so
+we concern born an experiment was done
+by weekends and born in 1963 and what
+these people said is that the phenomena
+of proactive release from proactive
+interference should be evident if
+interference is the reason for
+forgetting in the brown Peters and tasks
+now what this phenomena really says is
+that if interference happens because
+similar items are presented so if items
+are different items are presented to
+people then what would happen is they
+would show interference or the
+performance would increase and that is
+what exactly happen so what these people
+showed that if similar type of items was
+used in Brown and Peterson task so if
+letters only may use then people had
+lower higher forgetting rate and that
+because it was due to interference but
+then if on one particular expects
+presentation you had letters everywhere
+as well as digits coming in so you have
+a number and a 16 digit number where you
+have letters and digits fill in to it
+and so you have to tell me the last
+occurrence of either a letter in a digit
+so the display would look like something
+like 1 to 4 is C's 6 4 3 D K kind of a
+thing and let's say e is the last year
+and so or a is the last year and so you
+have to tell me then the digit 4 which
+comes out to the first occurrence of the
+letter a in this case the forgetting was
+known to
+unless the reason given was released
+from proactive interference which means
+that when items were switched
+so here what happened is items were
+switched and so some items were letters
+and some items were numbers in this case
+the proactive interference is well less
+and so in those cases where you have to
+remember a letter a digit after letter
+in those cases the interferences were
+less but if let's say if the last word
+here is not K let's say if it is 4 and
+people have to remember the number which
+comes or that the item which comes after
+the first occurrence of 4 which is 2 now
+since 2 and 4 are both digits and so
+they will create more proactive
+interference but if let's say the last
+word is here a or let's say that this is
+4 and a comes in before 4 in this case
+is a is remembered more so if the word
+which appears after the first occurrence
+of the Q is a different word it's not
+the same as the one which is the Q when
+productive interferences will be very
+less because for the phenomena which is
+interference so how is information
+retrieved from short-term memory that's
+another thing to be looked at and
+interesting so we looked at how it is
+stored what is the manner in which
+forgetting happens what is the time and
+what is the duration for which an item
+it stays in STM and what is the kind of
+coding which happens in SDM
+so in this particular next step we look
+into how is information retrieved from
+SDM what is the way in it so Saul
+Steinberg he designed in explained to
+looked at how items are actually
+retrieved back from SDM and what did he
+find
+so what was his task like his task was
+search for information in serial or
+parallel form so he had people look at a
+display like this where seven or few
+letters where so seven or few letters
+were given to people to be kept in the
+memory bank to be remembered into
+memory and then later on a cue was
+presented to people so let's say we have
+seven or few letters which people have
+to remember so these letters are a B K T
+kind of a thing and then they are
+presented with C people are presented we
+see and what they have to look at is to
+find out whether this C is presented
+here or not and so they have to hold
+this in memory and then later on verify
+this cue or this probe cue whether it is
+present here or not and then so from his
+experiments he came up with a very
+interesting example or a very
+interesting proposal and what is this
+proposal he conducted this kind of an
+experiment and found some interesting
+results what was it first something
+called parallel search happened so when
+comparison of probe is done with all
+items stored in the STM at the same time
+then it is something called parallel
+search so if C is searched with every of
+this item every one of this item it is a
+parallel search but when us for
+comparison or the probe is done with all
+items stored in the STM one at a time it
+is called a serial search so the
+question here was this kind of two
+searches could be the result result of
+an experiment now if you remember the
+first lecture we talked about something
+called structure process trade-off and
+we saw how stalls are strong words the
+same experiment is described here how
+solid Starnberg went ahead and described
+this whole process of serial versus
+parallel search and he gave reasons for
+what really happens how the structure
+and the process compensate for each
+other and is the same thing now within
+the serial search Steinberg
+basically proposed that there are two
+versions of the serial search the one is
+called the self terminating search in
+which what happens is as soon as so this
+C will be searched with a or compared
+with a if it is not a match this C will
+again go into searching with B which is
+the next letter so this is my letter
+items which is in the memory set and
+since my probe goes ahead and
+matches I have seen here and when as
+soon as the sea matches with this a self
+termination happens so the list is not
+further search doc although the list has
+seven items as soon as the sea is there
+here I ever know so the match or the
+matching proceeds to be if it is not
+match here it will proceed here but as
+soon as the match is there a seraph
+termination will happen a sort of
+termination will take place but in
+another form of the search which is
+called the exhaustive search
+what Strandberg says is that no matter
+the fact that this sea is matched here
+this C is again matched to the next item
+which could be a B or which could be
+another C so the whole number of items
+which are there in the memory set will
+be searched one after another with a
+probe and that is what is called a
+serial exhaustive search and what
+Sternberg argued is that the way in
+which short-term memory starts is
+basically the serial exhaustive search
+so no matter if even if you get a clear
+search first of all there are no
+parallel searches in STM there are
+always serial searches and even if the
+serial search is done it is not a self
+terminating search even if a match is
+found to the probe even if some item
+matches the item that you're looking for
+in your SDM the search will continue
+till the end of the list this is because
+the exhaustive search takes place and
+the one probable reason could be the
+fact that multiple copies of the item
+would be there and so the requirement of
+that makes you to do something called
+the exhaustive serial exhaustive search
+and so to test so a review done by hunt
+1978 found that people of all sorts
+showed results consistent with the idea
+that retrieval from STM uses serial
+exhaustive search
+although the search rate changes with
+the group now derozen take a 1976
+demonstrated that with certain stimuli
+people apparently do such STM in a
+parallel way so basically D Rosa came up
+with an experiment to show that the both
+the serial as
+the parallel search does happen in STM
+and so the designed sequence are kind of
+a stimuli to test that and the results
+of their study was so let's look at the
+stimuli that they use for their
+experiment so in their experiment they
+gave a situation like this stimulus like
+this now if you look at the stimulus
+there are one two three four five
+different stimuli and what we look at is
+basically a stimuli in action so there
+are several natural actions of the
+stimuli for example look at this person
+who's playing a god so you see that it
+moves from frame to frame as you look at
+his divert so he gets up and prepares
+themselves make this move pens down
+launches himself into the air then dies
+forward makes this move dies forward and
+then lands below or look at how this
+word goes and reply so these are the
+ordinal positions these are the
+positions in which basically the
+sequence of action should go and these
+are the number of actions if these
+stimuli is done so what is the result of
+a study like this what happens in a
+study like this so in a study like this
+DeRosa found that the stimuli consisted
+both of as I said it consisted a number
+of ordered pictures in one after another
+and so the result of the study says that
+if the memory set consisted of some
+randomly selected subset of nine
+pictures from any of the cells the
+results were similar to Starbucks
+results so if let's say that I give you
+a number of positions to verify so what
+I do is let's say from the first stimuli
+here I take in ordinal positions 1 3 2 6
+9 4 9 and then I ask you to verify
+whether 5 is there or let's say 4 is
+there in this set or not so that is what
+you need to do so this is the fourth
+position which is there and I have
+selected the first position the third
+position the fourth position obvious
+the the second position then then so
+this is the way in which it it is the
+sixth position followed by the fourth
+position and the ninth position and so
+they are in an unordered list and so
+you'll have to go and search whether
+this is there or not so in this kind of
+search when the queue has to be searched
+in a display like this in a situation
+like this in a feature like this then a
+serial exhaustive search is what happens
+here but then interestingly if an
+ordered set is used so instead of using
+instead of using this kind of a random
+sequence if I give an ordered set so if
+I take positions number 1 3 5 7 8 &amp; 9
+and if I give you to find whether 3 is
+present here or not parallel search
+exists so items when they are presented
+randomly if the memory said if the test
+item that you have to find out in the
+memory set and the memory set consists
+an unordered kind of a setup and another
+kind of a list where all ordinary
+positions are randomly mixed ordinal
+positions are present then in those
+cases what really happens is the search
+is more or less of the type which is
+popular to what Starnberg says it is
+serial exhaustive search in nature but
+then when if I have an ordered position
+or if I have there an ordered search in
+those cases so if I take 1 3 5 7 8 9 and
+so it's rather 3 is present or not there
+are parallel searches which results here
+so that is what this says so results
+were similar to Strandberg when random
+selected subject was taken but when in
+order substrates were taken took
+participants no longer to search for
+file item then it then 4 2 and so
+generally there was paralyzed so this
+raises suggest that SEM does treat
+organized material in different form the
+organized material also may be process
+apparently work differently as a
+function of material that has to be
+remembered so basically the search is
+both can be both
+cereal or different different types of
+searches are there but when it is
+ordered material it could be cereal
+exhaustive when it is not ordered maybe
+it is parallel or it could be a simple
+sell terminating sells such so depending
+on the material which is being presented
+in the CAI type of task which is there
+the it is decided what kind of search
+will happen now
+the problem was that Sdn as we saw here
+is basically then quickly define what it
+is esta is basically a short term memory
+esteem is a short term store which has
+first of all a limited capacity so one
+of the things which you should be aware
+of is that it has a limited capacity and
+the capacity here is 7 plus or minus 2
+although ian's need came up with a new
+idea that it has 4 plus or minus two
+items that is what it is but will not
+discuss this right now will focus on to
+the original Miller's idea then it has
+seven plus or minus two items to be
+looked at then the second thing is the
+way items are coded and so mostly a
+caustic coding happens in short-term
+memory the type of coding that is
+happens in short-term memory or the way
+items are encoded onto short-term memory
+is elastic in nature it is basically in
+terms of verbal and rehearsal is the
+main reason for this kind of storage and
+then the time period for which any item
+can remain the short-term store without
+being reputation is 18 to 20 second and
+this is an output from the brown and
+Peterson task
+also the fact that forgetting mostly in
+short-term memory can happen both from
+decay and from interference mostly it is
+interference but then we have decay also
+as a reason and so mostly it is
+interplay between decay
+interference which lets you lose
+memories from short-term store and the
+last point that has to be that can we
+remember here or that has any value here
+is that retrieval from this kind of a
+store is basically mostly in a serial
+exhaustive manner so serial exhaustive
+search basically a serial exhaustive way
+of replacement of this particular
+materials but depending on the type of
+material use this serial exhaustive
+search could also turn out to be
+parallel exhaustive search or some other
+form of such which is needed now we have
+looked at what STM is and what it does
+and what is the various ways in which
+STM works but there was debate which was
+going on within the community of
+cognitive psychologists and that was
+that
+at times STM was somehow not approved of
+what do I mean by this if you look at
+the the first instance of my definition
+of the short-term store I explained to
+you there is something called the serial
+position effect and so what we found out
+in the serial position effect is it's an
+effect like this so what happens is a
+list of numbers are given to you a list
+of items are given to you and asked to
+remember then what happens is items at
+the beginning of the list and items at
+the end of the list are remembered more
+than items at the middle of the and
+those two two things are called the
+primacy and recency effect now it was
+found out in several experiments that if
+items which had some kind of a personal
+meaning to people and even if they were
+presented in the middle of the list they
+had a higher chance of remembering and
+so this played several people or several
+psychologists to go ahead and question
+this idea of a single store
+which doesn't do anything but stores
+information for some period period of
+time and no act onto it the question
+this particular store so the question
+was whether short-term store was a
+static store or a dynamic store and a
+number of questions of time also this
+interference does interference
+work on to all kinds of items which is
+stored so if there is a visual item and
+if there is an order to the item where
+whether this kind of interference that
+we talk about whether it happens on on
+two different different modalities or
+different different encodings of items
+which is there
+so if different versions of items are
+presented or different types of items uh
+presented whether this interference will
+there be there or not and several
+studies reported that it was not there
+and so was conceived the idea of working
+memory so in the coming class we look
+into what is working memory and how does
+is working memory concept go ahead and
+take up or basically replace the concept
+of short-term memory thank you
