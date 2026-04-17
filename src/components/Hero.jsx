@@ -1,0 +1,37 @@
+import React from 'react';
+import clsx from 'clsx';
+import { twMerge } from 'tailwind-merge';
+
+export function cn(...inputs) {
+  return twMerge(clsx(inputs));
+}
+
+export default function Hero() {
+  return (
+    <div className="relative z-10 w-full max-w-7xl mx-auto px-6 lg:px-12 flex flex-col items-center text-center justify-center min-h-screen">
+      <div className="space-y-4">
+        <h2 className="text-sm md:text-base font-light tracking-[0.3em] uppercase text-white/70">
+          Exploration
+        </h2>
+        <h1 className="text-white drop-shadow-sm flex flex-col font-medium">
+          <span>Cognitive</span>
+          <span className="italic font-light text-white/90">Psychology</span>
+        </h1>
+        <p className="max-w-md mx-auto text-white/80 font-light mt-8 text-lg leading-relaxed">
+          Embark on an interactive journey through the complexities of the human mind. Test your knowledge.
+        </p>
+      </div>
+
+      <div className="mt-16 relative">
+        <a 
+          href="/quiz.html" 
+          className="group relative inline-flex items-center justify-center px-8 py-4 font-normal text-black bg-white rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:shadow-[0_0_40px_rgba(255,255,255,0.4)]"
+          style={{ cursor: 'none' }}
+        >
+          <span className="relative z-10 tracking-widest uppercase text-sm">Begin the Quiz</span>
+          <div className="absolute inset-0 h-full w-full bg-gradient-to-r from-gray-100 to-white/90 opacity-0 group-hover:opacity-100 transition duration-500"></div>
+        </a>
+      </div>
+    </div>
+  );
+}
