@@ -101,8 +101,8 @@
     }
 
     .logo-icon {
-      font-size: 4rem;
-      display: block;
+      display: flex;
+      justify-content: center;
       margin-bottom: .5rem;
       filter: drop-shadow(0 0 20px rgba(0,0,0,0.1));
       animation: float 3s ease-in-out infinite;
@@ -384,6 +384,9 @@
       letter-spacing: 1px;
       margin-bottom: .8rem;
       font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
     }
 
     .qtext {
@@ -787,7 +790,7 @@
 
   <!-- HOME -->
   <div id="home" class="screen active">
-    <span class="logo-icon">&#10022;</span>
+    <span class="logo-icon"><i data-lucide="brain-circuit" style="width:68px;height:68px;stroke-width:1.5;"></i></span>
     <h1>Cognitive Psychology Quiz</h1>
     <p class="subtitle">250 questions across 14 topics & 12 weeks of cognitive science</p>
     <div class="mode-toggle">
