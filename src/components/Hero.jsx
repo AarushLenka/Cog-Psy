@@ -11,15 +11,12 @@ export default function Hero() {
     <div className="relative z-10 w-full max-w-7xl mx-auto px-6 lg:px-12 flex flex-col items-center text-center justify-center min-h-screen">
       <div className="space-y-4">
         <h2 className="text-sm md:text-base font-light tracking-[0.3em] uppercase text-white/70">
-          Exploration
+          NPTEL 2025-26
         </h2>
         <h1 className="text-white drop-shadow-sm flex flex-col font-medium">
-          <span>Cognitive</span>
-          <span className="italic font-light text-white/90">Psychology</span>
+          <span className="text-[0.6em] font-normal leading-tight opacity-90 tracking-wide uppercase">Introduction to</span>
+          <span className="italic font-light text-white/90">Cognitive Psychology</span>
         </h1>
-        <p className="max-w-md mx-auto text-white/80 font-light mt-8 text-lg leading-relaxed">
-          Embark on an interactive journey through the complexities of the human mind. Test your knowledge.
-        </p>
       </div>
 
       <div className="mt-16 relative">
@@ -31,6 +28,11 @@ export default function Hero() {
           <span className="relative z-10 tracking-widest uppercase text-sm">Begin the Quiz</span>
           <div className="absolute inset-0 h-full w-full bg-gradient-to-r from-gray-100 to-white/90 opacity-0 group-hover:opacity-100 transition duration-500"></div>
         </a>
+      </div>
+
+      <div className="absolute bottom-8 left-0 right-0 flex flex-col items-center gap-3 text-white/50 text-xs md:text-sm font-light tracking-wide px-4">
+        <p>If you find inaccuracies in the MCQs, please raise an issue in the <a href="https://github.com/AarushLenka/Cog-Psy" target="_blank" rel="noopener noreferrer" className="underline hover:text-white transition-colors" style={{ cursor: 'none' }}>GitHub repo</a>.</p>
+        <p>Made with &lt;3 by Aarush</p>
       </div>
     </div>
   );

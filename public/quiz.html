@@ -6,55 +6,72 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cognitive Psychology Quiz</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
     :root {
-      --bg: #0f0f1a;
-      --surface: #1a1a2e;
-      --surface2: #16213e;
-      --accent: #e94560;
-      --text: #eaeaea;
-      --muted: #a0a0b0;
-      --correct: #00b894;
-      --wrong: #e17055;
-      --border: #2a2a4a;
-      --glow: rgba(233, 69, 96, 0.3);
+      --bg: #d8a7a7;
+      --surface: rgba(255, 255, 255, 0.25);
+      --surface2: rgba(255, 255, 255, 0.45);
+      --accent: #111111;
+      --text: #1a1a1a;
+      --muted: #4f3b3b;
+      --correct: #6a8d73;
+      --wrong: #b56c6c;
+      --border: rgba(255, 255, 255, 0.3);
+      --glow: rgba(17, 17, 17, 0.1);
+    }
+    h1, .subtitle { color: #fff !important; }
+    .tc, .qcard, .opt, .rcard, .expl, .sbox, .ri {
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
     }
 
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
+      cursor: none !important;
     }
 
     body {
-      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-family: 'Inter', system-ui, sans-serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
       overflow-x: hidden;
     }
 
-    body::before {
-      content: '';
-      position: fixed;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
-      background: radial-gradient(ellipse at 20% 50%, rgba(83, 52, 131, .15) 0%, transparent 50%), radial-gradient(ellipse at 80% 20%, rgba(233, 69, 96, .1) 0%, transparent 50%), radial-gradient(ellipse at 50% 80%, rgba(15, 52, 96, .2) 0%, transparent 50%);
-      animation: bgP 8s ease-in-out infinite alternate;
-      pointer-events: none;
-      z-index: 0;
+    .noise-overlay {
+      position: fixed; inset: 0; pointer-events: none; z-index: 50;
+      mix-blend-mode: overlay; opacity: 0.08;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox=%220 0 200 200%22 xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cfilter id=%22noiseFilter%22%3E%3CfeTurbulence type=%22fractalNoise%22 baseFrequency=%220.8%22 numOctaves=%223%22 stitchTiles=%22stitch%22/%3E%3C/filter%3E%3Crect width=%22100%25%22 height=%22100%25%22 filter=%22url(%23noiseFilter)%22/%3E%3C/svg%3E");
     }
-
-    @keyframes bgP {
-      0% {
-        transform: scale(1) rotate(0deg);
-      }
-
-      100% {
-        transform: scale(1.1) rotate(3deg);
-      }
+    body { cursor: none; }
+    .custom-cursor {
+      position: fixed; top: 0; left: 0; width: 32px; height: 32px;
+      border-radius: 50%; border: 1px solid rgba(255,255,255,0.5);
+      mix-blend-mode: difference; pointer-events: none; z-index: 100;
+      transform: translate(-50%, -50%); will-change: transform;
     }
+    .custom-cursor-dot {
+      position: fixed; top: 0; left: 0; width: 4px; height: 4px;
+      background: white; border-radius: 50%;
+      mix-blend-mode: difference; pointer-events: none; z-index: 100;
+      transform: translate(-50%, -50%); will-change: transform;
+    }
+    .blob-bg-container {
+      position: fixed; inset: 0; overflow: hidden; pointer-events: none; z-index: 0;
+    }
+    .blob-blur-layer {
+      position: absolute; inset: 0; filter: blur(80px);
+    }
+    .fluid-blob {
+      position: absolute; mix-blend-mode: multiply; opacity: 0.8; will-change: transform;
+    }
+    .fluid-blob.b1 { width: 45vw; height: 45vw; background: black; top: -20%; left: -20%; border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
+    .fluid-blob.b2 { width: 35vw; height: 35vw; background: #1a1a1a; top: 10%; left: 40%; border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; }
+    .fluid-blob.b3 { width: 40vw; height: 50vw; background: rgba(0,0,0,0.9); top: 30%; left: 10%; border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
+    .fluid-blob.b4 { width: 50vw; height: 40vw; background: rgba(0,0,0,0.8); top: 60%; left: 50%; border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; }
+    .fluid-blob.b5 { width: 60vw; height: 60vw; background: black; top: 50%; left: -10%; border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
 
     .screen {
       position: relative;
@@ -87,7 +104,7 @@
       font-size: 4rem;
       display: block;
       margin-bottom: .5rem;
-      filter: drop-shadow(0 0 20px var(--accent));
+      filter: drop-shadow(0 0 20px rgba(0,0,0,0.1));
       animation: float 3s ease-in-out infinite;
     }
 
@@ -104,13 +121,11 @@
     }
 
     h1 {
-      font-size: clamp(2rem, 5vw, 3.5rem);
-      font-weight: 800;
-      background: linear-gradient(135deg, #fff 0%, var(--accent) 50%, #a855f7 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      line-height: 1.2;
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 5vw, 4rem);
+      font-weight: 500;
+      color: #111;
+      line-height: 1.1;
       margin-bottom: .5rem;
     }
 
@@ -145,9 +160,9 @@
     }
 
     .mode-btn.active {
-      background: linear-gradient(135deg, var(--accent), #a855f7);
+      background: #111;
       color: #fff;
-      box-shadow: 0 4px 15px var(--glow);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     }
 
     .mode-btn:hover:not(.active) {
@@ -180,9 +195,12 @@
 
     .tc.sel {
       border-color: var(--accent);
-      background: rgba(233, 69, 96, .1);
+      background: #111;
+      color: #fff;
       box-shadow: 0 0 20px var(--glow);
     }
+    .tc.sel .tq { color: rgba(255,255,255,0.7); }
+    .tc.sel .tn, .tc.sel .ti i { color: #fff; }
 
     .tc .ti {
       font-size: 1.8rem;
@@ -237,7 +255,7 @@
     }
 
     .btn-start {
-      background: linear-gradient(135deg, var(--accent), #a855f7);
+      background: #111;
       color: #fff;
       border: none;
       padding: 1rem 3rem;
@@ -290,6 +308,14 @@
     .badge span {
       color: var(--text);
       font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+    
+    .badge span svg {
+      width: 1.2em;
+      height: 1.2em;
     }
 
     .tbadge {
@@ -335,7 +361,7 @@
 
     .pb {
       height: 100%;
-      background: linear-gradient(90deg, var(--accent), #a855f7);
+      background: #111;
       border-radius: 10px;
       transition: width .4s ease;
     }
@@ -350,15 +376,6 @@
       overflow: hidden;
     }
 
-    .qcard::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      height: 3px;
-      background: linear-gradient(90deg, var(--accent), #a855f7);
-    }
 
     .qtopic {
       font-size: .72rem;
@@ -399,7 +416,8 @@
 
     .opt:hover:not(:disabled) {
       border-color: var(--accent);
-      background: rgba(233, 69, 96, .08);
+      background: var(--accent);
+      color: #fff;
       transform: translateX(4px);
     }
 
@@ -419,14 +437,14 @@
     }
 
     .opt:hover:not(:disabled) .ol {
-      background: var(--accent);
-      border-color: var(--accent);
+      background: transparent;
+      border-color: rgba(255,255,255,0.5);
       color: #fff;
     }
 
     .opt.correct {
       border-color: var(--correct);
-      background: rgba(0, 184, 148, .12);
+      background: rgba(106, 141, 115, 0.25);
     }
 
     .opt.correct .ol {
@@ -437,7 +455,7 @@
 
     .opt.wrong {
       border-color: var(--wrong);
-      background: rgba(225, 112, 85, .12);
+      background: rgba(181, 108, 108, 0.25);
     }
 
     .opt.wrong .ol {
@@ -453,7 +471,6 @@
     .expl {
       background: var(--surface2);
       border: 1px solid var(--border);
-      border-left: 3px solid var(--accent);
       border-radius: 10px;
       padding: 1rem 1.2rem;
       font-size: .88rem;
@@ -499,7 +516,7 @@
     }
 
     .btn-next {
-      background: linear-gradient(135deg, var(--accent), #a855f7);
+      background: #111;
       color: #fff;
       border: none;
       padding: .7rem 2rem;
@@ -547,7 +564,7 @@
       left: 0;
       right: 0;
       height: 4px;
-      background: linear-gradient(90deg, var(--accent), #a855f7, var(--correct));
+      background: #111;
     }
 
     .remoji {
@@ -660,7 +677,7 @@
     }
 
     .btn-retry {
-      background: linear-gradient(135deg, var(--accent), #a855f7);
+      background: #111;
       color: #fff;
       border: none;
       padding: .8rem 2rem;
@@ -754,14 +771,28 @@
 </head>
 
 <body>
+  <!-- INJECTED FLUID AESTHETICS -->
+  <div class="noise-overlay"></div>
+  <div class="custom-cursor"></div>
+  <div class="custom-cursor-dot"></div>
+  <div class="blob-bg-container">
+    <div class="blob-blur-layer">
+      <div class="fluid-blob b1"></div>
+      <div class="fluid-blob b2"></div>
+      <div class="fluid-blob b3"></div>
+      <div class="fluid-blob b4"></div>
+      <div class="fluid-blob b5"></div>
+    </div>
+  </div>
+
   <!-- HOME -->
   <div id="home" class="screen active">
     <span class="logo-icon">&#10022;</span>
     <h1>Cognitive Psychology Quiz</h1>
     <p class="subtitle">250 questions across 14 topics & 12 weeks of cognitive science</p>
     <div class="mode-toggle">
-      <button class="mode-btn active" id="mode-topic" onclick="setMode('topic')">📚 By Topic</button>
-      <button class="mode-btn" id="mode-week" onclick="setMode('week')">📅 By Week</button>
+      <button class="mode-btn active" id="mode-topic" onclick="setMode('topic')"><i data-lucide="book-open" style="width:16px;height:16px;margin-bottom:-2px"></i> By Topic</button>
+      <button class="mode-btn" id="mode-week" onclick="setMode('week')"><i data-lucide="calendar" style="width:16px;height:16px;margin-bottom:-2px"></i> By Week</button>
     </div>
     <div class="topic-grid" id="topic-grid"></div>
 
@@ -824,6 +855,7 @@
     </div>
   </div>
 
+  <script src="https://unpkg.com/lucide@latest"></script>
   <script src="questions.js"></script>
   <script>
     // ── State ──────────────────────────────────────────────────────────────────
@@ -831,18 +863,18 @@
 
     // ── Week metadata ─────────────────────────────────────────────────────────
     const WEEK_INFO = {
-      1: { label: 'History & Research Methods', icon: '📜' },
-      2: { label: 'Object Perception & Recognition', icon: '👁️' },
-      3: { label: 'Attention', icon: '🎯' },
-      4: { label: 'Memory & Working Memory', icon: '🧠' },
-      5: { label: 'Long-Term Memory', icon: '📚' },
-      6: { label: 'Semantic Memory', icon: '🕸️' },
-      7: { label: 'Concepts & Categories', icon: '🗂️' },
-      8: { label: 'Visual & Spatial Memory', icon: '🖼️' },
-      9: { label: 'Human Language Skills', icon: '💬' },
-      10: { label: 'Thought Processes & Problem Solving', icon: '🧩' },
-      11: { label: 'Reasoning', icon: '⚖️' },
-      12: { label: 'Decision Making', icon: '🎲' }
+      1: { label: 'History & Research Methods', icon: '<i data-lucide="scroll"></i>' },
+      2: { label: 'Object Perception & Recognition', icon: '<i data-lucide="eye"></i>' },
+      3: { label: 'Attention', icon: '<i data-lucide="target"></i>' },
+      4: { label: 'Memory & Working Memory', icon: '<i data-lucide="brain"></i>' },
+      5: { label: 'Long-Term Memory', icon: '<i data-lucide="book-open"></i>' },
+      6: { label: 'Semantic Memory', icon: '<i data-lucide="network"></i>' },
+      7: { label: 'Concepts & Categories', icon: '<i data-lucide="folder-open"></i>' },
+      8: { label: 'Visual & Spatial Memory', icon: '<i data-lucide="image"></i>' },
+      9: { label: 'Human Language Skills', icon: '<i data-lucide="message-square"></i>' },
+      10: { label: 'Thought Processes & Problem Solving', icon: '<i data-lucide="puzzle"></i>' },
+      11: { label: 'Reasoning', icon: '<i data-lucide="scale"></i>' },
+      12: { label: 'Decision Making', icon: '<i data-lucide="dice-5"></i>' }
     };
 
     // ── Boot ───────────────────────────────────────────────────────────────────
@@ -866,7 +898,7 @@
       grid.innerHTML = '';
       const all = document.createElement('div');
       all.className = 'tc sel'; all.dataset.topic = '__all__';
-      all.innerHTML = `<div class="ti">🧠</div><div class="tn">All Topics</div><div class="tq">${QUESTIONS.length} questions</div>`;
+      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Topics</div><div class="tq">${QUESTIONS.length} questions</div>`;
       all.onclick = () => toggleTopic(all, '__all__');
       grid.appendChild(all);
       selTopics.add('__all__');
@@ -877,6 +909,7 @@
         d.onclick = () => toggleTopic(d, name);
         grid.appendChild(d);
       });
+      setTimeout(() => lucide.createIcons(), 10);
     }
 
     function buildWeekGrid() {
@@ -888,7 +921,7 @@
       // All weeks card
       const all = document.createElement('div');
       all.className = 'tc sel'; all.dataset.week = '__all__';
-      all.innerHTML = `<div class="ti">📅</div><div class="tn">All Weeks</div><div class="tq">${QUESTIONS.length} questions</div>`;
+      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Weeks</div><div class="tq">${QUESTIONS.length} questions</div>`;
       all.onclick = () => toggleWeek(all, '__all__');
       grid.appendChild(all);
       selWeeks.add('__all__');
@@ -900,6 +933,7 @@
         d.onclick = () => toggleWeek(d, String(w));
         grid.appendChild(d);
       }
+      setTimeout(() => lucide.createIcons(), 10);
     }
 
     function toggleTopic(el, name) {
@@ -947,8 +981,8 @@
     function loadQ() {
       const q = current[idx];
       document.getElementById('qc').textContent = idx + 1;
-      document.getElementById('qtopic').textContent = q.topicIcon + ' ' + q.topic;
-      document.getElementById('qlabel').textContent = q.topicIcon + ' ' + q.topic + (mode === 'week' ? ' • Week ' + String(q.week).padStart(2, '0') : '');
+      document.getElementById('qtopic').innerHTML = q.topicIcon + ' ' + q.topic;
+      document.getElementById('qlabel').innerHTML = q.topicIcon + ' ' + q.topic + (mode === 'week' ? ' • Week ' + String(q.week).padStart(2, '0') : '');
       document.getElementById('qtext').textContent = q.q;
       document.getElementById('pb').style.width = ((idx / current.length) * 100) + '%';
       document.getElementById('lscore').textContent = score;
@@ -968,6 +1002,7 @@
         btn.onclick = () => answer(i, shuffledAns, order, q);
         optsEl.appendChild(btn);
       });
+      setTimeout(() => lucide.createIcons(), 10);
     }
 
     function answer(i, correctIdx, order, q) {
@@ -995,12 +1030,12 @@
       document.getElementById('sc').textContent = score;
       document.getElementById('sw').textContent = current.length - score;
       document.getElementById('st').textContent = current.length;
-      let emoji = '🎉', title = 'Quiz Complete!', sub = '';
-      if (pct >= 90) { emoji = '🏆'; title = 'Outstanding!'; sub = 'You\'re a cognitive psychology expert!'; }
-      else if (pct >= 75) { emoji = '🌟'; title = 'Great Job!'; sub = 'Solid understanding of the material.'; }
-      else if (pct >= 60) { emoji = '👍'; title = 'Good Effort!'; sub = 'Keep reviewing and you\'ll master it.'; }
-      else if (pct >= 40) { emoji = '📖'; title = 'Keep Studying!'; sub = 'Review the lectures and try again.'; }
-      else { emoji = '💪'; title = 'Don\'t Give Up!'; sub = 'Go back to the transcripts and try again.'; }
+      let emoji = '<i data-lucide="party-popper" style="width:64px;height:64px;stroke-width:1"></i>', title = 'Quiz Complete!', sub = '';
+      if (pct >= 90) { emoji = '<i data-lucide="award" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Outstanding!'; sub = 'You\'re a cognitive psychology expert!'; }
+      else if (pct >= 75) { emoji = '<i data-lucide="star" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Great Job!'; sub = 'Solid understanding of the material.'; }
+      else if (pct >= 60) { emoji = '<i data-lucide="thumbs-up" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Good Effort!'; sub = 'Keep reviewing and you\'ll master it.'; }
+      else if (pct >= 40) { emoji = '<i data-lucide="book-open" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Keep Studying!'; sub = 'Review the lectures and try again.'; }
+      else { emoji = '<i data-lucide="battery-charging" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Don\'t Give Up!'; sub = 'Go back to the transcripts and try again.'; }
       document.getElementById('remoji').textContent = emoji;
       document.getElementById('rtitle').textContent = title;
       document.getElementById('rsub').textContent = sub + ' (' + pct + '%)';
@@ -1015,11 +1050,71 @@
         rev.appendChild(d);
       });
       show('result');
+      setTimeout(() => lucide.createIcons(), 10);
     }
 
     function retryQuiz() { idx = 0; score = 0; history = []; current = [...pool].sort(() => Math.random() - .5); show('quiz'); loadQ(); }
     function goHome() { show('home'); }
     function show(id) { document.querySelectorAll('.screen').forEach(s => s.classList.remove('active')); document.getElementById(id).classList.add('active'); }
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <script>
+    // Fluid Blobs & Cursor Logic
+    const cursor = document.querySelector('.custom-cursor');
+    const dot = document.querySelector('.custom-cursor-dot');
+    const blobs = document.querySelectorAll('.fluid-blob');
+    
+    const blobsData = [
+      { depth: 0.08, delay: 0 },
+      { depth: -0.05, delay: 0.1 },
+      { depth: 0.04, delay: 0.2 },
+      { depth: 0.02, delay: 0.15 },
+      { depth: 0.1, delay: 0.05 },
+    ];
+
+    let mouseX = window.innerWidth / 2;
+    let mouseY = window.innerHeight / 2;
+
+    window.addEventListener('mousemove', (e) => {
+      mouseX = e.clientX;
+      mouseY = e.clientY;
+      
+      gsap.to(dot, { x: mouseX, y: mouseY, duration: 0 });
+      gsap.to(cursor, { x: mouseX, y: mouseY, duration: 0.6, ease: "power2.out" });
+    });
+
+    gsap.set([cursor, dot], { x: mouseX, y: mouseY, xPercent: -50, yPercent: -50 });
+
+    gsap.ticker.add(() => {
+      blobs.forEach((blob, index) => {
+        const data = blobsData[index];
+        const cx = window.innerWidth / 2;
+        const cy = window.innerHeight / 2;
+        const targetX = (mouseX - cx) * data.depth;
+        const targetY = (mouseY - cy) * data.depth;
+
+        gsap.to(blob, {
+          x: targetX,
+          y: targetY,
+          duration: 2.5 + data.delay,
+          ease: "power2.out",
+          overwrite: "auto"
+        });
+      });
+    });
+
+    blobs.forEach((blob, i) => {
+      gsap.to(blob, {
+        rotation: 360,
+        scaleX: i % 2 === 0 ? 1.1 : 0.9,
+        scaleY: i % 2 === 0 ? 0.9 : 1.1,
+        duration: 15 + i * 2,
+        repeat: -1,
+        yoyo: true,
+        ease: "sine.inOut"
+      });
+    });
   </script>
 </body>
 

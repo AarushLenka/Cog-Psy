@@ -3,7 +3,7 @@ const QUESTIONS = [
     "id": 1,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Which philosophical position holds that knowledge comes primarily from heredity and innate biological factors?",
     "opts": [
       "Empiricism",
@@ -19,7 +19,7 @@ const QUESTIONS = [
     "id": 2,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "John Locke's concept of the mind at birth is best described as:",
     "opts": [
       "A wax tablet full of innate ideas",
@@ -35,7 +35,7 @@ const QUESTIONS = [
     "id": 3,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "William Wundt established the first scientific psychology laboratory in which year and city?",
     "opts": [
       "1859, London",
@@ -51,7 +51,7 @@ const QUESTIONS = [
     "id": 4,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Wundt's structuralism attempted to study consciousness by:",
     "opts": [
       "Observing only external behaviour and stimulus-response associations",
@@ -67,7 +67,7 @@ const QUESTIONS = [
     "id": 5,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Which school of psychology argued that the function of mental processes—not their structure—is what matters?",
     "opts": [
       "Structuralism",
@@ -83,7 +83,7 @@ const QUESTIONS = [
     "id": 6,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "The Gestalt principle that 'the whole is always more than the sum of its parts' directly opposes which school?",
     "opts": [
       "Functionalism",
@@ -99,7 +99,7 @@ const QUESTIONS = [
     "id": 7,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Behaviorism, as championed by Skinner, insisted that psychology should study only:",
     "opts": [
       "Mental images and consciousness",
@@ -115,7 +115,7 @@ const QUESTIONS = [
     "id": 8,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "The cognitive revolution was largely triggered by the development of:",
     "opts": [
       "Brain imaging techniques and neural scanning methods",
@@ -131,7 +131,7 @@ const QUESTIONS = [
     "id": 9,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Which paradigm views cognition as information passing through a series of processing systems?",
     "opts": [
       "Connectionism",
@@ -147,7 +147,7 @@ const QUESTIONS = [
     "id": 10,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Connectionism (parallel distributed processing) proposes that mental experience arises from:",
     "opts": [
       "A single central processor that handles all tasks sequentially",
@@ -163,7 +163,7 @@ const QUESTIONS = [
     "id": 11,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "The evolutionary approach to cognitive psychology emphasises that some cognitive abilities, such as language and depth perception, are:",
     "opts": [
       "Learned entirely through experience",
@@ -179,7 +179,7 @@ const QUESTIONS = [
     "id": 12,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "The ecological approach to cognition stresses that cognitive activities:",
     "opts": [
       "Operate independently of environmental or social influences",
@@ -195,7 +195,7 @@ const QUESTIONS = [
     "id": 13,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "In Sternberg's memory search experiment, as the length of the memorised list increased, verification time:",
     "opts": [
       "Decreased",
@@ -211,7 +211,7 @@ const QUESTIONS = [
     "id": 14,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "The Atkinson-Shiffrin modal model of memory includes which three stores?",
     "opts": [
       "Iconic, echoic, haptic",
@@ -227,7 +227,7 @@ const QUESTIONS = [
     "id": 15,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Plato's metaphor for memory compared it to:",
     "opts": [
       "A computer hard drive",
@@ -243,7 +243,7 @@ const QUESTIONS = [
     "id": 16,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "Which behavioural method measures the percentage of correct responses to assess processing effectiveness?",
     "opts": [
       "Reaction time",
@@ -259,7 +259,7 @@ const QUESTIONS = [
     "id": 17,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "The 'ceiling effect' in accuracy measurement occurs when:",
     "opts": [
       "A task is too difficult and everyone scores near minimum",
@@ -275,7 +275,7 @@ const QUESTIONS = [
     "id": 18,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "The speed-accuracy trade-off means that as accuracy requirements increase:",
     "opts": [
       "Speed also increases",
@@ -291,7 +291,7 @@ const QUESTIONS = [
     "id": 19,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "In the protocol analysis method, participants are asked to:",
     "opts": [
       "Rate their confidence on a numerical scale after each trial",
@@ -307,7 +307,7 @@ const QUESTIONS = [
     "id": 20,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "EEG (electroencephalography) is characterised by excellent temporal resolution but poor:",
     "opts": [
       "Depth sensitivity",
@@ -323,7 +323,7 @@ const QUESTIONS = [
     "id": 21,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "MEG (magnetoencephalography) records which type of brain signal?",
     "opts": [
       "Electrical potentials from the surface of the scalp",
@@ -339,7 +339,7 @@ const QUESTIONS = [
     "id": 22,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "PET scanning using the O-15 isotope works by detecting:",
     "opts": [
       "Changes in blood oxygenation measured through magnetic resonance",
@@ -355,7 +355,7 @@ const QUESTIONS = [
     "id": 23,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "fMRI measures brain activity by detecting:",
     "opts": [
       "Electrical potentials recorded from the scalp surface",
@@ -371,7 +371,7 @@ const QUESTIONS = [
     "id": 24,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "Transcranial Magnetic Stimulation (TMS) is classified as a causal method because it:",
     "opts": [
       "Records electrical activity produced by groups of neurons",
@@ -387,7 +387,7 @@ const QUESTIONS = [
     "id": 25,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "A dissociation in cognitive neuroscience occurs when:",
     "opts": [
       "Two tasks are both impaired equally by the same brain lesion",
@@ -403,7 +403,7 @@ const QUESTIONS = [
     "id": 26,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "An association in cognitive neuroscience is found when:",
     "opts": [
       "Two different processes activate the same brain region",
@@ -419,7 +419,7 @@ const QUESTIONS = [
     "id": 27,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "The 'experimental expectancy effect' is a limitation of which behavioural method?",
     "opts": [
       "Accuracy",
@@ -435,7 +435,7 @@ const QUESTIONS = [
     "id": 28,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "Optical imaging of the brain works on the principle that:",
     "opts": [
       "The brain emits detectable radio wave frequencies",
@@ -451,7 +451,7 @@ const QUESTIONS = [
     "id": 29,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "Box models in cognitive psychology represent:",
     "opts": [
       "Neural network weights and their interconnection strengths",
@@ -467,7 +467,7 @@ const QUESTIONS = [
     "id": 30,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "Which method has the highest invasiveness among the neural correlational methods?",
     "opts": [
       "EEG",
@@ -483,7 +483,7 @@ const QUESTIONS = [
     "id": 31,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The object as it physically exists in the environment is called the:",
     "opts": [
       "Proximal stimulus",
@@ -499,7 +499,7 @@ const QUESTIONS = [
     "id": 32,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The inverted image formed on the retina is called the:",
     "opts": [
       "Distal stimulus",
@@ -515,7 +515,7 @@ const QUESTIONS = [
     "id": 33,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Pattern recognition is best defined as:",
     "opts": [
       "Detecting the basic physical features of a stimulus like edges and colour",
@@ -531,7 +531,7 @@ const QUESTIONS = [
     "id": 34,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The Gestalt principle of proximity states that objects that are close together are:",
     "opts": [
       "Perceived as having the same colour and shape",
@@ -547,7 +547,7 @@ const QUESTIONS = [
     "id": 35,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Which Gestalt principle explains why we see alternating rows of red and white dots as two separate rows?",
     "opts": [
       "Proximity",
@@ -563,7 +563,7 @@ const QUESTIONS = [
     "id": 36,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The Gestalt principle of good continuation suggests that we group elements whose contours form:",
     "opts": [
       "Randomly oriented segments and angles",
@@ -579,7 +579,7 @@ const QUESTIONS = [
     "id": 37,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "When the brain 'fills in' a gap to perceive an incomplete circle as a whole circle, this illustrates:",
     "opts": [
       "Proximity",
@@ -595,7 +595,7 @@ const QUESTIONS = [
     "id": 38,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The Gestalt principle of common fate groups objects that:",
     "opts": [
       "Share the same colour or texture",
@@ -611,7 +611,7 @@ const QUESTIONS = [
     "id": 39,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The Law of Pragnanz (Prägnanz) states that perception tends toward:",
     "opts": [
       "The most complex and detailed interpretation possible",
@@ -627,7 +627,7 @@ const QUESTIONS = [
     "id": 40,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Size constancy refers to the perceptual tendency to:",
     "opts": [
       "Perceive objects as larger when they are closer to the observer",
@@ -643,7 +643,7 @@ const QUESTIONS = [
     "id": 41,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Reversible figures (e.g., the old/young woman illusion) demonstrate that:",
     "opts": [
       "All perceptual processing occurs in the primary visual cortex alone",
@@ -659,7 +659,7 @@ const QUESTIONS = [
     "id": 42,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Gibson's concept of 'affordances' refers to:",
     "opts": [
       "The physical properties of light reaching the retina from objects",
@@ -675,7 +675,7 @@ const QUESTIONS = [
     "id": 43,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "In figure-ground perception, which statement is true?",
     "opts": [
       "The ground is perceived as having a more clearly defined shape",
@@ -691,7 +691,7 @@ const QUESTIONS = [
     "id": 44,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Sensation differs from perception in that sensation:",
     "opts": [
       "Involves active interpretation and organisation of sensory information",
@@ -707,7 +707,7 @@ const QUESTIONS = [
     "id": 45,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Which Gestalt principle is considered the overarching law that encompasses all other principles?",
     "opts": [
       "Law of Proximity",
@@ -723,7 +723,7 @@ const QUESTIONS = [
     "id": 46,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Selective attention is best described as:",
     "opts": [
       "Processing multiple sensory inputs at the same time with full accuracy on each",
@@ -739,7 +739,7 @@ const QUESTIONS = [
     "id": 47,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The dichotic listening task, designed by Cherry in 1953, involves:",
     "opts": [
       "Channel switches are detected even when content is maintained across both ears",
@@ -755,7 +755,7 @@ const QUESTIONS = [
     "id": 48,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "'Shadowing' in the dichotic listening paradigm means:",
     "opts": [
       "Writing down the words heard in the designated ear as they arrive",
@@ -771,7 +771,7 @@ const QUESTIONS = [
     "id": 49,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "From Cherry's (1953) experiment, participants could report which of the following from the unattended ear?",
     "opts": [
       "The specific words that were spoken",
@@ -787,7 +787,7 @@ const QUESTIONS = [
     "id": 50,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Broadbent's filter theory (1958) proposes that the attentional filter operates based on:",
     "opts": [
       "Semantic meaning of messages and their underlying conceptual relationships",
@@ -803,7 +803,7 @@ const QUESTIONS = [
     "id": 51,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The cocktail party phenomenon, described by Moray (1959), demonstrates that:",
     "opts": [
       "Information is selected for full processing late after semantic analysis occurs",
@@ -819,7 +819,7 @@ const QUESTIONS = [
     "id": 52,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Broadbent's filter theory is classified as an 'early selection' model because:",
     "opts": [
       "A multi-stage flexible model that selects at different points depending on load",
@@ -835,7 +835,7 @@ const QUESTIONS = [
     "id": 53,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "In Broadbent's filter theory, what happens to unattended messages?",
     "opts": [
       "They are fully processed for meaning and then forgotten rapidly",
@@ -851,7 +851,7 @@ const QUESTIONS = [
     "id": 54,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Attention span refers to:",
     "opts": [
       "The number of items that can be attended to simultaneously",
@@ -867,7 +867,7 @@ const QUESTIONS = [
     "id": 55,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "According to Broadbent, two messages can both be processed when:",
     "opts": [
       "Both messages contain rich and meaningful semantic content",
@@ -883,7 +883,7 @@ const QUESTIONS = [
     "id": 56,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Treisman's experiment where the attended message switched ears showed that participants:",
     "opts": [
       "Continued shadowing the original message for a few words after the switch",
@@ -899,7 +899,7 @@ const QUESTIONS = [
     "id": 57,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "William James' early view on attention was that it:",
     "opts": [
       "Is equally distributed across all sensory channels at once",
@@ -915,7 +915,7 @@ const QUESTIONS = [
     "id": 58,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The dichotic listening task is useful for studying attention because:",
     "opts": [
       "It measures brain activity while participants listen to speech",
@@ -931,7 +931,7 @@ const QUESTIONS = [
     "id": 59,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Moray (1959) found that approximately what percentage of participants heard their own name from the unattended ear?",
     "opts": [
       "10%",
@@ -947,7 +947,7 @@ const QUESTIONS = [
     "id": 60,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The primary reason studying attention is methodologically challenging is that:",
     "opts": [
       "Attention shifts too rapidly to be captured by any recording technique",
@@ -963,7 +963,7 @@ const QUESTIONS = [
     "id": 61,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Treisman's attenuation theory differs from Broadbent's filter theory in that unattended messages are:",
     "opts": [
       "Completely blocked so that nothing from the unattended channel gets through at all",
@@ -979,7 +979,7 @@ const QUESTIONS = [
     "id": 62,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Late selection theory proposes that the attentional bottleneck occurs:",
     "opts": [
       "Before any semantic analysis of the incoming messages",
@@ -995,7 +995,7 @@ const QUESTIONS = [
     "id": 63,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Johnston and Heinz's (1978) multimodal theory states that attentional selection can occur at:",
     "opts": [
       "Only one fixed and invariant stage of attentional selection",
@@ -1011,7 +1011,7 @@ const QUESTIONS = [
     "id": 64,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "In Kahneman's capacity model, 'enduring dispositions' refer to:",
     "opts": [
       "Long-term interests and habits that guide attention allocation",
@@ -1027,7 +1027,7 @@ const QUESTIONS = [
     "id": 65,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "In Kahneman's capacity model, 'momentary intentions' are:",
     "opts": [
       "Searching slowly through each item in the display in a serial one-by-one manner",
@@ -1043,7 +1043,7 @@ const QUESTIONS = [
     "id": 66,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Kahneman's capacity model proposes that the total available attentional capacity is influenced by:",
     "opts": [
       "Task difficulty",
@@ -1059,7 +1059,7 @@ const QUESTIONS = [
     "id": 67,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Neisser's schema theory of attention proposes that unattended stimuli are:",
     "opts": [
       "Not perceived at all—attention works as an all-or-none system",
@@ -1075,7 +1075,7 @@ const QUESTIONS = [
     "id": 68,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Inattentional blindness refers to the failure to notice:",
     "opts": [
       "Objects that are positioned too far below the standard visual acuity threshold",
@@ -1091,7 +1091,7 @@ const QUESTIONS = [
     "id": 69,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Schneider and Shiffrin (1977) distinguished between consistent mapping and varied mapping. In consistent mapping:",
     "opts": [
       "Target and distractor sets overlap and change unpredictably between trials",
@@ -1107,7 +1107,7 @@ const QUESTIONS = [
     "id": 70,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "According to Snyder and Posner (1975), automatic processes are characterised by which three criteria?",
     "opts": [
       "Slow processing, high effort, and strong reliance on working memory",
@@ -1123,7 +1123,7 @@ const QUESTIONS = [
     "id": 71,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Treisman's feature integration theory proposes that in the pre-attentive stage:",
     "opts": [
       "Complete objects are identified as unified wholes before features",
@@ -1139,7 +1139,7 @@ const QUESTIONS = [
     "id": 72,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Illusory conjunctions in feature integration theory occur when:",
     "opts": [
       "Attention is spread too thinly across multiple objects in the visual field",
@@ -1155,7 +1155,7 @@ const QUESTIONS = [
     "id": 73,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The 'pop-out' phenomenon in visual search occurs when:",
     "opts": [
       "A target shares features with distractors and requires serial search to find",
@@ -1171,7 +1171,7 @@ const QUESTIONS = [
     "id": 74,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The psychological refractory period (PRP) refers to:",
     "opts": [
       "The improvement in performance when a stimulus is preceded by a valid cue",
@@ -1187,7 +1187,7 @@ const QUESTIONS = [
     "id": 75,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "Attentional capture refers to:",
     "opts": [
       "The voluntary directing of attention to a specific spatial location",
@@ -1203,7 +1203,7 @@ const QUESTIONS = [
     "id": 76,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "In the Atkinson-Shiffrin modal model, which store holds information for the briefest duration?",
     "opts": [
       "Short-term memory",
@@ -1219,7 +1219,7 @@ const QUESTIONS = [
     "id": 77,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "The primacy effect in the serial position curve is attributed to:",
     "opts": [
       "Items at the end of a list being held in short-term memory stores",
@@ -1235,7 +1235,7 @@ const QUESTIONS = [
     "id": 78,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "The recency effect in the serial position curve is attributed to:",
     "opts": [
       "Auditory information held very briefly in a sensory store before further processing",
@@ -1251,7 +1251,7 @@ const QUESTIONS = [
     "id": 79,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Iconic memory is the sensory store for which modality?",
     "opts": [
       "Auditory",
@@ -1267,7 +1267,7 @@ const QUESTIONS = [
     "id": 80,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Sperling's (1960) partial-report experiments demonstrated that iconic memory:",
     "opts": [
       "Has a very small capacity limited to about four items at most",
@@ -1283,7 +1283,7 @@ const QUESTIONS = [
     "id": 81,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Miller's (1956) 'magical number' for STM capacity is:",
     "opts": [
       "3 ± 1 chunks",
@@ -1299,7 +1299,7 @@ const QUESTIONS = [
     "id": 82,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Chunking in STM refers to:",
     "opts": [
       "Repeating items to keep them active in short-term memory",
@@ -1315,7 +1315,7 @@ const QUESTIONS = [
     "id": 83,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Conrad's (1964) experiment showed that errors in STM recall tend to be:",
     "opts": [
       "Visually similar to the target",
@@ -1331,7 +1331,7 @@ const QUESTIONS = [
     "id": 84,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "The Brown-Peterson task is used to study:",
     "opts": [
       "The capacity limits of short-term memory storage",
@@ -1347,7 +1347,7 @@ const QUESTIONS = [
     "id": 85,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Proactive interference in STM occurs when:",
     "opts": [
       "New information interferes with recall of old information",
@@ -1363,7 +1363,7 @@ const QUESTIONS = [
     "id": 86,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Wickens and Born's (1963) 'release from proactive interference' demonstrated that:",
     "opts": [
       "Increasing the number of items per trial eliminates interference",
@@ -1379,7 +1379,7 @@ const QUESTIONS = [
     "id": 87,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "The Waugh-Norman probe digit task was designed to test which theory of STM forgetting?",
     "opts": [
       "Decay theory",
@@ -1395,7 +1395,7 @@ const QUESTIONS = [
     "id": 88,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Sternberg's serial search model of STM proposes that memory search is:",
     "opts": [
       "Parallel and self-terminating",
@@ -1411,7 +1411,7 @@ const QUESTIONS = [
     "id": 89,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Echoic memory is the sensory store for which modality?",
     "opts": [
       "Visual",
@@ -1427,7 +1427,7 @@ const QUESTIONS = [
     "id": 90,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Which of the following best describes the capacity of long-term memory?",
     "opts": [
       "Limited to about 7 ± 2 items",
@@ -1443,7 +1443,7 @@ const QUESTIONS = [
     "id": 91,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The working memory model was proposed by:",
     "opts": [
       "Atkinson and Shiffrin",
@@ -1459,7 +1459,7 @@ const QUESTIONS = [
     "id": 92,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The central executive in Baddeley's working memory model is responsible for:",
     "opts": [
       "Coordinating the slave systems and allocating attentional resources",
@@ -1475,7 +1475,7 @@ const QUESTIONS = [
     "id": 93,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The phonological loop consists of which two sub-components?",
     "opts": [
       "Central executive and episodic buffer",
@@ -1491,7 +1491,7 @@ const QUESTIONS = [
     "id": 94,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The visuospatial sketchpad in working memory is responsible for:",
     "opts": [
       "Coordinating and allocating attention among the different subsystems of working memory",
@@ -1507,7 +1507,7 @@ const QUESTIONS = [
     "id": 95,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The episodic buffer, added by Baddeley in 2000, serves to:",
     "opts": [
       "Replace the central executive with a fully automatic processing module",
@@ -1523,7 +1523,7 @@ const QUESTIONS = [
     "id": 96,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The dual-task paradigm is used to study working memory by:",
     "opts": [
       "Having participants perform two tasks simultaneously to identify shared resources",
@@ -1539,7 +1539,7 @@ const QUESTIONS = [
     "id": 97,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "In Baddeley and Hitch's (1974) reasoning task with digit load, adding a digit span task:",
     "opts": [
       "Information that sounds different is more easily confused in the phonological store",
@@ -1555,7 +1555,7 @@ const QUESTIONS = [
     "id": 98,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "Which component of working memory would be most disrupted by a concurrent spatial tapping task?",
     "opts": [
       "Central executive",
@@ -1571,7 +1571,7 @@ const QUESTIONS = [
     "id": 99,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "Articulatory suppression (repeating 'the, the, the') disrupts which working memory component?",
     "opts": [
       "Central executive",
@@ -1587,7 +1587,7 @@ const QUESTIONS = [
     "id": 100,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The word-length effect in working memory refers to the finding that:",
     "opts": [
       "Fewer long words than short words can be held in the phonological loop",
@@ -1603,7 +1603,7 @@ const QUESTIONS = [
     "id": 101,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The phonological similarity effect shows that STM recall is worse for:",
     "opts": [
       "Words that look visually similar to each other",
@@ -1619,7 +1619,7 @@ const QUESTIONS = [
     "id": 102,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "Working memory is considered more useful than the simple STM concept because it:",
     "opts": [
       "Phonological loop, visuospatial sketchpad, central executive, and episodic buffer",
@@ -1635,7 +1635,7 @@ const QUESTIONS = [
     "id": 103,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "Which component of working memory is most closely associated with language comprehension?",
     "opts": [
       "Central executive",
@@ -1651,7 +1651,7 @@ const QUESTIONS = [
     "id": 104,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The central executive is analogous to which concept in attention research?",
     "opts": [
       "The phonological loop",
@@ -1667,7 +1667,7 @@ const QUESTIONS = [
     "id": 105,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "Evidence that the phonological loop and visuospatial sketchpad are separate systems comes from:",
     "opts": [
       "The phonological similarity cost disappears completely when articulatory suppression is applied",
@@ -1683,7 +1683,7 @@ const QUESTIONS = [
     "id": 106,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Baddeley's experiment on LTM coding showed that LTM primarily uses:",
     "opts": [
       "Acoustic coding",
@@ -1699,7 +1699,7 @@ const QUESTIONS = [
     "id": 107,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Ebbinghaus's forgetting curve shows that forgetting is:",
     "opts": [
       "Linear and constant over time",
@@ -1715,7 +1715,7 @@ const QUESTIONS = [
     "id": 108,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Craik and Lockhart's levels of processing framework proposes that:",
     "opts": [
       "All levels of processing produce equally durable memory traces",
@@ -1731,7 +1731,7 @@ const QUESTIONS = [
     "id": 109,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Elaborative rehearsal differs from maintenance rehearsal in that it:",
     "opts": [
       "Connects new information to existing knowledge, producing deeper encoding",
@@ -1747,7 +1747,7 @@ const QUESTIONS = [
     "id": 110,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Declarative memory includes which two subtypes?",
     "opts": [
       "Procedural and declarative",
@@ -1763,7 +1763,7 @@ const QUESTIONS = [
     "id": 111,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Procedural memory stores:",
     "opts": [
       "Personal autobiographical events and experiences",
@@ -1779,7 +1779,7 @@ const QUESTIONS = [
     "id": 112,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Priming in LTM refers to:",
     "opts": [
       "The gradual weakening of a memory trace through disuse over time",
@@ -1795,7 +1795,7 @@ const QUESTIONS = [
     "id": 113,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Encoding failure theory of forgetting proposes that:",
     "opts": [
       "Information was never properly encoded into LTM in the first place",
@@ -1811,7 +1811,7 @@ const QUESTIONS = [
     "id": 114,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "The encoding specificity principle (Tulving) states that:",
     "opts": [
       "Retrieval cues overlap substantially with the way the information was originally encoded",
@@ -1827,7 +1827,7 @@ const QUESTIONS = [
     "id": 115,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "The context-dependent memory effect (Godden & Baddeley's divers experiment) showed that:",
     "opts": [
       "Information learned in a particular physical setting is better recalled in that same setting",
@@ -1843,7 +1843,7 @@ const QUESTIONS = [
     "id": 116,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "State-dependent memory refers to better recall when:",
     "opts": [
       "The physical environment at the time of retrieval matches the environment during encoding",
@@ -1859,7 +1859,7 @@ const QUESTIONS = [
     "id": 117,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "The spacing effect (distributed practice) shows that:",
     "opts": [
       "Recognition tests are always superior to recall tests",
@@ -1875,7 +1875,7 @@ const QUESTIONS = [
     "id": 118,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Bartlett's 'War of the Ghosts' study demonstrated that LTM recall is:",
     "opts": [
       "Existing memories interfere with the ability to form and retrieve new memories later on",
@@ -1891,7 +1891,7 @@ const QUESTIONS = [
     "id": 119,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Loftus's eyewitness testimony research showed that:",
     "opts": [
       "Forgetting can result from retrieval failure when appropriate cues are not available",
@@ -1907,7 +1907,7 @@ const QUESTIONS = [
     "id": 120,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "The tip-of-the-tongue (TOT) phenomenon is best explained by:",
     "opts": [
       "Complete storage failure—the memory was never formed at all",
@@ -1923,7 +1923,7 @@ const QUESTIONS = [
     "id": 121,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Tulving (1972) distinguished episodic memory from semantic memory. Semantic memory stores:",
     "opts": [
       "General knowledge about the world that is not tied to any specific personal experience",
@@ -1939,7 +1939,7 @@ const QUESTIONS = [
     "id": 122,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Episodic memory stores:",
     "opts": [
       "General facts about the world stored independently of any particular personal context",
@@ -1955,7 +1955,7 @@ const QUESTIONS = [
     "id": 123,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Collins and Quillian's (1969) hierarchical network model proposes that concepts are stored as:",
     "opts": [
       "Concepts and their properties are stored as interconnected nodes in a hierarchical network",
@@ -1971,7 +1971,7 @@ const QUESTIONS = [
     "id": 124,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "'Cognitive economy' in Collins and Quillian's model means:",
     "opts": [
       "Concepts are always retrieved as quickly as possible regardless of hierarchical location",
@@ -1987,7 +1987,7 @@ const QUESTIONS = [
     "id": 125,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "A key prediction of Collins and Quillian's model is that verifying 'A canary is an animal' should take longer than 'A canary is a bird' because:",
     "opts": [
       "Verifying properties stored directly at a concept node should be faster than inherited ones",
@@ -2003,7 +2003,7 @@ const QUESTIONS = [
     "id": 126,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "The feature comparison model of semantic memory distinguishes between:",
     "opts": [
       "Episodic features tied to personal experience and semantic features about general knowledge",
@@ -2019,7 +2019,7 @@ const QUESTIONS = [
     "id": 127,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Collins and Loftus's (1975) spreading activation model proposes that:",
     "opts": [
       "Shorter distances between interconnected nodes in the network lead to faster retrieval times",
@@ -2035,7 +2035,7 @@ const QUESTIONS = [
     "id": 128,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "The typicality effect in semantic memory refers to the finding that:",
     "opts": [
       "All members of a category are verified at exactly the same speed regardless of typicality",
@@ -2051,7 +2051,7 @@ const QUESTIONS = [
     "id": 129,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Anderson's ACT-R model includes which three memory components?",
     "opts": [
       "Sensory memory, short-term memory stores, and long-term memory systems",
@@ -2067,7 +2067,7 @@ const QUESTIONS = [
     "id": 130,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Scripts in semantic memory are:",
     "opts": [
       "Concepts that have more features in common and are more semantically related to each other",
@@ -2083,7 +2083,7 @@ const QUESTIONS = [
     "id": 131,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Tulving's 'bookshelf metaphor' for semantic memory suggests that:",
     "opts": [
       "Semantic memory is organised alphabetically, like entries in a dictionary",
@@ -2099,7 +2099,7 @@ const QUESTIONS = [
     "id": 132,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "A limitation of Collins and Quillian's hierarchical network model is that it cannot explain:",
     "opts": [
       "Why verification takes progressively longer as network distance between nodes increases",
@@ -2115,7 +2115,7 @@ const QUESTIONS = [
     "id": 133,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "In spreading activation models, the strength of activation between two concepts depends on:",
     "opts": [
       "Sentence verification tasks measuring reaction time to category questions",
@@ -2131,7 +2131,7 @@ const QUESTIONS = [
     "id": 134,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "The false memory effect in semantic memory (e.g., DRM paradigm) occurs because:",
     "opts": [
       "Activating one concept increases the accessibility of semantically related concepts nearby",
@@ -2147,7 +2147,7 @@ const QUESTIONS = [
     "id": 135,
     "week": 6,
     "topic": "Semantic Memory",
-    "topicIcon": "🕸️",
+    "topicIcon": "<i data-lucide='network'></i>",
     "q": "Production rules in ACT-R are best described as:",
     "opts": [
       "Participants respond faster to targets preceded by a semantically related prime",
@@ -2163,7 +2163,7 @@ const QUESTIONS = [
     "id": 136,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The classical view of concepts holds that category membership is determined by:",
     "opts": [
       "A set of necessary and sufficient features that every category member must fully possess",
@@ -2179,7 +2179,7 @@ const QUESTIONS = [
     "id": 137,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "A major problem with the classical view of concepts is that:",
     "opts": [
       "It accurately predicts the graded typicality effects found across different category members",
@@ -2195,7 +2195,7 @@ const QUESTIONS = [
     "id": 138,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The prototype view of concepts proposes that category membership is determined by:",
     "opts": [
       "A strict set of necessary and sufficient defining features",
@@ -2211,7 +2211,7 @@ const QUESTIONS = [
     "id": 139,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The exemplar view of concepts proposes that categories are represented by:",
     "opts": [
       "An abstract prototype representation of the category average",
@@ -2227,7 +2227,7 @@ const QUESTIONS = [
     "id": 140,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "Rosch's basic level of categorisation (e.g., 'dog') is preferred over superordinate ('animal') and subordinate ('poodle') levels because:",
     "opts": [
       "It always includes the most physically distinctive features of every category member example",
@@ -2243,7 +2243,7 @@ const QUESTIONS = [
     "id": 141,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "Which level of categorisation is 'furniture' an example of?",
     "opts": [
       "Basic level",
@@ -2259,7 +2259,7 @@ const QUESTIONS = [
     "id": 142,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The schema-based view of concepts emphasises that:",
     "opts": [
       "Concepts are defined by necessary features that all members share",
@@ -2275,7 +2275,7 @@ const QUESTIONS = [
     "id": 143,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The knowledge-based (theory-based) view of concepts proposes that categorisation is driven by:",
     "opts": [
       "Surface similarities such as colour, shape, and size",
@@ -2291,7 +2291,7 @@ const QUESTIONS = [
     "id": 144,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "Bruner's concept attainment study examined how people:",
     "opts": [
       "They store all exemplars in a detailed memory database for matching",
@@ -2307,7 +2307,7 @@ const QUESTIONS = [
     "id": 145,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "In Bruner's concept attainment, 'conservative focusing' involves:",
     "opts": [
       "Testing one hypothesis at a time by changing one attribute per trial",
@@ -2323,7 +2323,7 @@ const QUESTIONS = [
     "id": 146,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "'Simultaneous scanning' in Bruner's concept attainment means:",
     "opts": [
       "Selecting one hypothesis and testing it against every available instance sequentially",
@@ -2339,7 +2339,7 @@ const QUESTIONS = [
     "id": 147,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The typicality gradient in prototype theory predicts that:",
     "opts": [
       "All category members are equally typical and equally easy to categorise",
@@ -2355,7 +2355,7 @@ const QUESTIONS = [
     "id": 148,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "Similarity-based categorisation differs from explanation-based categorisation in that:",
     "opts": [
       "Similarity-based uses causal theories to explain membership while explanation-based uses surface features only",
@@ -2371,7 +2371,7 @@ const QUESTIONS = [
     "id": 149,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "Which finding is most problematic for the exemplar view of concepts?",
     "opts": [
       "The finding that basic-level categories are processed faster than superordinate categories",
@@ -2387,7 +2387,7 @@ const QUESTIONS = [
     "id": 150,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "'Successive scanning' in Bruner's concept attainment involves:",
     "opts": [
       "Testing one hypothesis at a time, moving to the next if it is disconfirmed",
@@ -2403,7 +2403,7 @@ const QUESTIONS = [
     "id": 151,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Paivio's dual coding hypothesis proposes that:",
     "opts": [
       "All information is stored in a single verbal propositional code format",
@@ -2419,7 +2419,7 @@ const QUESTIONS = [
     "id": 152,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Bower's (1970) relational-organisational hypothesis showed that memory for word pairs improves when:",
     "opts": [
       "Words are rehearsed repeatedly using the phonological loop mechanism",
@@ -2435,7 +2435,7 @@ const QUESTIONS = [
     "id": 153,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "The method of loci is a mnemonic technique that involves:",
     "opts": [
       "Associating each item with a rhyming word from a fixed peg word list in numerical order",
@@ -2451,7 +2451,7 @@ const QUESTIONS = [
     "id": 154,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "The peg word method uses:",
     "opts": [
       "Associating each item with a location along a familiar mental route",
@@ -2467,7 +2467,7 @@ const QUESTIONS = [
     "id": 155,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Shepard and Metzler's (1971) mental rotation experiments showed that:",
     "opts": [
       "Reaction time decreases substantially when objects are rotated 180 degrees",
@@ -2483,7 +2483,7 @@ const QUESTIONS = [
     "id": 156,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Cooper and Shepard's experiments on letter rotation demonstrated that:",
     "opts": [
       "Mental rotation is instantaneous regardless of the angular disparity between the objects",
@@ -2499,7 +2499,7 @@ const QUESTIONS = [
     "id": 157,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Kosslyn's scanning experiments showed that:",
     "opts": [
       "Scanning across a larger mental image takes proportionally more time than a smaller one",
@@ -2515,7 +2515,7 @@ const QUESTIONS = [
     "id": 158,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "'Spatial equivalence' of mental imagery means that:",
     "opts": [
       "Mental images are identical to photographs stored in visual memory areas",
@@ -2531,7 +2531,7 @@ const QUESTIONS = [
     "id": 159,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "'Perceptual equivalence' of mental imagery refers to the finding that:",
     "opts": [
       "Mental imagery relies on completely different brain regions than visual perception does",
@@ -2547,7 +2547,7 @@ const QUESTIONS = [
     "id": 160,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "The interacting images technique improves memory for word pairs by:",
     "opts": [
       "Storing the words as separate unrelated mental images",
@@ -2563,7 +2563,7 @@ const QUESTIONS = [
     "id": 161,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Tye's principle of 'implicit coding' in visual imagery means that:",
     "opts": [
       "All details of a mental image are explicitly represented and immediately available",
@@ -2579,7 +2579,7 @@ const QUESTIONS = [
     "id": 162,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Which mnemonic technique is most effective for remembering an ordered list of items?",
     "opts": [
       "Maintenance rehearsal and simple rote repetition",
@@ -2595,7 +2595,7 @@ const QUESTIONS = [
     "id": 163,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "The finding that concrete words are remembered better than abstract words supports:",
     "opts": [
       "The propositional representation hypothesis",
@@ -2611,7 +2611,7 @@ const QUESTIONS = [
     "id": 164,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Mental rotation studies support the view that mental imagery is:",
     "opts": [
       "Propositional and symbolic, like a language of thought",
@@ -2627,7 +2627,7 @@ const QUESTIONS = [
     "id": 165,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Pylyshyn's critique of mental imagery research argued that imagery effects could be explained by:",
     "opts": [
       "Demand characteristics—participants behave as they think experimenters expect",
@@ -2643,7 +2643,7 @@ const QUESTIONS = [
     "id": 166,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Which property of natural language means that a finite set of rules can generate an infinite number of sentences?",
     "opts": [
       "Arbitrary",
@@ -2659,7 +2659,7 @@ const QUESTIONS = [
     "id": 167,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "The arbitrary property of language means that:",
     "opts": [
       "Words always follow highly predictable sound patterns based on their exact meaning content",
@@ -2675,7 +2675,7 @@ const QUESTIONS = [
     "id": 168,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Phonemes are best defined as:",
     "opts": [
       "The smallest units of sound that distinguish meaning in a language",
@@ -2691,7 +2691,7 @@ const QUESTIONS = [
     "id": 169,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Morphemes are:",
     "opts": [
       "The smallest units of sound that distinguish meaning in a language",
@@ -2707,7 +2707,7 @@ const QUESTIONS = [
     "id": 170,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Syntax refers to:",
     "opts": [
       "The rules governing the structure and order of words in sentences",
@@ -2723,7 +2723,7 @@ const QUESTIONS = [
     "id": 171,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Pragmatics is the study of:",
     "opts": [
       "The sound system and phonological rules of a language",
@@ -2739,7 +2739,7 @@ const QUESTIONS = [
     "id": 172,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Categorical perception of speech means that:",
     "opts": [
       "Understanding spoken language solely by analysing the physical properties of the sound wave",
@@ -2755,7 +2755,7 @@ const QUESTIONS = [
     "id": 173,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Warren's phoneme restoration effect demonstrates that:",
     "opts": [
       "Listeners cannot perceive missing phonemes and report gaps in the signal",
@@ -2771,7 +2771,7 @@ const QUESTIONS = [
     "id": 174,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Garden path sentences (e.g., 'The horse raced past the barn fell') demonstrate that:",
     "opts": [
       "Syntax is always processed after semantics has already fully determined sentence meaning",
@@ -2787,7 +2787,7 @@ const QUESTIONS = [
     "id": 175,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Garrett's distinction between form errors and meaning errors in speech production refers to:",
     "opts": [
       "Errors in pronunciation compared to errors made in the grammatical structure of sentences",
@@ -2803,7 +2803,7 @@ const QUESTIONS = [
     "id": 176,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "The word superiority effect refers to the finding that:",
     "opts": [
       "Words are always recognised faster than non-words regardless of any presentation context",
@@ -2819,7 +2819,7 @@ const QUESTIONS = [
     "id": 177,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Prescriptive grammar refers to:",
     "opts": [
       "Rules that prescribe how language should be used according to a standard",
@@ -2835,7 +2835,7 @@ const QUESTIONS = [
     "id": 178,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Voicing in consonant production refers to:",
     "opts": [
       "The place where airflow is constricted in the vocal tract",
@@ -2851,7 +2851,7 @@ const QUESTIONS = [
     "id": 179,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "The discrete property of language means that:",
     "opts": [
       "Sounds along a continuum are perceived as gradually varying with no clear boundaries",
@@ -2867,7 +2867,7 @@ const QUESTIONS = [
     "id": 180,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "Semantics is the study of:",
     "opts": [
       "The sound system of a language and its phonological rules",
@@ -2883,7 +2883,7 @@ const QUESTIONS = [
     "id": 181,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "In problem solving, the 'initial state' refers to:",
     "opts": [
       "The desired end result or goal state of the problem",
@@ -2899,7 +2899,7 @@ const QUESTIONS = [
     "id": 182,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Operators in problem solving are:",
     "opts": [
       "The constraints that limit the range of possible solutions and define the problem boundaries",
@@ -2915,7 +2915,7 @@ const QUESTIONS = [
     "id": 183,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Well-defined problems differ from ill-defined problems in that well-defined problems have:",
     "opts": [
       "The solver moves through the problem state by state until the goal is eventually reached",
@@ -2931,7 +2931,7 @@ const QUESTIONS = [
     "id": 184,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "The General Problem Solver (GPS), developed by Newell and Simon, uses which primary heuristic?",
     "opts": [
       "Hill climbing",
@@ -2947,7 +2947,7 @@ const QUESTIONS = [
     "id": 185,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Means-ends analysis involves:",
     "opts": [
       "The difference between the current problem state and the desired goal state drives operator choice",
@@ -2963,7 +2963,7 @@ const QUESTIONS = [
     "id": 186,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Mental set in problem solving refers to:",
     "opts": [
       "The tendency to use a previously successful approach even when it is no longer optimal",
@@ -2979,7 +2979,7 @@ const QUESTIONS = [
     "id": 187,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Functional fixedness is the tendency to:",
     "opts": [
       "Use objects only in their conventional ways, preventing creative solutions",
@@ -2995,7 +2995,7 @@ const QUESTIONS = [
     "id": 188,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "The Gestalt approach to problem solving emphasises:",
     "opts": [
       "Forming and testing stimulus-response associations through reinforcement and repeated practice",
@@ -3011,7 +3011,7 @@ const QUESTIONS = [
     "id": 189,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Wallas's four stages of creativity are:",
     "opts": [
       "Trial, error, reinforcement, and habituation",
@@ -3027,7 +3027,7 @@ const QUESTIONS = [
     "id": 190,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "The nine-dot problem is a classic example of a problem that requires:",
     "opts": [
       "Using only familiar functions of objects and failing to see novel alternative uses for them",
@@ -3043,7 +3043,7 @@ const QUESTIONS = [
     "id": 191,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Expert problem solvers differ from novices primarily in that experts:",
     "opts": [
       "Have larger working memory capacity than novices",
@@ -3059,7 +3059,7 @@ const QUESTIONS = [
     "id": 192,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "An algorithm in problem solving is:",
     "opts": [
       "Breaking the problem into smaller sub-problems and solving each sub-problem independently",
@@ -3075,7 +3075,7 @@ const QUESTIONS = [
     "id": 193,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "A heuristic in problem solving is:",
     "opts": [
       "A sudden dramatic restructuring of the problem representation that reveals the correct solution",
@@ -3091,7 +3091,7 @@ const QUESTIONS = [
     "id": 194,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Mayer's 'arrangement problems' require the solver to:",
     "opts": [
       "Experience a sudden flash of insight that restructures the problem representation abruptly",
@@ -3107,7 +3107,7 @@ const QUESTIONS = [
     "id": 195,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Verbal protocols (think-aloud protocols) are used in problem solving research to:",
     "opts": [
       "Measure reaction time differences between correct and incorrect trials",
@@ -3123,7 +3123,7 @@ const QUESTIONS = [
     "id": 196,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "Deductive reasoning involves:",
     "opts": [
       "Drawing a general conclusion or predicting future instances from observed specific cases",
@@ -3139,7 +3139,7 @@ const QUESTIONS = [
     "id": 197,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "Inductive reasoning involves:",
     "opts": [
       "Drawing conclusions that must be absolutely true if the premises are true",
@@ -3155,7 +3155,7 @@ const QUESTIONS = [
     "id": 198,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "In syllogistic reasoning, validity refers to:",
     "opts": [
       "Whether the premises are factually true in the real world",
@@ -3171,7 +3171,7 @@ const QUESTIONS = [
     "id": 199,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "Modus ponens is the valid conditional argument form:",
     "opts": [
       "If P then Q; not Q; therefore not P",
@@ -3187,7 +3187,7 @@ const QUESTIONS = [
     "id": 200,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "Modus tollens is the valid conditional argument form:",
     "opts": [
       "If P then Q; P; therefore Q",
@@ -3203,7 +3203,7 @@ const QUESTIONS = [
     "id": 201,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "'Affirming the consequent' is a logical fallacy because:",
     "opts": [
       "The premise uses a universal quantifier which mistakenly makes the conditional reversible",
@@ -3219,7 +3219,7 @@ const QUESTIONS = [
     "id": 202,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The belief bias effect in syllogistic reasoning refers to:",
     "opts": [
       "People tend to accept conclusions that align with what they already believe to be factually true",
@@ -3235,7 +3235,7 @@ const QUESTIONS = [
     "id": 203,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The Wason selection task tests:",
     "opts": [
       "Inductive reasoning—whether people can extract general rules from specific cards",
@@ -3251,7 +3251,7 @@ const QUESTIONS = [
     "id": 204,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The availability heuristic leads people to judge the probability of an event based on:",
     "opts": [
       "How frequently the event has occurred in the person's actual past experience",
@@ -3267,7 +3267,7 @@ const QUESTIONS = [
     "id": 205,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The representativeness heuristic involves judging probability based on:",
     "opts": [
       "How easily specific examples or instances can be retrieved from memory",
@@ -3283,7 +3283,7 @@ const QUESTIONS = [
     "id": 206,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The anchoring heuristic refers to:",
     "opts": [
       "Judging likelihood by evaluating how representative an event is of a category",
@@ -3299,7 +3299,7 @@ const QUESTIONS = [
     "id": 207,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "Simon's concept of 'bounded rationality' means that:",
     "opts": [
       "Humans generally make perfectly rational choices when given enough time and resources",
@@ -3315,7 +3315,7 @@ const QUESTIONS = [
     "id": 208,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "Kahneman's System 1 thinking is characterised as:",
     "opts": [
       "Slow, deliberate, and analytical",
@@ -3331,7 +3331,7 @@ const QUESTIONS = [
     "id": 209,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The typicality effect in inductive reasoning means that:",
     "opts": [
       "Typical category members make stronger inductive arguments than atypical members",
@@ -3347,7 +3347,7 @@ const QUESTIONS = [
     "id": 210,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The diversity effect in inductive reasoning states that:",
     "opts": [
       "Diverse premises with dissimilar cases make weaker inductive arguments than similar ones do",
@@ -3363,7 +3363,7 @@ const QUESTIONS = [
     "id": 211,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Expected utility theory is a normative model of decision making that prescribes:",
     "opts": [
       "A systematic evaluation of emotional tradeoffs to maximize subjective happiness in decision outcomes",
@@ -3379,7 +3379,7 @@ const QUESTIONS = [
     "id": 212,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "A descriptive model of decision making aims to:",
     "opts": [
       "Prescribe exactly how decisions should be made to maximize expected utility for the decision maker",
@@ -3395,7 +3395,7 @@ const QUESTIONS = [
     "id": 213,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Tversky and Kahneman's (1981) Asian disease problem demonstrated:",
     "opts": [
       "Selecting the option that provides the maximum expected overall utility across all possible outcomes",
@@ -3411,7 +3411,7 @@ const QUESTIONS = [
     "id": 214,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Prospect theory (Kahneman & Tversky, 1979) differs from expected utility theory in that it proposes:",
     "opts": [
       "People consistently evaluate all options and reliably select the one with the highest expected value",
@@ -3427,7 +3427,7 @@ const QUESTIONS = [
     "id": 215,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Loss aversion in prospect theory means that:",
     "opts": [
       "People code outcomes as gains or losses relative to a psychological reference point rather than total wealth",
@@ -3443,7 +3443,7 @@ const QUESTIONS = [
     "id": 216,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Preference reversal in decision making refers to:",
     "opts": [
       "A sure gain of moderate value is strongly preferred over a risky gamble with a higher expected payoff",
@@ -3459,7 +3459,7 @@ const QUESTIONS = [
     "id": 217,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "The sunk cost effect (Arkes & Blumer, 1985) refers to the tendency to:",
     "opts": [
       "Ignore past investments when making future decisions about resource use",
@@ -3475,7 +3475,7 @@ const QUESTIONS = [
     "id": 218,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Psychological accounting (mental accounting) refers to:",
     "opts": [
       "Estimating the probability of an event based on how easily specific examples come to mind quickly",
@@ -3491,7 +3491,7 @@ const QUESTIONS = [
     "id": 219,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "The framing effect demonstrates that decision making violates which principle of rational choice?",
     "opts": [
       "Staying with a default option rather than actively switching to a potentially better alternative",
@@ -3507,7 +3507,7 @@ const QUESTIONS = [
     "id": 220,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Overconfidence in decision making refers to:",
     "opts": [
       "Systematically underestimating one's own abilities and knowledge across many different task domains",
@@ -3523,7 +3523,7 @@ const QUESTIONS = [
     "id": 221,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "The threshold approach to choice suggests that:",
     "opts": [
       "Options are evaluated sequentially on their single most important attribute",
@@ -3539,7 +3539,7 @@ const QUESTIONS = [
     "id": 222,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Cultural differences in decision making suggest that:",
     "opts": [
       "All cultures around the world make decisions in exactly the same way without any variation",
@@ -3555,7 +3555,7 @@ const QUESTIONS = [
     "id": 223,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "In prospect theory, the value function is:",
     "opts": [
       "A linear relationship where objective value maps perfectly onto psychological value",
@@ -3571,7 +3571,7 @@ const QUESTIONS = [
     "id": 224,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Kahneman's System 2 thinking is characterised as:",
     "opts": [
       "Fast, automatic, effortless, and predominantly unconscious in processing",
@@ -3587,7 +3587,7 @@ const QUESTIONS = [
     "id": 225,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "The Arkes and Blumer (1985) sunk cost experiment showed that people who paid more for a ski trip:",
     "opts": [
       "Were more likely to abandon the trip altogether when a better option became available to them",
@@ -3603,7 +3603,7 @@ const QUESTIONS = [
     "id": 226,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Bottom-up (data-driven) processing in perception starts with:",
     "opts": [
       "Recognizing objects by comparing full images against stored templates in memory",
@@ -3619,7 +3619,7 @@ const QUESTIONS = [
     "id": 227,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Top-down (theory-driven) processing in perception is driven by:",
     "opts": [
       "Raw sensory data from the environment and receptors",
@@ -3635,7 +3635,7 @@ const QUESTIONS = [
     "id": 228,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Biederman's recognition-by-components theory proposes that objects are recognised from:",
     "opts": [
       "Exact template matches stored in long-term memory",
@@ -3651,7 +3651,7 @@ const QUESTIONS = [
     "id": 229,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Selfridge's pandemonium model uses 'demons' to represent:",
     "opts": [
       "Cells sensitive to progressively more complex features at each processing level",
@@ -3667,7 +3667,7 @@ const QUESTIONS = [
     "id": 230,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "David Marr's three-stage model of visual perception begins with the:",
     "opts": [
       "3D model representation",
@@ -3683,7 +3683,7 @@ const QUESTIONS = [
     "id": 231,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "In Marr's model, the 2.5D sketch adds information about:",
     "opts": [
       "The identity and category membership of the perceived object",
@@ -3699,7 +3699,7 @@ const QUESTIONS = [
     "id": 232,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Gibson's theory of direct perception argues that:",
     "opts": [
       "Perception always requires extensive higher-order cognitive processing stages",
@@ -3715,7 +3715,7 @@ const QUESTIONS = [
     "id": 233,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Optic flow, as described by Gibson, refers to:",
     "opts": [
       "The pattern of apparent motion of objects in the visual field as the observer moves",
@@ -3731,7 +3731,7 @@ const QUESTIONS = [
     "id": 234,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "Change blindness demonstrates that:",
     "opts": [
       "People usually detect every change in a visual scene immediately",
@@ -3747,7 +3747,7 @@ const QUESTIONS = [
     "id": 235,
     "week": 2,
     "topic": "Perception",
-    "topicIcon": "👁️",
+    "topicIcon": "<i data-lucide='eye'></i>",
     "q": "The context effect in perception refers to:",
     "opts": [
       "The effect of retinal image size on perceived object distance and depth",
@@ -3763,7 +3763,7 @@ const QUESTIONS = [
     "id": 236,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "George Berkeley contested Locke's view by arguing that:",
     "opts": [
       "All knowledge comes directly from sensory experience alone",
@@ -3779,7 +3779,7 @@ const QUESTIONS = [
     "id": 237,
     "week": 1,
     "topic": "History",
-    "topicIcon": "📜",
+    "topicIcon": "<i data-lucide='scroll'></i>",
     "q": "Descartes' contribution to cognitive psychology includes the concept of:",
     "opts": [
       "A network of interconnected nodes each representing a concept and linked by associations",
@@ -3795,7 +3795,7 @@ const QUESTIONS = [
     "id": 238,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "The judgment method in cognitive psychology research uses:",
     "opts": [
       "Precise measurements of how quickly participants respond to stimuli",
@@ -3811,7 +3811,7 @@ const QUESTIONS = [
     "id": 239,
     "week": 1,
     "topic": "Methods",
-    "topicIcon": "🔬",
+    "topicIcon": "<i data-lucide='microscope'></i>",
     "q": "A key advantage of using multiple methods in cognitive psychology research is:",
     "opts": [
       "It guarantees that all findings will be replicated across every study",
@@ -3827,7 +3827,7 @@ const QUESTIONS = [
     "id": 240,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "The modal model of memory is also known as the:",
     "opts": [
       "Baddeley and Hitch model",
@@ -3843,7 +3843,7 @@ const QUESTIONS = [
     "id": 241,
     "week": 5,
     "topic": "Long-Term Memory",
-    "topicIcon": "📚",
+    "topicIcon": "<i data-lucide='book-open'></i>",
     "q": "Retroactive interference in LTM occurs when:",
     "opts": [
       "Old learning interferes with recall of new information",
@@ -3859,7 +3859,7 @@ const QUESTIONS = [
     "id": 242,
     "week": 4,
     "topic": "Working Memory",
-    "topicIcon": "💭",
+    "topicIcon": "<i data-lucide='message-circle'></i>",
     "q": "The irrelevant speech effect shows that:",
     "opts": [
       "Background music disrupts reasoning but not serial recall of visual items",
@@ -3875,7 +3875,7 @@ const QUESTIONS = [
     "id": 243,
     "week": 11,
     "topic": "Reasoning",
-    "topicIcon": "⚖️",
+    "topicIcon": "<i data-lucide='scale'></i>",
     "q": "The atmospheric effect in syllogistic reasoning refers to:",
     "opts": [
       "The conclusion must always follow from the premises with absolute certainty and no exceptions",
@@ -3891,7 +3891,7 @@ const QUESTIONS = [
     "id": 244,
     "week": 12,
     "topic": "Decision Making",
-    "topicIcon": "🎲",
+    "topicIcon": "<i data-lucide='dice-5'></i>",
     "q": "Kahneman and Tversky's prospect theory was awarded the Nobel Prize in Economics in:",
     "opts": [
       "1979",
@@ -3907,7 +3907,7 @@ const QUESTIONS = [
     "id": 245,
     "week": 10,
     "topic": "Problem Solving",
-    "topicIcon": "🧩",
+    "topicIcon": "<i data-lucide='puzzle'></i>",
     "q": "Insight problems differ from non-insight problems in that insight problems:",
     "opts": [
       "Can be solved through incremental, step-by-step progress",
@@ -3923,7 +3923,7 @@ const QUESTIONS = [
     "id": 246,
     "week": 7,
     "topic": "Concepts",
-    "topicIcon": "🗂️",
+    "topicIcon": "<i data-lucide='folder-open'></i>",
     "q": "The 'family resemblance' structure of natural categories, proposed by Wittgenstein, means that:",
     "opts": [
       "All members of a category share identical sets of features with absolutely no variation",
@@ -3939,7 +3939,7 @@ const QUESTIONS = [
     "id": 247,
     "week": 8,
     "topic": "Visual Memory",
-    "topicIcon": "🖼️",
+    "topicIcon": "<i data-lucide='image'></i>",
     "q": "Kosslyn's image overflow experiments showed that:",
     "opts": [
       "Scanning time between two points on a mental image decreases proportionally with distance",
@@ -3955,7 +3955,7 @@ const QUESTIONS = [
     "id": 248,
     "week": 9,
     "topic": "Language",
-    "topicIcon": "💬",
+    "topicIcon": "<i data-lucide='message-square'></i>",
     "q": "The place of articulation for consonants refers to:",
     "opts": [
       "Whether the vocal cords vibrate during the production of the consonant sound being made",
@@ -3971,7 +3971,7 @@ const QUESTIONS = [
     "id": 249,
     "week": 3,
     "topic": "Attention",
-    "topicIcon": "🎯",
+    "topicIcon": "<i data-lucide='target'></i>",
     "q": "The Stroop effect is a classic demonstration of:",
     "opts": [
       "Selective attention succeeding perfectly at filtering all irrelevant information",
@@ -3987,7 +3987,7 @@ const QUESTIONS = [
     "id": 250,
     "week": 4,
     "topic": "Memory",
-    "topicIcon": "🧠",
+    "topicIcon": "<i data-lucide='brain'></i>",
     "q": "Haptic memory is the sensory store for which modality?",
     "opts": [
       "Visual",
