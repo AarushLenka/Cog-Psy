@@ -19,14 +19,37 @@ export default function Hero() {
         </h1>
       </div>
 
-      <div className="mt-16 relative">
+      <div className="mt-16 relative flex flex-row items-center justify-center gap-4 w-full z-20">
         <a 
-          href="/quiz.html" 
-          className="group relative inline-flex items-center justify-center px-8 py-4 font-normal text-black bg-white rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:shadow-[0_0_40px_rgba(255,255,255,0.4)]"
+          href="/quiz.html?tab=general" 
+          className="group relative inline-flex items-center justify-center px-6 py-3 font-medium text-white border border-white/30 rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:bg-white/10"
           style={{ cursor: 'none' }}
         >
-          <span className="relative z-10 tracking-widest uppercase text-sm">Begin the Quiz</span>
-          <div className="absolute inset-0 h-full w-full bg-gradient-to-r from-gray-100 to-white/90 opacity-0 group-hover:opacity-100 transition duration-500"></div>
+          <span className="relative z-10 tracking-widest uppercase text-sm">General Quiz</span>
+        </a>
+
+        <a 
+          href="/quiz.html?tab=assignment" 
+          className="group relative inline-flex items-center justify-center px-6 py-3 font-medium text-white border border-white/30 rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:bg-white/10"
+          style={{ cursor: 'none' }}
+        >
+          <span className="relative z-10 tracking-widest uppercase text-sm">Assignment Quiz</span>
+        </a>
+
+        <a 
+          href="/quiz.html?tab=flashcards" 
+          className="group relative inline-flex items-center justify-center px-6 py-3 font-medium text-white border border-white/30 rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:bg-white/10"
+          style={{ cursor: 'none' }}
+        >
+          <span className="relative z-10 tracking-widest uppercase text-sm">Flashcards</span>
+        </a>
+
+        <a 
+          href="/quiz.html?tab=notes" 
+          className="group relative inline-flex items-center justify-center px-6 py-3 font-medium text-white border border-white/30 rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:bg-white/10"
+          style={{ cursor: 'none' }}
+        >
+          <span className="relative z-10 tracking-widest uppercase text-sm">Notes</span>
         </a>
       </div>
 

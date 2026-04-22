@@ -939,10 +939,13 @@
 
   <script src="https://unpkg.com/lucide@latest"></script>
   <script src="questions.js"></script>
+  <script src="assignment_questions.js"></script>
   <script src="study_materials.js"></script>
   <script>
     // ── State ──────────────────────────────────────────────────────────────────
     let pool = [], current = [], idx = 0, score = 0, history = [], selTopics = new Set(), selWeeks = new Set(), mode = 'topic';
+    let quizTab = 'general';
+    let activeQuestions = [];
 
     // ── Week metadata ─────────────────────────────────────────────────────────
     const WEEK_INFO = {
@@ -961,7 +964,31 @@
     };
 
     // ── Boot ───────────────────────────────────────────────────────────────────
-    window.onload = () => { buildTopicGrid(); };
+    window.onload = () => {
+      const params = new URLSearchParams(window.location.search);
+      quizTab = params.get('tab') || 'general';
+      
+      const btns = document.querySelector('.action-btns');
+      if (btns) {
+          btns.innerHTML = '';
+          if (quizTab === 'general' || quizTab === 'assignment') {
+              btns.innerHTML = `<button class="btn-start" onclick="startQuiz()">Quiz <i data-lucide="play" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>`;
+          } else if (quizTab === 'flashcards') {
+              btns.innerHTML = `<button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startFlashcards()">Flashcards <i data-lucide="layers" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>`;
+          } else if (quizTab === 'notes') {
+              btns.innerHTML = `<button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startNotes()">Notes <i data-lucide="book-open" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>`;
+          }
+      }
+
+      if (quizTab === 'assignment') {
+        activeQuestions = typeof ASSIGNMENT_QUESTIONS !== 'undefined' ? ASSIGNMENT_QUESTIONS : [];
+        document.querySelector('.mode-toggle').style.display = 'none';
+        setMode('week');
+      } else {
+        activeQuestions = typeof QUESTIONS !== 'undefined' ? QUESTIONS : [];
+        setMode('topic'); 
+      }
+    };
 
     function setMode(m) {
       mode = m;
@@ -974,14 +1001,14 @@
     function buildTopicGrid() {
       const grid = document.getElementById('topic-grid');
       const topics = {};
-      QUESTIONS.forEach(q => {
+      activeQuestions.forEach(q => {
         if (!topics[q.topic]) topics[q.topic] = { icon: q.topicIcon, count: 0 };
         topics[q.topic].count++;
       });
       grid.innerHTML = '';
       const all = document.createElement('div');
       all.className = 'tc sel'; all.dataset.topic = '__all__';
-      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Topics</div><div class="tq">${QUESTIONS.length} questions</div>`;
+      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Topics</div><div class="tq">${activeQuestions.length} questions</div>`;
       all.onclick = () => toggleTopic(all, '__all__');
       grid.appendChild(all);
       selTopics.add('__all__');
@@ -1000,11 +1027,11 @@
       grid.innerHTML = '';
       // Count questions per week
       const weekCounts = {};
-      QUESTIONS.forEach(q => { weekCounts[q.week] = (weekCounts[q.week] || 0) + 1; });
+      activeQuestions.forEach(q => { weekCounts[q.week] = (weekCounts[q.week] || 0) + 1; });
       // All weeks card
       const all = document.createElement('div');
       all.className = 'tc sel'; all.dataset.week = '__all__';
-      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Weeks</div><div class="tq">${QUESTIONS.length} questions</div>`;
+      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Weeks</div><div class="tq">${activeQuestions.length} questions</div>`;
       all.onclick = () => toggleWeek(all, '__all__');
       grid.appendChild(all);
       selWeeks.add('__all__');
@@ -1048,7 +1075,7 @@
     }
 
     function getFilteredQuestions() {
-      let filtered = [...QUESTIONS];
+      let filtered = [...activeQuestions];
       if (mode === 'topic') {
         if (!selTopics.has('__all__')) filtered = filtered.filter(q => selTopics.has(q.topic));
       } else {
@@ -1098,12 +1125,12 @@
       document.getElementById('expl').className = 'expl';
       document.getElementById('btn-next').className = 'btn-next';
       // Shuffle options: create index array, shuffle it, track new correct index
-      const order = [0,1,2,3].sort(() => Math.random() - .5);
+      const order = Array.from({ length: q.opts.length }, (_, i) => i).sort(() => Math.random() - 0.5);
       const shuffledOpts = order.map(i => q.opts[i]);
       const shuffledAns = order.indexOf(q.ans);
       const optsEl = document.getElementById('opts');
       optsEl.innerHTML = '';
-      const labels = ['A', 'B', 'C', 'D'];
+      const labels = ['A', 'B', 'C', 'D', 'E', 'F'];
       shuffledOpts.forEach((o, i) => {
         const btn = document.createElement('button');
         btn.className = 'opt';
