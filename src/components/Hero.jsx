@@ -19,7 +19,7 @@ export default function Hero() {
         </h1>
       </div>
 
-      <div className="mt-16 relative flex flex-row items-center justify-center gap-4 w-full z-20">
+      <div className="mt-16 relative flex flex-row flex-wrap items-center justify-center gap-4 w-full px-4 z-20">
         <a 
           href="/quiz.html?tab=general" 
           className="group relative inline-flex items-center justify-center px-6 py-3 font-medium text-white border border-white/30 rounded-full overflow-hidden transition duration-500 hover:scale-[1.02] hover:bg-white/10"
