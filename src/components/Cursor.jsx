@@ -24,7 +24,7 @@ export default function Cursor() {
       gsap.to(cursorRef.current, {
         x: mouseX,
         y: mouseY,
-        duration: 0.6,
+        duration: 0.05,
         ease: "power2.out"
       });
     };
@@ -43,11 +43,11 @@ export default function Cursor() {
     <>
       <div 
         ref={cursorRef} 
-        className="fixed top-0 left-0 w-8 h-8 rounded-full border border-white/50 mix-blend-difference pointer-events-none z-[100] transform -translate-x-1/2 -translate-y-1/2 will-change-transform"
+        className="fixed top-0 left-0 w-8 h-8 rounded-full border-2 border-slate-900/80 bg-white/10 backdrop-blur-[2px] pointer-events-none z-[9999] transform -translate-x-1/2 -translate-y-1/2 will-change-transform"
       ></div>
       <div 
         ref={dotRef} 
-        className="fixed top-0 left-0 w-[4px] h-[4px] bg-white rounded-full mix-blend-difference pointer-events-none z-[100] transform -translate-x-1/2 -translate-y-1/2 will-change-transform"
+        className="fixed top-0 left-0 w-[6px] h-[6px] bg-[#111] shadow-[0_0_5px_rgba(255,255,255,0.8)] rounded-full pointer-events-none z-[10000] transform -translate-x-1/2 -translate-y-1/2 will-change-transform"
       ></div>
     </>
   );
