@@ -7,6 +7,23 @@
     <title>temp_vite_app</title>
   </head>
   <body>
+    <style>
+      #yt-loader { position: fixed; top: 0; left: 0; height: 3px; background: black; z-index: 999999; width: 0%; opacity: 0; transition: width 0.2s ease, opacity 0.4s ease; box-shadow: 0 0 10px black; pointer-events: none; }
+    </style>
+    <div id="yt-loader"></div>
+    <script>
+      window.startLoader = function() {
+        const el = document.getElementById('yt-loader'); if(!el) return;
+        el.style.opacity = '1'; el.style.transition = 'width 0.2s ease, opacity 0.1s ease';
+        el.style.width = '15%'; setTimeout(() => { if(el.style.width !== '100%') el.style.width = '60%'; }, 200);
+      };
+      window.finishLoader = function() {
+        const el = document.getElementById('yt-loader'); if(!el) return;
+        el.style.width = '100%'; setTimeout(() => { el.style.opacity = '0'; setTimeout(()=>el.style.width='0', 400); }, 300);
+      }
+      document.addEventListener('click', (e) => { const a = e.target.closest('a'); if (a && a.href && a.target !== '_blank') window.startLoader(); });
+      window.addEventListener('load', () => setTimeout(window.finishLoader, 100));
+    </script>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

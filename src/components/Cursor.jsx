@@ -6,6 +6,13 @@ export default function Cursor() {
   const dotRef = useRef(null);
 
   useEffect(() => {
+    const isTouch = window.matchMedia("(pointer: coarse)").matches || ('ontouchstart' in window) || (navigator.maxTouchPoints > 0);
+    if (isTouch) {
+      if (cursorRef.current) cursorRef.current.style.display = 'none';
+      if (dotRef.current) dotRef.current.style.display = 'none';
+      return;
+    }
+
     document.documentElement.style.cursor = 'none';
 
     let mouseX = window.innerWidth / 2;

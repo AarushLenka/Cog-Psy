@@ -812,6 +812,8 @@
     .note-e { font-size: 0.95rem; color: var(--muted); line-height: 1.6; }
 
     @media (max-width: 768px) {
+      * { cursor: auto !important; }
+      .custom-cursor, .custom-cursor-dot { display: none !important; }
       .screen { padding: 1rem; }
       .qcard, .tc { padding: 1.2rem; }
       .opt { padding: .7rem 1rem; }
@@ -832,6 +834,25 @@
 </head>
 
 <body>
+  <!-- YOUTUBE LOADER -->
+  <style>
+    #yt-loader { position: fixed; top: 0; left: 0; height: 3px; background: black; z-index: 999999; width: 0%; opacity: 0; transition: width 0.2s ease, opacity 0.4s ease; box-shadow: 0 0 10px black; pointer-events: none; }
+  </style>
+  <div id="yt-loader"></div>
+  <script>
+    window.startLoader = function() {
+      const el = document.getElementById('yt-loader'); if(!el) return;
+      el.style.opacity = '1'; el.style.transition = 'width 0.2s ease, opacity 0.1s ease';
+      el.style.width = '15%'; setTimeout(() => { if(el.style.width !== '100%') el.style.width = '60%'; }, 200);
+    };
+    window.finishLoader = function() {
+      const el = document.getElementById('yt-loader'); if(!el) return;
+      el.style.width = '100%'; setTimeout(() => { el.style.opacity = '0'; setTimeout(()=>el.style.width='0', 400); }, 300);
+    }
+    document.addEventListener('click', (e) => { const a = e.target.closest('a'); if (a && a.href && a.target !== '_blank') window.startLoader(); });
+    window.addEventListener('load', () => setTimeout(window.finishLoader, 100));
+  </script>
+
   <!-- INJECTED FLUID AESTHETICS -->
   <div class="noise-overlay"></div>
   <div class="custom-cursor"></div>
@@ -1289,7 +1310,12 @@
     }
 
     function goHome() { show('home'); }
-    function show(id) { document.querySelectorAll('.screen').forEach(s => s.classList.remove('active')); document.getElementById(id).classList.add('active'); }
+    function show(id) { 
+      if (typeof window.startLoader === 'function') window.startLoader();
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active')); 
+      document.getElementById(id).classList.add('active'); 
+      if (typeof window.finishLoader === 'function') setTimeout(window.finishLoader, 100);
+    }
   </script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
