@@ -48,14 +48,16 @@
     body { cursor: none; }
     .custom-cursor {
       position: fixed; top: 0; left: 0; width: 32px; height: 32px;
-      border-radius: 50%; border: 1px solid rgba(255,255,255,0.5);
-      mix-blend-mode: difference; pointer-events: none; z-index: 100;
+      border-radius: 50%; border: 2px solid rgba(17, 17, 17, 0.8);
+      background: rgba(255,255,255,0.1); backdrop-filter: blur(2px);
+      pointer-events: none; z-index: 9999;
       transform: translate(-50%, -50%); will-change: transform;
     }
     .custom-cursor-dot {
-      position: fixed; top: 0; left: 0; width: 4px; height: 4px;
-      background: white; border-radius: 50%;
-      mix-blend-mode: difference; pointer-events: none; z-index: 100;
+      position: fixed; top: 0; left: 0; width: 6px; height: 6px;
+      background: #111; border-radius: 50%;
+      box-shadow: 0 0 5px rgba(255,255,255,0.8);
+      pointer-events: none; z-index: 10000;
       transform: translate(-50%, -50%); will-change: transform;
     }
     .blob-bg-container {
@@ -307,6 +309,9 @@
       border-radius: 20px;
       font-size: .82rem;
       color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
     }
 
     .badge span {
@@ -828,17 +833,17 @@
     <span class="logo-icon"><i data-lucide="brain-circuit" style="width:68px;height:68px;stroke-width:1.5;"></i></span>
     <h1>Cognitive Psychology Quiz</h1>
     <p class="subtitle">250 questions across 14 topics & 12 weeks of cognitive science</p>
+    <div class="action-btns" style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-bottom:2rem;margin-top:1.5rem">
+      <button class="btn-start" onclick="startQuiz()">Start <i data-lucide="play" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>
+      <button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startFlashcards()">Flashcards <i data-lucide="layers" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>
+      <button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startNotes()">Notes <i data-lucide="book-open" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>
+    </div>
+
     <div class="mode-toggle">
       <button class="mode-btn active" id="mode-topic" onclick="setMode('topic')"><i data-lucide="book-open" style="width:16px;height:16px;margin-bottom:-2px"></i> By Topic</button>
       <button class="mode-btn" id="mode-week" onclick="setMode('week')"><i data-lucide="calendar" style="width:16px;height:16px;margin-bottom:-2px"></i> By Week</button>
     </div>
     <div class="topic-grid" id="topic-grid"></div>
-
-    <div class="action-btns" style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-top:2rem">
-      <button class="btn-start" onclick="startQuiz()">Quiz <i data-lucide="play" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>
-      <button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startFlashcards()">Flashcards <i data-lucide="layers" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>
-      <button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startNotes()">Notes <i data-lucide="book-open" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>
-    </div>
   </div>
   <!-- QUIZ -->
   <div id="quiz" class="screen">
@@ -972,7 +977,7 @@
       if (btns) {
           btns.innerHTML = '';
           if (quizTab === 'general' || quizTab === 'assignment') {
-              btns.innerHTML = `<button class="btn-start" onclick="startQuiz()">Quiz <i data-lucide="play" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>`;
+              btns.innerHTML = `<button class="btn-start" onclick="startQuiz()">Start <i data-lucide="play" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>`;
           } else if (quizTab === 'flashcards') {
               btns.innerHTML = `<button class="btn-start" style="background:var(--surface2);color:var(--text);border:1px solid var(--border)" onclick="startFlashcards()">Flashcards <i data-lucide="layers" style="width:18px;height:18px;margin-bottom:-3px;margin-left:4px"></i></button>`;
           } else if (quizTab === 'notes') {
@@ -984,6 +989,9 @@
         activeQuestions = typeof ASSIGNMENT_QUESTIONS !== 'undefined' ? ASSIGNMENT_QUESTIONS : [];
         document.querySelector('.mode-toggle').style.display = 'none';
         setMode('week');
+      } else if (quizTab === 'flashcards' || quizTab === 'notes') {
+        activeQuestions = typeof STUDY_MATERIALS !== 'undefined' ? STUDY_MATERIALS : [];
+        setMode('topic');
       } else {
         activeQuestions = typeof QUESTIONS !== 'undefined' ? QUESTIONS : [];
         setMode('topic'); 
@@ -999,6 +1007,7 @@
     }
 
     function buildTopicGrid() {
+      const countLabel = quizTab === 'flashcards' ? 'flashcards' : (quizTab === 'notes' ? 'notes' : 'questions');
       const grid = document.getElementById('topic-grid');
       const topics = {};
       activeQuestions.forEach(q => {
@@ -1008,14 +1017,14 @@
       grid.innerHTML = '';
       const all = document.createElement('div');
       all.className = 'tc sel'; all.dataset.topic = '__all__';
-      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Topics</div><div class="tq">${activeQuestions.length} questions</div>`;
+      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Topics</div><div class="tq">${activeQuestions.length} ${countLabel}</div>`;
       all.onclick = () => toggleTopic(all, '__all__');
       grid.appendChild(all);
       selTopics.add('__all__');
       Object.entries(topics).forEach(([name, { icon, count }]) => {
         const d = document.createElement('div');
         d.className = 'tc'; d.dataset.topic = name;
-        d.innerHTML = `<div class="ti">${icon}</div><div class="tn">${name}</div><div class="tq">${count} questions</div>`;
+        d.innerHTML = `<div class="ti">${icon}</div><div class="tn">${name}</div><div class="tq">${count} ${countLabel}</div>`;
         d.onclick = () => toggleTopic(d, name);
         grid.appendChild(d);
       });
@@ -1023,6 +1032,7 @@
     }
 
     function buildWeekGrid() {
+      const countLabel = quizTab === 'flashcards' ? 'flashcards' : (quizTab === 'notes' ? 'notes' : 'questions');
       const grid = document.getElementById('topic-grid');
       grid.innerHTML = '';
       // Count questions per week
@@ -1031,15 +1041,17 @@
       // All weeks card
       const all = document.createElement('div');
       all.className = 'tc sel'; all.dataset.week = '__all__';
-      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Weeks</div><div class="tq">${activeQuestions.length} questions</div>`;
+      all.innerHTML = `<div class="ti"><i data-lucide="layers"></i></div><div class="tn">All Weeks</div><div class="tq">${activeQuestions.length} ${countLabel}</div>`;
       all.onclick = () => toggleWeek(all, '__all__');
       grid.appendChild(all);
       selWeeks.add('__all__');
       for (let w = 1; w <= 12; w++) {
+        const count = weekCounts[w] || 0;
+        if (count === 0 && (quizTab === 'flashcards' || quizTab === 'notes')) continue;
         const info = WEEK_INFO[w];
         const d = document.createElement('div');
         d.className = 'tc'; d.dataset.week = String(w);
-        d.innerHTML = `<div class="ti">${info.icon}</div><div class="tn">Week ${String(w).padStart(2, '0')}</div><div class="tq" style="margin-bottom:.3rem">${info.label}</div><div class="tq">${weekCounts[w] || 0} questions</div>`;
+        d.innerHTML = `<div class="ti">${info.icon}</div><div class="tn">Week ${String(w).padStart(2, '0')}</div><div class="tq" style="margin-bottom:.3rem">${info.label}</div><div class="tq">${count} ${countLabel}</div>`;
         d.onclick = () => toggleWeek(d, String(w));
         grid.appendChild(d);
       }
@@ -1149,7 +1161,9 @@
       if (!correct) btns[correctIdx].classList.add('correct');
       if (correct) score++;
       document.getElementById('lscore').textContent = score;
-      showExpl(q);
+      if (quizTab !== 'assignment') {
+        showExpl(q);
+      }
       // Store the original option index for review display
       history.push({ q, chosen: order[i], correct });
       document.getElementById('btn-next').className = 'btn-next show';
@@ -1172,7 +1186,7 @@
       else if (pct >= 60) { emoji = '<i data-lucide="thumbs-up" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Good Effort!'; sub = 'Keep reviewing and you\'ll master it.'; }
       else if (pct >= 40) { emoji = '<i data-lucide="book-open" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Keep Studying!'; sub = 'Review the lectures and try again.'; }
       else { emoji = '<i data-lucide="battery-charging" style="width:64px;height:64px;stroke-width:1"></i>'; title = 'Don\'t Give Up!'; sub = 'Go back to the transcripts and try again.'; }
-      document.getElementById('remoji').textContent = emoji;
+      document.getElementById('remoji').innerHTML = emoji;
       document.getElementById('rtitle').textContent = title;
       document.getElementById('rsub').textContent = sub + ' (' + pct + '%)';
       const sc = document.getElementById('scircle');
@@ -1285,7 +1299,7 @@
       mouseY = e.clientY;
       
       gsap.to(dot, { x: mouseX, y: mouseY, duration: 0 });
-      gsap.to(cursor, { x: mouseX, y: mouseY, duration: 0.6, ease: "power2.out" });
+      gsap.to(cursor, { x: mouseX, y: mouseY, duration: 0.05, ease: "power2.out" });
     });
 
     gsap.set([cursor, dot], { x: mouseX, y: mouseY, xPercent: -50, yPercent: -50 });
