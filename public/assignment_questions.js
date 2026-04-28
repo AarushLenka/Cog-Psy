@@ -1,4 +1,4 @@
-const ASSIGNMENT_QUESTIONS = [
+﻿const ASSIGNMENT_QUESTIONS = [
   {
     "week": 1,
     "topic": "Introduction to Cognitive Psychology",
@@ -765,7 +765,7 @@ const ASSIGNMENT_QUESTIONS = [
       "In the same amount of time as “Siamese cats give birth to live young”",
       "Slower than “Siamese cats have tails”"
     ],
-    "ans": 0,
+    "ans": 1,
     "expl": "",
     "topicIcon": "<i data-lucide='book-open'></i>"
   },
